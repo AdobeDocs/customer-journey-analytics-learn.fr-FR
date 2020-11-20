@@ -8,7 +8,7 @@ activity: use
 doc-type: overview
 team: Technical Marketing
 translation-type: tm+mt
-source-git-commit: fb299e69c1a95322711a8fdd10bb8f96bc466d29
+source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 17%
@@ -31,17 +31,14 @@ Customer Journey Analytics vous permet de contrôler la manière dont vous con
 
 * **[Déplacer les segments Adobe Analytics vers le Customer Journey Analytics (vidéo)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
-   <br>
    *Découvrez des conseils sur la recréation de vos segments Adobe Analytics dans le Customer Journey Analytics*
 
 * **[Déplacer les mesures calculées d’Adobe Analytics vers Customer Journey Analytics (vidéo)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
-   <br>
    *Découvrez des conseils pour recréer vos mesures calculées Adobe Analytics dans le Customer Journey Analytics*
 
 * **[Création de Filtres entre Canaux (vidéo)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-   <br>
    *Créer des filtres dans un Customer Journey Analytics qui utilisent plusieurs sources de données et plusieurs canaux*
 
 ## Sélection du personnel
