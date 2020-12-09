@@ -1,17 +1,18 @@
 ---
 title: Création de Filtres entre Canaux dans le Customer Journey Analytics
-description: Cette vidéo explique comment créer des filtres dans un Customer Journey Analytics qui utilisent plusieurs sources de données et plusieurs canaux. Vous verrez également comment ces filtres peuvent être combinés dans les visualisations.
+description: Cette vidéo explique comment créer des filtres dans un Customer Journey Analytics d'Adobe qui utilisent plusieurs sources de données et plusieurs canaux. Vous verrez également comment ces filtres peuvent être combinés dans les visualisations.
 feature: customer journey analytics
 topics: null
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 31983.jpg
 kt: 3962
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '107'
 ht-degree: 7%
 
 ---
