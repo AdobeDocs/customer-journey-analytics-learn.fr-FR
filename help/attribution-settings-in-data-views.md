@@ -1,30 +1,31 @@
 ---
 title: Paramètres d’attribution dans les Vues de données dans le Customer Journey Analytics
 description: Lors de la configuration des Vues de données dans l’Adobe Customer Journey Analytics, vous pouvez choisir les paramètres d’attribution afin de contrôler la manière dont les dimensions et les mesures fonctionneront ensemble. Cette vidéo vous guide tout au long des valeurs par défaut, des options et de la façon dont les paramètres d’attribution des mesures et des dimensions interagissent.
-feature: customer journey analytics
+feature: Vues des données
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30185.jpg
 kt: 3959
+role: Administrateur
+level: Début
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 1%
+source-wordcount: '128'
+ht-degree: 3%
 
 ---
 
 
-# [!UICONTROL Paramètres d’attribution] dans les Vues [!UICONTROL de] données dans le Customer Journey Analytics
+#  Paramètres d’attribution dans les  [!UICONTROL visionneuses de ] données dans le Customer Journey Analytics
 
-Lors de la configuration des Vues [!UICONTROL de] données dans le Customer Journey Analytics, vous pouvez choisir les paramètres d’ [!UICONTROL attribution] afin de contrôler la manière dont [!UICONTROL les dimensions] et les [!UICONTROL mesures fonctionneront ensemble. ] Cette vidéo vous guide tout au long des paramètres par défaut, des options et de la façon dont les paramètres d’ [!UICONTROL attribution] de la mesure [!UICONTROL et de la] dimension  interagissent.
+Lors de la configuration des [!UICONTROL Vues de données] dans le Customer Journey Analytics, vous pouvez choisir les paramètres [!UICONTROL attribution] afin de contrôler comment [!UICONTROL les dimensions] et [!UICONTROL les mesures] fonctionneront ensemble. Cette vidéo vous guide tout au long des valeurs par défaut, des options et de l’interaction entre les paramètres [!UICONTROL metric] et [!UICONTROL dimension] [!UICONTROL attribution].
 
 >[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
 
 ## Ressources supplémentaires
 
 * [Configuration de base pour les Vues de données](basic-configuration-for-data-views.md)
-* [Customer Journey Analytics - Documentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/configure-dataviews.html)de configuration des Vues de données.
+* [Customer Journey Analytics - Documentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/configure-dataviews.html) de configuration des Vues de données.
