@@ -1,27 +1,28 @@
 ---
 title: Création de Filtres entre Canaux dans le Customer Journey Analytics
 description: Cette vidéo explique comment créer des filtres dans un Customer Journey Analytics d'Adobe qui utilisent plusieurs sources de données et plusieurs canaux. Vous verrez également comment ces filtres peuvent être combinés dans les visualisations.
-feature: customer journey analytics
+feature: Filtres
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31983.jpg
 kt: 3962
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 7%
+source-wordcount: '111'
+ht-degree: 8%
 
 ---
 
 
-# Création de [!UICONTROL Filtres] de Canal croisé dans le Customer Journey Analytics
+# Créer des Filtres [!UICONTROL de Canal croisé] dans le Customer Journey Analytics
 
-Dans cette vidéo, nous abordons la création de [!UICONTROL filtres] dans un Customer Journey Analytics qui utilisent plusieurs sources de données et plusieurs canaux. Vous verrez également comment ces [!UICONTROL filtres] peuvent être combinés dans les [!UICONTROL visualisations].
+Dans cette vidéo, nous abordons la manière de créer des [!UICONTROL filtres] dans un Customer Journey Analytics qui utilisent plusieurs sources de données et plusieurs canaux. Vous verrez également comment ces [!UICONTROL filtres] peuvent être combinés dans [!UICONTROL visualisations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12)
 
-Pour plus d’informations sur le Customer Journey Analytics, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html).
+Pour plus d&#39;informations sur le Customer Journey Analytics, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html).
