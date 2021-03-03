@@ -1,27 +1,28 @@
 ---
 title: Créer des visualisations sur plusieurs Canaux dans le Customer Journey Analytics
 description: Dans cette vidéo, découvrez comment Adobe Customer Journey Analytics vous permet de créer des visualisations qui incluent des données de plusieurs jeux de données sur plusieurs canaux, y compris la fusion des données par visiteur.
-feature: customer journey analytics
+feature: Visualisations
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 8%
+source-wordcount: '94'
+ht-degree: 9%
 
 ---
 
 
-# Création de [!UICONTROL visualisations] sur plusieurs Canaux dans le Customer Journey Analytics
+# Créer des [!UICONTROL visualisations] Canal croisé dans le Customer Journey Analytics
 
-In this video, discover how Customer Journey Analytics allows you to create [!UICONTROL visualizations] that include data from multiple [!UICONTROL datasets] across multiple channels, including merging the data per [!UICONTROL visitor].
+Dans cette vidéo, découvrez comment le Customer Journey Analytics vous permet de créer des [!UICONTROL visualisations] qui incluent des données provenant de plusieurs [!UICONTROL jeux de données] sur plusieurs canaux, y compris la fusion des données par [!UICONTROL visiteur].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12)
 
-Pour plus d’informations sur le Customer Journey Analytics, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html).
+Pour plus d&#39;informations sur le Customer Journey Analytics, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html).
