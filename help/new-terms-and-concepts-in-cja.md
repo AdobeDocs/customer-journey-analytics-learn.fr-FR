@@ -1,19 +1,20 @@
 ---
 title: Nouveaux termes et concepts dans le Customer Journey Analytics
 description: Dans cette vidéo, nous aborderons les termes et concepts clés de l'Customer Journey Analytics d'Adobe, comment ils correspondent aux termes et concepts de Adobe Analytics, et où ils peuvent être vus dans l'interface de Customer Journey Analytics.
-feature: customer journey analytics
+feature: Concepts de base de l’espace de travail CJA
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32113.jpg
 kt: 3960
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '115'
+ht-degree: 6%
 
 ---
 
@@ -24,4 +25,4 @@ Dans cette vidéo, nous aborderons les termes et concepts clés en Customer Jour
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12)
 
-Pour plus d’informations sur le Customer Journey Analytics, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html).
+Pour plus d&#39;informations sur le Customer Journey Analytics, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html).
