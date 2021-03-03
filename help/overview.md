@@ -1,29 +1,29 @@
 ---
-title: Customer Journey Analytics Vidéos et tutoriels
+title: Vidéos et Tutorials Customer Journey Analytics
 description: Collection de vidéos et de didacticiels pour Adobe Customer Journey Analytics.
-feature: overview
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 17%
+source-wordcount: '308'
+ht-degree: 14%
 
 ---
 
 
 # Aperçu
 
-Bienvenue sur le site [!DNL Customer Journey Analytics] Tutorials.  L’utilisation de ces didacticiels et de la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html) vous permettra de mieux comprendre comment utiliser Adobe Analytics pour obtenir plus rapidement que jamais des informations sur les clients à canaux multiples.  Pour démarrer,
+Bienvenue sur le site Tutorials [!DNL Customer Journey Analytics].  L&#39;utilisation de ces didacticiels ainsi que de la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html) vous permettra de mieux comprendre comment utiliser Adobe Analytics pour obtenir plus rapidement que jamais des informations client sur plusieurs canaux.  Pour démarrer,
 
-* Consultez la **&quot;Nouveautés&quot;** ci-dessous pour découvrir les nouveautés
-* **Le personnel sélectionne** certains de nos contenus préférés
-* Explorez le contenu par rubrique et sous-rubrique dans le volet de navigation de **gauche**
-* Utilisez le champ de **recherche** situé en haut de la page si vous savez ce que vous recherchez
+* Consultez la section **&quot;Nouveautés&quot;** ci-dessous pour consulter les dernières nouveautés
+* **Le personnel** de Pickshlight met en évidence certains de nos contenus préférés
+* Explorez le contenu par rubrique et sous-rubrique dans le **volet de navigation de gauche**
+* Utilisez le champ **search** en haut de la page si vous savez ce que vous recherchez
 
 Customer Journey Analytics vous permet de contrôler la manière dont vous connectez vos données en ligne et hors ligne dans Analysis Workspace sur n’importe quel ID de client commun, ce qui vous permet enfin d’effectuer une attribution, une segmentation, un flux, un abandon, etc. dans l’ensemble de vos données client.
 
