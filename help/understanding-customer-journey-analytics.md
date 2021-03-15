@@ -9,13 +9,13 @@ doc-type: presentation
 team: Technical Marketing
 thumbnail: 30090.jpg
 kt: 3953
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: « Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable »
+level: Débutant
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 90%
+ht-degree: 97%
 
 ---
 
