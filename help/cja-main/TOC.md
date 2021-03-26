@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutoriel
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: 83f374ef8303144f358221b656fd0480b009559d
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 21%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 
@@ -30,3 +30,7 @@ ht-degree: 21%
 + [Introduction aux Filtres](/help/introduction-to-filters-in-cja.md)
 + [Création de Filtres entre Canaux](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [Déplacer les segments Adobe Analytics vers le Customer Journey Analytics](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
++ Plans directeurs {#blueprints}
+   + [Plan directeur Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
+   + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
+   + [Scénario d&#39;Analyse de l&#39;Parcours de défection d&#39;appel](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
