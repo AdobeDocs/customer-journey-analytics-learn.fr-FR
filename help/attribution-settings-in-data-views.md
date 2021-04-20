@@ -1,15 +1,15 @@
 ---
 title: Paramètres d’attribution dans les Vues de données dans le Customer Journey Analytics
 description: Lors de la configuration des Vues de données dans l’Adobe Customer Journey Analytics, vous pouvez choisir les paramètres d’attribution afin de contrôler la manière dont les dimensions et les mesures fonctionneront ensemble. Cette vidéo vous guide tout au long des valeurs par défaut, des options et de la façon dont les paramètres d’attribution des mesures et des dimensions interagissent.
-feature: Vues des données
+feature: Data Views
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30185.jpg
 kt: 3959
-role: Administrateur
-level: Début
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

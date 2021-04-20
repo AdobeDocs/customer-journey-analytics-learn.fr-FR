@@ -1,15 +1,15 @@
 ---
 title: Présentation des mesures calculées dans le Customer Journey Analytics
 description: Dans cette vidéo, nous allons découvrir les bases de la création de mesures calculées dans l'Customer Journey Analytics d'Adobe.
-feature: Mesures
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31787.jpg
 kt: 4448
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

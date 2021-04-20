@@ -1,15 +1,15 @@
 ---
 title: Configuration de base pour les Vues de données dans Customer Journey Analytics
 description: Une fois que vous avez créé une connexion dans Adobe Customer Journey Analytics à des jeux de données dans Adobe Experience Platform, vous devez créer une Vue de données pour cette connexion, afin que vous puissiez utiliser les données dans Analysis Workspace on Platform. Cette vidéo vous guide tout au long de la configuration de base d’une Vue de données.
-feature: Vues des données
+feature: Data Views
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30186.jpg
 kt: 3958
-role: Administrateur
-level: Début
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
