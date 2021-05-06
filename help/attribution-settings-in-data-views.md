@@ -1,31 +1,24 @@
 ---
-title: Paramètres d’attribution dans les Vues de données dans le Customer Journey Analytics
-description: Lors de la configuration des Vues de données dans l’Adobe Customer Journey Analytics, vous pouvez choisir les paramètres d’attribution afin de contrôler la manière dont les dimensions et les mesures fonctionneront ensemble. Cette vidéo vous guide tout au long des valeurs par défaut, des options et de la façon dont les paramètres d’attribution des mesures et des dimensions interagissent.
-feature: Data Views
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 30185.jpg
-kt: 3959
+title: Paramètres d’attribution dans les Vues de données
+description: Chaque dimension doit avoir un paramètre d’attribution (pour déterminer quelle valeur reçoit le crédit pour la conversion) et un paramètre d’expiration (combien de temps la valeur persiste), de sorte que le système sache comment affecter la valeur aux valeurs de dimension. De même, et en travaillant ensemble, les mesures doivent également disposer d’un modèle d’attribution et d’une fenêtre de recherche. Cette vidéo vous guide tout au long de la définition de ces paramètres essentiels.
+feature: Vues des données
+topic: Administration
 role: Administrator
 level: Beginner
+doc-type: feature video
+thumbnail: 30185.jpg
+kt: 3959
+exl-id: 9a1663ec-3fd1-4899-971f-11e42cea94fc
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 3%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
+#  AttributionSettings dans les Vues  [!UICONTROL de données]
 
-#  Paramètres d’attribution dans les  [!UICONTROL visionneuses de ] données dans le Customer Journey Analytics
-
-Lors de la configuration des [!UICONTROL Vues de données] dans le Customer Journey Analytics, vous pouvez choisir les paramètres [!UICONTROL attribution] afin de contrôler comment [!UICONTROL les dimensions] et [!UICONTROL les mesures] fonctionneront ensemble. Cette vidéo vous guide tout au long des valeurs par défaut, des options et de l’interaction entre les paramètres [!UICONTROL metric] et [!UICONTROL dimension] [!UICONTROL attribution].
+Chaque dimension doit avoir un paramètre d’attribution (pour déterminer quelle valeur reçoit le crédit pour la conversion) et un paramètre d’expiration (combien de temps la valeur persiste), de sorte que le système sache comment affecter la valeur aux valeurs de dimension. De même, et en travaillant ensemble, les mesures doivent également disposer d’un modèle d’attribution et d’une fenêtre de recherche. Cette vidéo vous guide tout au long de la définition de ces paramètres essentiels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
-
-## Ressources supplémentaires
-
-* [Configuration de base pour les Vues de données](basic-configuration-for-data-views.md)
-* [Customer Journey Analytics - Documentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/configure-dataviews.html) de configuration des Vues de données.
