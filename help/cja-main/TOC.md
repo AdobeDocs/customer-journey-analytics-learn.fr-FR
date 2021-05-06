@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 22%
+source-wordcount: '175'
+ht-degree: 20%
 
 ---
 
@@ -21,9 +21,12 @@ ht-degree: 22%
 + [Connexion aux sources de données dans la plate-forme](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
 + [Configuration de base pour les Vues de données](/help/basic-configuration-for-data-views.md)
 + [Configuration des paramètres des composants dans les Vues de données](/help/configuring-component-settings-in-data-views.md)
++ [Paramètres de type de composant dans les Vues de données](/help/component-type-settings-in-data-views.md)
 + [Formatage des mesures dans les Vues de données](/help/formatting-metrics-in-data-views.md)
++ [Inclure ou exclure des valeurs de mesure dans les Vues de données](/help/include-or-exclude-metric-values-in-data-views.md)
 + [Création de intervalles de valeurs dans les Vues de données pour l’analyse](/help/creating-value-buckets-in-data-views-for-analysis.md)
 + [Inclure ou exclure des valeurs de dimension dans les Vues de données](/help/include-or-exclude-dimension-values-in-data-views.md)
++ [Configurer les options Aucune valeur dans les Vues de données](/help/configure-no-value-options-in-data-views.md)
 + [Paramètres d’attribution dans les Vues de données](/help/attribution-settings-in-data-views.md)
 + [Comprendre comment la CJA utilise l’identité](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [Ajouter les données antérieures à une connexion existante](/help/add-past-data-to-an-existing-connection-in-cja.md)
