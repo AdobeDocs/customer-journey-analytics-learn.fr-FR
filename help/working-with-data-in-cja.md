@@ -1,28 +1,27 @@
 ---
-title: Utilisation des données dans le Customer Journey Analytics
+title: Utilisation des données dans Customer Journey Analytics
 description: Dans cette vidéo, vous découvrirez la manière dont les schémas de jeux de données sont traduits en variables au sein d’Adobe Customer Journey Analytics (CJA) et comment CJA gère une cardinalité très élevée.
-feature: Connections
+feature: Connexions
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32112.jpg
 kt: 3964
-role: "Data Engineer, Data Architect"
+role: Data Engineer, Data Architect
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 39%
+source-wordcount: '88'
+ht-degree: 42%
 
 ---
 
+# Utilisation des données dans Customer Journey Analytics
 
-# Utilisation des données dans le Customer Journey Analytics
-
-Dans cette vidéo, vous découvrirez comment [!UICONTROL dataset] [!UICONTROL schémas] sont convertis en variables en Customer Journey Analytics (CJA), ainsi que comment CJA gère une cardinalité très élevée.
+Dans cette vidéo, vous découvrirez comment [!UICONTROL jeu de données] [!UICONTROL schémas] sont traduits en variables en Customer Journey Analytics (CJA), ainsi que comment CJA gère une cardinalité très élevée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12)
 
-Pour plus d&#39;informations sur le Customer Journey Analytics, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html).
+Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html).
