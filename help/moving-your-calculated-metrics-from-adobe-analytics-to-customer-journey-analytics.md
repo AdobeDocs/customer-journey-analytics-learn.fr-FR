@@ -1,7 +1,7 @@
 ---
-title: Déplacer vos mesures calculées d’Adobe Analytics vers Customer Journey Analytics
-description: Dans cette vidéo, trouvez des conseils pour recréer vos mesures calculées Adobe Analytics dans le Customer Journey Analytics.
-feature: Metrics
+title: Déplacez vos mesures calculées d’Adobe Analytics vers Customer Journey Analytics
+description: Dans cette vidéo, trouvez des conseils pour recréer vos mesures calculées Adobe Analytics dans Customer Journey Analytics.
+feature: Mesures
 topics: null
 activity: use
 doc-type: feature video
@@ -9,21 +9,20 @@ team: Technical Marketing
 thumbnail: 31788.jpg
 kt: 3966
 topic: Migration
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 12%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
+# Déplacez vos [!UICONTROL mesures calculées] d’Adobe Analytics vers Customer Journey Analytics.
 
-# Déplacez les [!UICONTROL mesures calculées] d&#39;Adobe Analytics vers le Customer Journey Analytics.
-
-Dans cette vidéo, trouvez des conseils pour recréer votre Adobe Analytics [!UICONTROL Mesures calculées] dans le Customer Journey Analytics.
+Dans cette vidéo, trouvez des conseils pour recréer vos [!UICONTROL mesures calculées Adobe Analytics] dans Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12)
 
-Pour plus d&#39;informations sur le Customer Journey Analytics, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html).
+Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics-platform/using/cja-landing.html).
