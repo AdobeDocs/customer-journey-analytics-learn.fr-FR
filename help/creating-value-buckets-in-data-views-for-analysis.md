@@ -1,23 +1,22 @@
 ---
-title: Création de intervalles de valeurs dans les Vues de données pour l’analyse
-description: Lors de la configuration d'une Vue de données dans le Customer Journey Analytics, vous pouvez définir une dimension numérique à regrouper en intervalles définis, de sorte que vous puissiez limiter le nombre d'éléments disponibles pour la table à des plages de nombres (très cool). Cette vidéo vous guide tout au long de la configuration de cette fonction.
+title: Création d’intervalles de valeurs dans les vues de données pour l’analyse
+description: Lors de la configuration d’une vue de données dans Customer Journey Analytics, vous pouvez définir une dimension numérique à regrouper en intervalles définis, de sorte que vous puissiez limiter le nombre d’éléments disponibles pour le tableau à des plages de nombres (très cool). Cette vidéo vous guide tout au long de la configuration de cette fonctionnalité.
 feature: Vues des données
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332864.jpg
 kt: 7587
-translation-type: tm+mt
-source-git-commit: 68ca589a18cea7c1ec30c2446491b8e920e2ebc9
+exl-id: e1126663-afb4-4ba7-b93b-192e990e3000
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
+# Création de compartiments de valeurs dans [!UICONTROL Vues de données] pour analyse
 
-# Création de intervalles de valeurs dans [!UICONTROL Vues de données] pour l&#39;analyse
-
-Lors de la configuration d&#39;une [!UICONTROL Vue de données] dans le Customer Journey Analytics, vous pouvez définir une dimension numérique à regrouper dans des intervalles définis, de sorte que vous puissiez limiter le nombre d&#39;éléments disponibles pour la table à des plages de nombres (très cool). Cette vidéo vous guide tout au long de la configuration de cette fonction.
+Lors de la configuration d’une [!UICONTROL vue de données] dans Customer Journey Analytics, vous pouvez définir une dimension numérique à regrouper en intervalles définis, de sorte que vous puissiez limiter le nombre d’éléments disponibles pour le tableau à des plages de nombres (très cool). Cette vidéo vous guide tout au long de la configuration de cette fonctionnalité.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332864/?quality=12&learn=on)
