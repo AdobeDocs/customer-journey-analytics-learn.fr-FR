@@ -1,7 +1,7 @@
 ---
-title: Déplacement des segments Adobe Analytics vers Customer Journey Analytics
-description: Dans cette vidéo, vous découvrirez des conseils sur la recréation de vos segments Adobe Analytics en tant que "filtres" dans Customer Journey Analytics.
-feature: Filtres
+title: Déplacement de segments Adobe Analytics vers Customer Journey Analytics
+description: Cette vidéo partage des conseils pour vous permettre de recréer vos segments Adobe Analytics sous forme de « filtres » dans Customer Journey Analytics.
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
@@ -13,15 +13,15 @@ role: User
 level: Beginner
 exl-id: b359a509-f920-40d2-978f-983f1b555e86
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 13%
+workflow-type: ht
+source-wordcount: '72'
+ht-degree: 100%
 
 ---
 
-# Déplacer Adobe Analytics [!UICONTROL Segments] vers Customer Journey Analytics
+# Déplacement de [!UICONTROL Segments] Adobe Analytics vers Customer Journey Analytics
 
-Dans cette vidéo, vous découvrirez des conseils pour recréer vos [!UICONTROL segments] Adobe Analytics en tant que &quot;[!UICONTROL filtres]&quot; dans Customer Journey Analytics.
+Cette vidéo partage des conseils pour vous permettre de recréer vos [!UICONTROL segments] Adobe Analytics sous forme de « [!UICONTROL filtres] » dans Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12)
 
