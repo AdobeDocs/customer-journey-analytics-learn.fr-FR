@@ -1,7 +1,7 @@
 ---
-title: Déplacez vos mesures calculées d’Adobe Analytics vers Customer Journey Analytics
+title: Déplacement de vos mesures calculées d’Adobe Analytics vers Customer Journey Analytics
 description: Dans cette vidéo, trouvez des conseils pour recréer vos mesures calculées Adobe Analytics dans Customer Journey Analytics.
-feature: Mesures
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -13,15 +13,15 @@ role: User
 level: Beginner
 exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 13%
+workflow-type: ht
+source-wordcount: '72'
+ht-degree: 100%
 
 ---
 
-# Déplacez vos [!UICONTROL mesures calculées] d’Adobe Analytics vers Customer Journey Analytics.
+# Déplacement de vos [!UICONTROL mesures calculées] d’Adobe Analytics vers Customer Journey Analytics
 
-Dans cette vidéo, trouvez des conseils pour recréer vos [!UICONTROL mesures calculées Adobe Analytics] dans Customer Journey Analytics.
+Dans cette vidéo, trouvez des conseils pour recréer vos [!UICONTROL mesures calculées] Adobe Analytics dans Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12)
 
