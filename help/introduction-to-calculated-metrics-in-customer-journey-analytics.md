@@ -1,7 +1,7 @@
 ---
 title: Présentation des mesures calculées dans Customer Journey Analytics
-description: Dans cette vidéo, nous examinerons les principes de base de la création de mesures calculées dans Adobe Customer Journey Analytics.
-feature: Mesures
+description: Cette vidéo explore les notions de base de la création de mesures calculées dans Adobe Customer Journey Analytics.
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -12,15 +12,15 @@ role: User
 level: Beginner
 exl-id: a44b1f31-005e-4f44-b941-60e44aeea605
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 13%
+workflow-type: ht
+source-wordcount: '67'
+ht-degree: 100%
 
 ---
 
-# Présentation de [!UICONTROL Mesures calculées] en Customer Journey Analytics
+# Présentation des [!UICONTROL Mesures calculées] dans Customer Journey Analytics
 
-Dans cette vidéo, nous examinerons les principes de base de la création de [!UICONTROL mesures calculées] en Customer Journey Analytics.
+Cette vidéo explore les notions de base de la création de [!UICONTROL Mesures calculées] dans Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12)
 
