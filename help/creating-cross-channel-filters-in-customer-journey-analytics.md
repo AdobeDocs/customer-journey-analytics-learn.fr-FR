@@ -1,7 +1,7 @@
 ---
 title: Création de filtres cross-canal dans Customer Journey Analytics
-description: Dans cette vidéo, nous discutons de la création de filtres dans Adobe Customer Journey Analytics qui utilisent plusieurs sources de données et plusieurs canaux. Vous verrez également comment ces filtres peuvent être combinés dans les visualisations.
-feature: Filtres
+description: Cette vidéo aborde la création de filtres qui utilisent plusieurs sources de données et plusieurs canaux dans Adobe Customer Journey Analytics. Vous découvrirez également comment ces filtres peuvent être combinés dans des visualisations.
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
@@ -12,15 +12,15 @@ role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 8%
+workflow-type: ht
+source-wordcount: '107'
+ht-degree: 100%
 
 ---
 
-# Créer des [!UICONTROL filtres cross-canal] en Customer Journey Analytics
+# Création de [!UICONTROL Filtres] cross-canal dans Customer Journey Analytics
 
-Dans cette vidéo, nous discutons de la création de [!UICONTROL filtres] en Customer Journey Analytics qui utilisent plusieurs sources de données et plusieurs canaux. Vous verrez également comment ces [!UICONTROL filtres] peuvent être combinés dans les [!UICONTROL visualisations].
+Cette vidéo aborde la création de [!UICONTROL filtres] qui utilisent plusieurs sources de données et plusieurs canaux dans Customer Journey Analytics. Vous découvrirez également comment ces [!UICONTROL filtres] peuvent être combinés dans des [!UICONTROL visualisations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12)
 
