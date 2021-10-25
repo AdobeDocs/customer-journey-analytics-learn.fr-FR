@@ -1,6 +1,6 @@
 ---
 title: Attribution cross-canal dans Customer Journey Analytics
-description: Dans cette vidéo, nous montrerons comment utiliser les visualisations pour afficher l’attribution (accorder du crédit) entre les canaux dans Adobe Customer Journey Analytics.
+description: Cette vidéo décrit comment utiliser les visualisations pour afficher l’attribution (donner du crédit) entre les canaux dans Adobe Customer Journey Analytics.
 feature: Attribution
 topics: null
 activity: use
@@ -12,15 +12,15 @@ role: User
 level: Beginner
 exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 11%
+workflow-type: ht
+source-wordcount: '75'
+ht-degree: 100%
 
 ---
 
-# Cross-Channel [!UICONTROL Attribution] en Customer Journey Analytics
+# [!UICONTROL Attribution] cross-canal dans Customer Journey Analytics
 
-Dans cette vidéo, nous montrerons comment vous pouvez utiliser les [!UICONTROL visualisations] pour afficher [!UICONTROL l’attribution] (accorder du crédit) entre les canaux en Customer Journey Analytics.
+Cette vidéo décrit comment utiliser les [!UICONTROL visualisations] pour afficher l’[!UICONTROL attribution] (donner du crédit) entre les canaux dans Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12)
 
