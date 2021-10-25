@@ -1,7 +1,7 @@
 ---
 title: Ajout de données antérieures à une connexion existante dans Customer Journey Analytics
-description: Dans cette vidéo, découvrez comment ajouter des données antérieures (données auxquelles un horodatage précédent est associé) à votre analyse de Customer Journey Analytics d’Adobe existante via des connexions et des vues de données.
-feature: Connexions
+description: Dans cette vidéo, découvrez comment ajouter des données antérieures (données associées à un horodatage antérieur) à vos analyses Adobe Customer Journey Analytics existantes via des connexions et des vues de données.
+feature: Connections
 topics: null
 activity: understand
 doc-type: technical video
@@ -12,15 +12,15 @@ role: Data Engineer, Data Architect
 level: Beginner
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 9%
+workflow-type: ht
+source-wordcount: '99'
+ht-degree: 100%
 
 ---
 
-# Ajouter des données antérieures à une [!UICONTROL connexion] existante dans le Customer Journey Analytics
+# Ajout de données antérieures à une [!UICONTROL connexion] existante dans Customer Journey Analytics
 
-Dans cette vidéo, découvrez comment ajouter des données antérieures (données auxquelles un horodatage précédent est associé) à votre analyse de Customer Journey Analytics existante via [!UICONTROL connexions] et [!UICONTROL vues de données].
+Dans cette vidéo, découvrez comment ajouter des données antérieures (données associées à un horodatage antérieur) à vos analyses Customer Journey Analytics existantes via des [!UICONTROL connexions] et des [!UICONTROL vues de données].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?quality=12)
 
