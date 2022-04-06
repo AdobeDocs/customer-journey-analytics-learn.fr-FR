@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c5cec9481dac39aec768ce0edd3cb9e6970eeb25
+source-git-commit: d95dbede2c578221c94b2234d7b219a0ea3d985f
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 96%
+source-wordcount: '193'
+ht-degree: 93%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 96%
 + [Architecture et intégrations](/help/architecture-and-integrations-of-cja.md)
 + [Utiliser les données](/help/working-with-data-in-cja.md)
 + [Connexion aux sources de données dans Platform](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
++ [Expérience des détails des connexions dans CJA](/help/connections-details-experience-in-cja.md)
 + [Présentation de la configuration des vues de données pour CJA](/help/overview-of-configuring-data-views-for-cja.md)
 + [Configuration de base des vues de données](/help/basic-configuration-for-data-views.md)
 + [Configuration des paramètres de composant dans les vues de données](/help/configuring-component-settings-in-data-views.md)
