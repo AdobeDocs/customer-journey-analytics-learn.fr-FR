@@ -8,10 +8,10 @@ level: Beginner
 doc-type: feature video
 thumbnail: 343460.jpg
 kt: 10446
-source-git-commit: e1b0d4a0722b56f6fb08f4fe3bb5c02cc95d357c
+source-git-commit: 81b0cd1dd46f9b5dd10fbe468e9067a6d866be38
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 7%
+source-wordcount: '93'
+ht-degree: 11%
 
 ---
 
@@ -26,4 +26,4 @@ Pour plus dʼinformations, consultez la [documentation](https://experienceleague
 
 ## Plus d’aide sur cette fonctionnalité
 
-[Aider les cadres à accéder aux fiches d’évaluation mobiles](create-a-mobile-scorecard.md)
+[Créer une carte de performance mobile](create-a-mobile-scorecard.md)
