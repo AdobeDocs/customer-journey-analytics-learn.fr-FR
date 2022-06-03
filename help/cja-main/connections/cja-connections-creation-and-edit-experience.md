@@ -1,23 +1,23 @@
 ---
-title: Création et modification de connexions
-description: Une nouvelle expérience de Connexions avec de nouvelles fonctionnalités qui permet aux clients d’activer la période de conservation des données en continu, d’activer et de demander des données de renvoi en fonction des événements... (Les descriptions doivent comporter entre 60 et 160 caractères).
+title: Expérience Création et modification de connexions
+description: Une nouvelle expérience Connexions avec de nouvelles fonctionnalités qui permettent aux clients d’activer une fenêtre dynamique de conservation des données, d’activer et de demander des données de renvoi en fonction des événements… (Les descriptions doivent comporter entre 60 et 160 caractères).
 feature: Connections
 topic: Administration
 role: Admin
 level: Beginner
 kt: 10439
 thumbnail: 343044.jpeg
-source-git-commit: 11d4cd63b860488380777b911a75394b0e311565
-workflow-type: tm+mt
+exl-id: e78d17ec-9d62-4ef5-a1b9-05604869c070
+source-git-commit: 2a39da3c21e39cdffb159aa152f646e00a1327ca
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
+# Expérience Création et modification de connexions
 
-# Création et modification de connexions
-
-Une nouvelle expérience de Connexions avec de nouvelles fonctionnalités qui permet aux clients d’activer la fenêtre de rétention des données en continu, d’activer et de demander des données de renvoi en fonction de l’horodatage des événements et d’importer des données existantes par jeu de données.
+Une nouvelle expérience Connexions avec de nouvelles fonctionnalités qui permettent aux clients d’activer une fenêtre dynamique de conservation des données, d’activer et de demander des données de renvoi en fonction de l’horodatage des événements et d’importer des données existantes par jeu de données.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343044/?quality=12&learn=on)
 
