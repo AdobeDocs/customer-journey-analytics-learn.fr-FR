@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
    + [Comprendre Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nouveaux termes et concepts](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Page de destination de Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
-+ Architecture {#architecture}
++ Architecture  {#architecture}
    + [Architecture et intégrations](architecture/architecture-and-integrations-of-cja.md)
 + Préparation et planification des données {#data-prep}
    + [Utiliser les données](data-prep/working-with-data-in-cja.md)
@@ -35,7 +35,7 @@ ht-degree: 95%
    + [Configurer des paramètres de composant dans les vues de données](data-views/configuring-component-settings-in-data-views.md)
    + [Paramètres de type de composant dans les vues de données](data-views/component-type-settings-in-data-views.md)
    + [Formater des mesures dans les vues de données](data-views/formatting-metrics-in-data-views.md)
-   + [Configuration des paramètres du composant de sous-chaîne](data-views/configure-substring-component-settings.md)
+   + [Configurer les paramètres du composant de sous-chaîne](data-views/configure-substring-component-settings.md)
    + [Inclure ou exclure des valeurs de mesure dans les vues de données](data-views/include-or-exclude-metric-values-in-data-views.md)
    + [Créer des intervalles de valeurs dans les vues de données pour l’analyse](data-views/creating-value-buckets-in-data-views-for-analysis.md)
    + [Inclure ou exclure des valeurs de dimension dans les vues de données](data-views/include-or-exclude-dimension-values-in-data-views.md)
