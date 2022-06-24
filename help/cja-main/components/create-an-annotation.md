@@ -1,6 +1,6 @@
 ---
-title: Création d’une annotation
-description: Découvrez comment créer une annotation dans vos projets de Customer Journey Analytics lorsque des événements tels que les lancements de campagne, les problèmes de données et les jours fériés se produisent. Cette fonction informe vos utilisateurs des écarts de mesures sur ces dates ou plages de dates.
+title: Créer une annotation
+description: Découvrez comment créer une annotation dans vos projets de Customer Journey Analytics lors d’événements tels que les lancements de campagne, les problèmes de données ou les jours fériés Cette fonction informe vos utilisateurs des variances de mesures sur ces dates ou périodes.
 feature: Components
 topic: Collaboration
 role: Admin, User
@@ -8,16 +8,16 @@ level: Beginner
 doc-type: feature video
 thumbnail: 343742.jpg
 kt: 10538
-source-git-commit: adb3395e3d4a3e33aaa62c691b54e3a0ec61e6d7
-workflow-type: tm+mt
+exl-id: eaf2f29e-7eb3-4d79-85b7-e2bcb38523c7
+source-git-commit: 32a69007f26e718700078e9798b5a21a44ac7143
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Créer une annotation
 
-# Création d’une annotation
-
-Découvrez comment créer une [!UICONTROL annotation] dans votre [!DNL Customer Journey Analytics] projets lorsque des événements tels que les lancements de campagne, des problèmes de données et des jours fériés se produisent. Cette fonction informe vos utilisateurs des écarts de mesures sur ces dates ou plages de dates.
+Découvrez comment créer une [!UICONTROL annotation] dans vos projets [!DNL Customer Journey Analytics] lors d’événements comme les lancements de campagne, les problèmes de données et les jours fériés. Cette fonction informe vos utilisateurs des variances de mesures sur ces dates ou périodes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343742/?quality=12&learn=on)
