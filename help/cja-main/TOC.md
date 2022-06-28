@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
-workflow-type: ht
-source-wordcount: '265'
-ht-degree: 100%
+source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
+workflow-type: tm+mt
+source-wordcount: '273'
+ht-degree: 97%
 
 ---
 
@@ -51,8 +51,10 @@ ht-degree: 100%
       + [Créer un filtre rapide](components/filters/create-a-quick-filter.md)
       + [Créer des filtres cross-canal](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Déplacer des segments Adobe Analytics vers Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-   + Annotations {#annotations}
-      + [Créer une annotation](components/create-an-annotation.md)
++ Panneaux {#panels}
+   + [Configuration du panneau des éléments suivant et précédent](panels/configure-next-previous-item-panel.md)
++ Annotations {#annotations}
+   + [Créer une annotation](components/create-an-annotation.md)
 + Tableaux de bord (cartes de performance) {#dashboards}
    + [Créer une carte de performance mobile](dashboards/create-a-mobile-scorecard.md)
    + [Aider les cadres à accéder aux cartes de performance mobiles](dashboards/assist-executives-to-access-mobile-scorecards.md)
