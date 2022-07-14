@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 29687.jpg
 kt: 10421
 exl-id: 74998f1c-c2d2-425f-b662-58781c825bee
-source-git-commit: f54c2c2095d0230c6e48f6664a795358eae3ce6a
-workflow-type: ht
-source-wordcount: '142'
-ht-degree: 100%
+source-git-commit: a12cb54b55644bfaffb50eb5ca7313050b5db402
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,4 +22,4 @@ Dans cette vidéo, nous montrons comment utiliser les fonctionnalités de prépa
 
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
-Pour plus d’informations, reportez-vous à la section [Documentation du connecteur source Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=fr) et la section [Documentation des fonctions de préparation des données](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=fr).
+Pour plus d’informations, reportez-vous à la section [Documentation du connecteur source Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=fr) et la section [Documentation des fonctions de préparation des données](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html).
