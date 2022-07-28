@@ -4,20 +4,19 @@ product: customer journey analytics
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 type: Tutorial
-solution-title: Customer Journey Analytics
+solution-title: Customer Journey Analytics
 solution-hub-url: https://docs.adobe.com/content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 getting-started-title: Experience League
 getting-started-url: https://experienceleague.adobe.com/
-tutorials-title: Tutoriels
+tutorials-title: Tutorials
 tutorials-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
-git-repo: https://git.corp.adobe.com/AdobeDocs/customer-journey-analytics-learn.fr-FR
+git-repo: https://github.com/AdobeDocs/customer-journey-analytics-learn.fr-FR
 index: true
 mini-toc-levels: 2
-translation-type: tm+mt
 source-git-commit: 83183e084aa4998cde4cbbbd13458c18a0c171fe
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 86%
+source-wordcount: '111'
+ht-degree: 96%
 
 ---
 
