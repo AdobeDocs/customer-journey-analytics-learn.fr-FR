@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
+source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -51,6 +51,11 @@ ht-degree: 100%
       + [Créer un filtre rapide](components/filters/create-a-quick-filter.md)
       + [Créer des filtres cross-canal](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Déplacer des segments Adobe Analytics vers Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + Mesures calculées {#calc-metrics}
+      + [Présentation des mesures calculées dans Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
+      + [Déplacer vos mesures calculées d’Adobe Analytics vers Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
+   + Audiences {#audiences}
+      + [Publication dʼaudiences](components/audiences/audience-publishing-for-cja.md)
 + Panneaux {#panels}
    + [Configurer le panneau des éléments suivants et précédents](panels/configure-next-previous-item-panel.md)
 + Annotations {#annotations}
@@ -58,9 +63,6 @@ ht-degree: 100%
 + Tableaux de bord (cartes de performance) {#dashboards}
    + [Créer une carte de performance mobile](dashboards/create-a-mobile-scorecard.md)
    + [Aider les cadres à accéder aux cartes de performance mobiles](dashboards/assist-executives-to-access-mobile-scorecards.md)
-+ Mesures calculées {#calc-metrics}
-   + [Présentation des mesures calculées dans Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
-   + [Déplacer vos mesures calculées d’Adobe Analytics vers Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
 + Exportation {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder pour Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
