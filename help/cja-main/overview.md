@@ -11,7 +11,7 @@ exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
 source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -53,7 +53,7 @@ Customer Journey Analytics vous permet de contrôler la manière dont vous con
 
 <div id="staff-picks-section">
 
-## Sélections du personnel
+## Sélection du personnel
 
 <table>
 <tr>
