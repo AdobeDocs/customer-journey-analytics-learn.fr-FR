@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
    + [Comprendre Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nouveaux termes et concepts](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Page de destination de Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
-+ Architecture {#architecture}
++ Architecture  {#architecture}
    + [Architecture et intégrations](architecture/architecture-and-integrations-of-cja.md)
 + Préparation et planification des données {#data-prep}
    + [Utiliser les données](data-prep/working-with-data-in-cja.md)
