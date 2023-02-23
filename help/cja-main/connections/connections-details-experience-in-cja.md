@@ -1,26 +1,23 @@
 ---
-title: Expérience Détails des connexions dans CJA
-description: Bienvenue dans l’expérience Détails des connexions, qui vous permet de vérifier le statut des jeux de données de votre connexion, ainsi que celui du processus d’ingestion.
+title: Affichage, dépannage et modification des paramètres de connexion
+description: Le Gestionnaire de connexions vous permet de vérifier l’état de l’ingestion des jeux de données de votre connexion. Cette interface vous informe également lorsque des données sont disponibles pour commencer l’analyse dans Workspace.
 feature: Connections
 topic: Administration
+doc-type: feature video
 role: Admin
 level: Beginner
-kt: 10221
 thumbnail: 342097.jpg
+kt: 10221
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
-source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
-workflow-type: ht
-source-wordcount: '137'
-ht-degree: 100%
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 0%
 
 ---
 
-# Expérience Détails des connexions dans CJA
+# Affichage, dépannage et modification des paramètres de connexion
 
-Bienvenue dans l’expérience Détails des connexions, qui vous permet de vérifier le statut des jeux de données de votre connexion et du processus d’ingestion.
+Le Gestionnaire de connexions vous permet de vérifier l’état de l’ingestion des jeux de données de votre connexion. Cette interface vous informe également lorsque des données sont disponibles pour commencer l’analyse dans Workspace. Découvrez comment identifier les incohérences de données dues à une mauvaise configuration, gérer les dates d’importation des données et supprimer les jeux de données des connexions.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
-
-Cette vérification du statut vous permet de savoir quand vos données sont disponibles afin que vous puissiez vous rendre dans Analysis Workspace et lancer lʼanalyse. En outre, il vous permet d’identifier les écarts de données liés à de mauvaises configurations. Y a-t-il des lignes ignorées ou supprimées ? Si oui, combien d’entre elles ont été ignorées ou supprimées, et quand ? Avez-vous mal configuré les connexions et causé l’omission de données dans CJA ?
-
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=fr).
