@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 95%
    + [Utiliser les données](data-prep/working-with-data-in-cja.md)
    + [Ingérer, mapper et transformer des données Adobe Analytics](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 + Connexions {#connections}
-   + [Connexion aux sources de données Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
-   + [Affichage, dépannage et modification des paramètres de connexion](connections/connections-details-experience-in-cja.md)
+   + [Se connecter aux sources de données Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+   + [Afficher, résoudre les problèmes et modifier les paramètres de connexion](connections/connections-details-experience-in-cja.md)
    + [Ajouter des données antérieures à une connexion existante](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + Identification des visiteurs {#visitor-id}
    + [Comprendre l’utilisation de l’identité par CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
