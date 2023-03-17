@@ -11,14 +11,14 @@ thumbnail: 32549.jpg
 kt: 3965
 last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: efed2704898d311c1de059721eeb076c7aa941e2
+source-git-commit: 308ad876b73b0d8d8e3efc5fafe068630e0a6a1d
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 7%
 
 ---
 
-# Ajouter de nouvelles données à une connexion [!UICONTROL Connexion] en Customer Journey Analytics
+# Ajout de nouvelles données à une connexion dans Customer Journey Analytics
 
 Tirez davantage parti de votre analyse en ajoutant de nouvelles données provenant d’autres canaux à une connexion de Customer Journey Analytics. De plus, vous devez comprendre les exigences de la fusion de ces nouvelles données et les répercussions sur les analyses et les rapports qui sont traitées à l’aide des paramètres de configuration.
 
