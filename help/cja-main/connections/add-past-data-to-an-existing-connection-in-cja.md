@@ -12,9 +12,9 @@ kt: 3965
 last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
 source-git-commit: 308ad876b73b0d8d8e3efc5fafe068630e0a6a1d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Tirez davantage parti de votre analyse en ajoutant de nouvelles données provena
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12)
 
-Pour plus d’informations sur l’Analyse cross-canal, voir [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=fr).
+Pour plus d’informations sur l’analytique cross-canal, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=fr).
