@@ -11,8 +11,8 @@ kt: 3963
 role: User
 level: Beginner
 exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: ht
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Cette vidéo décrit comment utiliser les [!UICONTROL visualisations] pour afficher l’[!UICONTROL attribution] (donner du crédit) entre les canaux dans Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12&learn=on)
 
 Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=fr).

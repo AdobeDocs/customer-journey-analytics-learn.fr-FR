@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 87e4a545a36eb09dc35168bf8784d66b6a56e326
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '310'
 ht-degree: 98%
 
 ---
@@ -42,6 +42,9 @@ ht-degree: 98%
    + [Lier des dimensions dans les vues de données](data-views/binding-dimensions-in-data-views.md)
    + [Configurer des options Aucune valeur dans les vues de données](data-views/configure-no-value-options-in-data-views.md)
    + [Paramètres d’attribution dans les vues de données](data-views/attribution-settings-in-data-views.md)
++ Analysis Workspace {#analysis-workspace}
+   + Projet Espace de travail {#workspace-projects}
+      + [Aperçu d’Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
 + Visualisations {#visualizations}
    + [Créer des visualisations cross-canal](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Attribution cross-canal](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -76,3 +79,4 @@ ht-degree: 98%
    + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=fr)
    + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html?lang=fr)
    + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=fr#customer-journey-analytics)
+
