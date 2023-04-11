@@ -4,8 +4,8 @@ user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/over
 type: Tutorial
 source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 98%
    + [Ajouter de nouvelles données à une connexion](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + Identification des visiteurs {#visitor-id}
    + [Comprendre l’utilisation de l’identité par CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
-   + [Configuration d’un ID de personne manquant](visitor-id/configure-missing-person-id.md)
+   + [Configurer un ID de personne manquant](visitor-id/configure-missing-person-id.md)
 + Vues de données {#data-views}
    + [Présentation de la configuration des vues de données pour CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Configuration de base des vues de données](data-views/basic-configuration-for-data-views.md)
