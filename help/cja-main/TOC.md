@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 0a7d2eb934bfde453916a8211f1dc7b717bb5fe5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '314'
+ht-degree: 98%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 0%
 + Analysis Workspace {#analysis-workspace}
    + Projet Espace de travail {#workspace-projects}
       + [Aperçu d’Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+      + [Création d’un projet](analysis-workspace/workspace-projects/build-a-new-project.md)
 + Visualisations {#visualizations}
    + [Créer des visualisations cross-canal](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Attribution cross-canal](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -80,3 +81,6 @@ ht-degree: 0%
    + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html?lang=fr)
    + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=fr#customer-journey-analytics)
 
+
+
+[def]: analysis-workspace/workspace-projects/build-a-new-project.md
