@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
+source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '327'
+ht-degree: 95%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
    + [Architecture et intégrations](architecture/architecture-and-integrations-of-cja.md)
 + Préparation et planification des données {#data-prep}
    + [Utiliser les données](data-prep/working-with-data-in-cja.md)
-   + [Ingérer, mapper et transformer des données Adobe Analytics](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
+   + [Ingérer, mapper et transformer les données Adobe Analytics](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 + Connexions {#connections}
    + [Se connecter aux sources de données Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Afficher, résoudre les problèmes et modifier les paramètres de connexion](connections/connections-details-experience-in-cja.md)
@@ -44,8 +44,8 @@ ht-degree: 0%
    + [Configurer des options Aucune valeur dans les vues de données](data-views/configure-no-value-options-in-data-views.md)
    + [Paramètres d’attribution dans les vues de données](data-views/attribution-settings-in-data-views.md)
 + Analysis Workspace {#analysis-workspace}
-   + Projet Espace de travail {#workspace-projects}
-      + [Aperçu d’Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+   + Projets Workspace {#workspace-projects}
+      + [Aperçu d’Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Créer un nouveau projet](analysis-workspace/workspace-projects/build-a-new-project.md)
 + Visualisations {#visualizations}
    + [Créer des visualisations cross-canal](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
@@ -62,6 +62,8 @@ ht-degree: 0%
       + [Déplacer vos mesures calculées d’Adobe Analytics vers Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + Audiences {#audiences}
       + [Publication dʼaudiences](components/audiences/audience-publishing-for-cja.md)
+   + Dictionnaire de données {#data-dictionary}
+      + [Utiliser le dictionnaire de données](components/data-dictionary/use-data-dictionary.md)
 + Panneaux {#panels}
    + [Configurer le panneau des éléments suivants et précédents](panels/configure-next-previous-item-panel.md)
    + [Utilisation du panneau d’expérimentation](panels/use-the-experimentation-panel.md)
@@ -80,9 +82,6 @@ ht-degree: 0%
       + [Utilisation de la prise en charge des champs de date](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Plans directeurs {#blueprints}
    + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=fr)
-   + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html?lang=fr)
-   + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=fr#customer-journey-analytics)
+   + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html?lang=fr)
+   + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
 
-
-
-[def]: analysis-workspace/workspace-projects/build-a-new-project.md
