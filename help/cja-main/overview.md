@@ -8,7 +8,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
+source-git-commit: afc741e79f6aee13094ab3c3493885ce91c38284
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 100%
@@ -31,16 +31,13 @@ Customer Journey Analytics vous permet de contrôler la manière dont vous con
 ## Nouveautés
 
 * **[Déplacement de segments Adobe Analytics vers Customer Journey Analytics (vidéo)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-
-   *Découvrez des conseils sur la recréation de vos segments Adobe Analytics dans Customer Journey Analytics*
+  *Découvrez des conseils sur la recréation de vos segments Adobe Analytics dans Customer Journey Analytics*
 
 * **[Déplacement de vos mesures calculées d’Adobe Analytics vers Customer Journey Analytics (vidéo)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-
-   *Découvrez des conseils pour recréer vos mesures calculées Adobe Analytics dans Customer Journey Analytics*
+  *Découvrez des conseils pour recréer vos mesures calculées Adobe Analytics dans Customer Journey Analytics*
 
 * **[Création de filtres cross-canal (vidéo)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-
-   *Création de filtres qui utilisent plusieurs sources de données et plusieurs canaux dans Customer Journey Analytics*
+  *Création de filtres qui utilisent plusieurs sources de données et plusieurs canaux dans Customer Journey Analytics*
 
 </div>
 
@@ -84,11 +81,11 @@ Customer Journey Analytics vous permet de contrôler la manière dont vous con
     <p>
   </td>
   <td>
-    <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+    <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
       <img alt="Attribution cross-canal dans Customer Journey Analytics" src="assets/31772.jpg" />
     </a>
     <div>
-      <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+      <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
     <strong>Attribution cross-canal dans Customer Journey Analytics</strong>
     </a>
     </div>
