@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
+source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 74%
+source-wordcount: '434'
+ht-degree: 70%
 
 ---
 
@@ -75,6 +75,18 @@ ht-degree: 74%
       + [Création de filtres déroulants dynamiques](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics - Aperçu](adobe-product-analytics/adobe-product-analytics-overview.md)
++ Analyse guidée {#guided-analysis}
+   + Impact {#impact}
+      + [Analyse de l’impact des versions](guided-analysis/impact/release-impact-analysis.md)
+      + [Première utilisation de l’analyse de l’impact](guided-analysis/impact/first-use-impact-analysis.md)
+   + Entonnoir {#funnel}
+      + [Analyse de friction dans l&#39;entonnoir](guided-analysis/funnel/funnel-friction-analysis.md)
+      + [Analyse des tendances de conversion d’entonnoir](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
+   + Croissance des utilisateurs et des utilisatrices {#user-growth}
+      + [Principale analyse de la croissance des utilisateurs](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [Analyse de la croissance des utilisateurs nets](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + Tendances {#trends}
+      + [Analyse des tendances d’utilisation](guided-analysis/trends/usage-trends-analysis.md)
 + Composants {#components}
    + Filtres (segmentation) {#filters}
       + [Présentation des filtres](components/filters/introduction-to-filters-in-cja.md)
