@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13676
 thumbnail: 3421666.jpeg
-source-git-commit: a4882de82016fe9d52c735e0e12bc084b725c22a
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 9%
@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # Analyse des tendances d’utilisation
 
-Découvrez comment utiliser le **vue d’utilisation** dans Adobe Product Analytics, qui fournit des informations précieuses sur les performances de votre produit ou l’engagement des utilisateurs au fil du temps.
+Découvrez comment utiliser le **vue d’utilisation** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), qui fournit des informations précieuses sur les performances de votre produit ou l’engagement des utilisateurs au fil du temps.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
 

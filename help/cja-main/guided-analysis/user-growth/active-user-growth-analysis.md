@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13677
 thumbnail: 3421667.jpeg
-source-git-commit: a4882de82016fe9d52c735e0e12bc084b725c22a
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 8%
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # Principale analyse de la croissance des utilisateurs
 
-Découvrez comment **principale vue** dans Adobe Product Analytics fournit des informations sur la croissance des utilisateurs au cours d’une période spécifique, fractionnée par de nouveaux utilisateurs, réguliers, réguliers et inactifs.
+Découvrez comment **principale vue** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) fournit des informations sur la croissance des utilisateurs au cours d’une période spécifique, fractionnée par de nouveaux utilisateurs, des utilisateurs réguliers, des utilisateurs réactifs et des utilisateurs inactifs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
