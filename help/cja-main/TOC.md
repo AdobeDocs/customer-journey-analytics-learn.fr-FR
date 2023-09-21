@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
-workflow-type: ht
-source-wordcount: '434'
+source-git-commit: 30445426a634f0a25672da9e8a2a977df35dc014
+workflow-type: tm+mt
+source-wordcount: '440'
 ht-degree: 100%
 
 ---
@@ -112,6 +112,8 @@ ht-degree: 100%
    + Cas dʼutilisation des vues de données {#data-views-use-cases}
       + [Rapports sur les sessions de première et de deuxième exécution](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Utiliser la prise en charge des champs de date](use-cases/data-views-use-cases/leverage-date-field-support.md)
+   + Données complexes {#complex-data}
+      + [Utiliser des tableaux d’objets](use-cases/complex-data/object-arrays-in-cja.md)
 + Plans directeurs {#blueprints}
    + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=fr)
    + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=fr)
