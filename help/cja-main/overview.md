@@ -8,9 +8,9 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: afc741e79f6aee13094ab3c3493885ce91c38284
-workflow-type: ht
-source-wordcount: '298'
+source-git-commit: c26bc63942e9d140eefbb530c441de9eb45d5743
+workflow-type: tm+mt
+source-wordcount: '221'
 ht-degree: 100%
 
 ---
@@ -26,20 +26,6 @@ Bienvenue sur le site dédié aux tutoriels [!DNL Customer Journey Analytics].  
 
 Customer Journey Analytics vous permet de contrôler la manière dont vous connectez vos données en ligne et hors ligne dans Analysis Workspace sur n’importe quel ID de client commun, ce qui vous permet enfin d’effectuer une attribution, une segmentation, un flux, un abandon, etc. sur l’ensemble de votre jeu de données client.
 
-<div id="whats-new-section">
-
-## Nouveautés
-
-* **[Déplacement de segments Adobe Analytics vers Customer Journey Analytics (vidéo)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-  *Découvrez des conseils sur la recréation de vos segments Adobe Analytics dans Customer Journey Analytics*
-
-* **[Déplacement de vos mesures calculées d’Adobe Analytics vers Customer Journey Analytics (vidéo)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-  *Découvrez des conseils pour recréer vos mesures calculées Adobe Analytics dans Customer Journey Analytics*
-
-* **[Création de filtres cross-canal (vidéo)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-  *Création de filtres qui utilisent plusieurs sources de données et plusieurs canaux dans Customer Journey Analytics*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

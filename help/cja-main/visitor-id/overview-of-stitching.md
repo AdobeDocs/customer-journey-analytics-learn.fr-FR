@@ -1,5 +1,5 @@
 ---
-title: Présentation du groupement
+title: Vue d’ensemble du groupement
 description: Avec de nombreuses personnes qui interagissent avec votre contenu sur plusieurs canaux et appareils, il devient important de connecter ces événements non authentifiés à des événements authentifiés. Cela permet une approche plus holistique de la création de rapports et en fin de compte de l’activation. Cette vidéo donne un aperçu rapide du processus de groupement.
 feature: Stitching
 role: Admin, Developer
@@ -9,13 +9,13 @@ duration: 495
 last-substantial-update: 2024-01-10T00:00:00Z
 jira: KT-14766
 thumbnail: 3426814.jpeg
-source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
+exl-id: 19642cfa-bc16-43d5-97bb-c738c3820302
+source-git-commit: 35e9e2baa41bbcd172342ba2f9a485a281c0daef
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 3%
 
 ---
-
 
 # Présentation du regroupement
 
