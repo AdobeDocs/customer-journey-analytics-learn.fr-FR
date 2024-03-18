@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
-workflow-type: ht
-source-wordcount: '435'
-ht-degree: 100%
+source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
+workflow-type: tm+mt
+source-wordcount: '441'
+ht-degree: 97%
 
 ---
 
@@ -79,17 +79,19 @@ ht-degree: 100%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Vue d’ensemble d’Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Analyse guidée {#guided-analysis}
-   + Impact {#impact}
-      + [Analyse d’impact de la nouvelle version](guided-analysis/impact/release-impact-analysis.md)
-      + [Analyse d’impact de la première utilisation](guided-analysis/impact/first-use-impact-analysis.md)
    + Entonnoir {#funnel}
       + [Analyse de friction de l’entonnoir](guided-analysis/funnel/funnel-friction-analysis.md)
       + [Analyse des tendances de conversion d’entonnoir](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
-   + Croissance des utilisateurs et des utilisatrices {#user-growth}
-      + [Analyse de la croissance du nombre actif d’utilisateurs et d’utilisatrices](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [Analyse de la croissance nette du nombre d’utilisateurs et d’utilisatrices](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + Impact {#impact}
+      + [Analyse d’impact de la nouvelle version](guided-analysis/impact/release-impact-analysis.md)
+      + [Analyse d’impact de la première utilisation](guided-analysis/impact/first-use-impact-analysis.md)
    + Tendances {#trends}
       + [Analyse des tendances d’utilisation](guided-analysis/trends/usage-trends-analysis.md)
+   + Flux d’utilisateurs {#user-stream}
+      + [Analyse de la chronologie du flux utilisateur](guided-analysis/user-stream/user-stream-timeline-analysis.md)
+   + Croissance des utilisateurs et des utilisatrices {#user-growth}
+      + [Analyse de la croissance du nombre actif d’utilisateurs et d’utilisatrices](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [Analyse de la croissance des utilisateurs nets](guided-analysis/user-growth/net-user-growth-analysis.md)
 + Composants {#components}
    + Filtres (segmentation) {#filters}
       + [Présentation des filtres](components/filters/introduction-to-filters-in-cja.md)
