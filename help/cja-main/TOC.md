@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3943a9ac0d9797f18882fadaa43ffbbc01727ab
+source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 96%
+source-wordcount: '486'
+ht-degree: 93%
 
 ---
 
@@ -40,6 +40,8 @@ ht-degree: 96%
    + [Configurer des paramètres de composant dans les vues de données](data-views/configuring-component-settings-in-data-views.md)
    + [Paramètres de type de composant dans les vues de données](data-views/component-type-settings-in-data-views.md)
    + [Créer des champs dérivés](data-views/derived-fields-in-cja.md)
+   + [Utilisation de la fonction Math dans les champs dérivés](data-views/use-the-math-function-in-derived-fields.md)
+   + [Utilisation de la fonction Suivant ou Précédent dans les champs dérivés](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [Mettre en forme des mesures dans les vues de données](data-views/formatting-metrics-in-data-views.md)
    + [Configurer les paramètres du composant de sous-chaîne](data-views/configure-substring-component-settings.md)
    + [Inclure ou exclure des valeurs de mesure dans les vues de données](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -81,7 +83,7 @@ ht-degree: 96%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Vue d’ensemble d’Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Analyse guidée {#guided-analysis}
-   + Matrice de fonctionnalités {#feature-matrix}
+   + Matrice des fonctionnalités {#feature-matrix}
       + [Analyse de l’engagement des fonctionnalités](guided-analysis/feature-matrix/feature-engagement.md)
    + Entonnoir {#funnel}
       + [Analyse de friction de l’entonnoir](guided-analysis/funnel/funnel-friction-analysis.md)
@@ -89,7 +91,7 @@ ht-degree: 96%
    + Impact {#impact}
       + [Analyse d’impact de la nouvelle version](guided-analysis/impact/release-impact-analysis.md)
       + [Analyse d’impact de la première utilisation](guided-analysis/impact/first-use-impact-analysis.md)
-   + Rétention {#retention}
+   + Fidélisation {#retention}
       + [Analyse des taux de rétention](guided-analysis/retention/retention-rates-analysis.md)
    + Tendances {#trends}
       + [Analyse des tendances de fréquence](guided-analysis/trends/frequency-trends-analysis.md)
@@ -130,6 +132,6 @@ ht-degree: 96%
    + Données complexes {#complex-data}
       + [Utiliser des tableaux d’objets](use-cases/complex-data/object-arrays-in-cja.md)
 + Plans directeurs {#blueprints}
-   + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=fr){target=_blank}
+   + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=fr){target=_blank}
    + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=fr){target=_blank}
