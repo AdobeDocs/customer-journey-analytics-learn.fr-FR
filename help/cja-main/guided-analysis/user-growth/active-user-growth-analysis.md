@@ -1,6 +1,6 @@
 ---
-title: Principale analyse de la croissance des utilisateurs
-description: Découvrez comment la Principale vue d’Adobe Product Analytics fournit des informations sur la croissance des utilisateurs au cours d’une période spécifique, fractionnée par de nouveaux utilisateurs, réguliers, et inactifs.
+title: Analyse de la croissance du nombre actif d’utilisateurs et d’utilisatrices
+description: Découvrez comment la vue active dans Customer Journey Analytics fournit des informations sur la croissance des utilisateurs au cours d’une période spécifique, divisée par de nouveaux utilisateurs, réguliers, réactifs et inactifs.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13677
 thumbnail: 3421667.jpeg
-source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
+exl-id: a550bffe-de6c-4780-8617-c68226257258
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 8%
+source-wordcount: '72'
+ht-degree: 20%
 
 ---
 
+# Analyse de la croissance du nombre actif d’utilisateurs et d’utilisatrices
 
-# Principale analyse de la croissance des utilisateurs
-
-Découvrez comment **principale vue** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) fournit des informations sur la croissance des utilisateurs au cours d’une période spécifique, fractionnée par de nouveaux utilisateurs, des utilisateurs réguliers, des utilisateurs réactifs et des utilisateurs inactifs.
+Découvrez comment la **vue active** dans Customer Journey Analytics fournit des informations sur la croissance des utilisateurs au cours d’une période spécifique, fractionnée par de nouveaux utilisateurs, des utilisateurs réguliers, et des utilisateurs inactifs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 

@@ -1,6 +1,6 @@
 ---
 title: Analyse de friction dans l'entonnoir
-description: Découvrez comment utiliser la vue de friction dans l’entonnoir dans Adobe Product Analytics, qui fournit une représentation visuelle d’un parcours utilisateur critique dans votre produit et vous aide à déterminer où il y a du friction dans celui-ci.
+description: Découvrez comment utiliser la vue de friction dans l’entonnoir de Customer Journey Analytics, qui fournit une représentation visuelle d’un parcours utilisateur critique dans votre produit et vous aide à déterminer où il y a du friction dans celui-ci.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ last-substantial-update: 2024-07-12T00:00:00Z
 jira: KT-13673
 thumbnail: 3421663.jpeg
 exl-id: 52211513-1cda-4173-aebd-4af752c87604
-source-git-commit: ada35ca9c8ef98d685d28f8e02d6cb7297b0d6f0
+source-git-commit: 1da4a8eabe968138d600337a7b570c8fb72001c7
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 5%
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Analyse de friction dans l&#39;entonnoir
 
-Découvrez comment utiliser la **vue de friction dans l’entonnoir** dans [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), qui fournit une représentation visuelle d’un parcours utilisateur critique dans votre produit et vous aide à déterminer où il y a du friction dans l’entonnoir.
+Découvrez comment utiliser la **vue de friction dans l’entonnoir** en Customer Journey Analytics, qui fournit une représentation visuelle d’un parcours utilisateur critique dans votre produit et vous aide à déterminer où il y a des frictions dedans.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 

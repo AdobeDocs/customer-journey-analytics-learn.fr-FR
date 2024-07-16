@@ -1,6 +1,6 @@
 ---
-title: Analyse des tendances des fréquences
-description: Découvrez comment l’affichage de la fréquence dans Adobe Product Analytics vous permet d’analyser l’engagement des utilisateurs avec les événements de votre produit.
+title: Analyse des tendances de fréquence
+description: Découvrez comment l’affichage de la fréquence dans Customer Journey Analytics vous permet d’analyser l’engagement des utilisateurs avec les événements de votre produit.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,16 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-23T00:00:00Z
 jira: KT-15090
 thumbnail: 3428089.jpeg
-source-git-commit: 80d3b48fa942b143668851ac2707db6ff140055e
+exl-id: 06874ef1-c746-4df5-a476-22286e5f0751
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 13%
+ht-degree: 24%
 
 ---
 
-# Analyse des tendances des fréquences
+# Analyse des tendances de fréquence
 
-En savoir plus sur la manière dont le **vue de fréquence** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) vous permet d’analyser l’engagement des utilisateurs par rapport aux événements de votre produit.
+Découvrez comment la **vue de fréquence** dans Customer Journey Analytics vous permet d’analyser l’engagement des utilisateurs avec les événements de votre produit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 

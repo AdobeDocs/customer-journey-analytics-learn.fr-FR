@@ -1,6 +1,6 @@
 ---
-title: Première utilisation de l’analyse de l’impact
-description: Découvrez comment utiliser la première vue d’utilisation dans Adobe Product Analytics, qui présente une comparaison des performances des indicateurs clés avant et après l’utilisation par un utilisateur d’une fonctionnalité de produit pour la première fois.
+title: Analyse d’impact de la première utilisation
+description: Découvrez comment utiliser la première vue d’utilisation dans Customer Journey Analytics, qui présente une comparaison des performances des indicateurs clés avant et après l’utilisation d’une fonction de produit par un utilisateur pour la première fois.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13671
 thumbnail: 3421661.jpeg
-source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
+exl-id: f6a26a13-4968-4c77-9ee2-22e2c0a8319f
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 7%
+source-wordcount: '84'
+ht-degree: 17%
 
 ---
 
+# Analyse d’impact de la première utilisation
 
-# Première utilisation de l’analyse de l’impact
-
-Découvrez comment utiliser le **première vue d’utilisation** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), qui présente une comparaison des performances des indicateurs clés avant et après l’utilisation par un utilisateur d’une fonctionnalité de produit pour la première fois.
+Découvrez comment utiliser la **première vue d’utilisation** en Customer Journey Analytics, qui présente une comparaison des indicateurs clés effectués avant et après qu’un utilisateur utilise une fonctionnalité de produit pour la première fois.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
