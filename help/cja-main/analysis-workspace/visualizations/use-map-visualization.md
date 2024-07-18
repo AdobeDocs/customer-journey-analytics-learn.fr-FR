@@ -1,6 +1,6 @@
 ---
-title: Utilisation [!UICONTROL map] visualisations dans [!DNL Analysis Workspace] projects
-description: Découvrez comment utiliser le [!UICONTROL map] visualisation dans [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
+title: Utiliser des visualisations [!UICONTROL map] dans des projets  [!DNL Analysis Workspace]
+description: Découvrez comment utiliser la visualisation [!UICONTROL map] dans [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,19 +9,20 @@ kt: 13407
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: dfbeeaeb-118d-4566-9296-b04511b5927e
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Utilisation [!UICONTROL map] visualisations dans [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics]
+# Utiliser des visualisations [!UICONTROL map] dans des projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]
 
-Découvrez comment utiliser le [!UICONTROL map] visualisation dans [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics]. Cette visualisation vous permet de comprendre l’utilisation des clients en fonction de leur emplacement.
+Découvrez comment utiliser la visualisation [!UICONTROL map] dans les projets [!DNL Analysis Workspace] de [!DNL Customer Journey Analytics]. Cette visualisation vous permet de comprendre l’utilisation des clients en fonction de leur emplacement.
 
 >[!NOTE]
 >
->Le [!DNL Analysis Workspace] L’interface utilisateur et les fonctionnalités sont similaires dans l’ensemble des [!DNL Adobe Analytics] et [!DNL Customer Journey Analytics].
+>L’interface utilisateur et les fonctionnalités de [!DNL Analysis Workspace] sont similaires dans [!DNL Adobe Analytics] et [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)

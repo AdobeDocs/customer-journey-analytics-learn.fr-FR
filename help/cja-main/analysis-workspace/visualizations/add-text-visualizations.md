@@ -1,6 +1,6 @@
 ---
-title: Ajouter [!UICONTROL text] visualisations pour [!DNL Analysis Workspace] projects
-description: Découvrez comment ajouter et configurer [!UICONTROL text] visualisations dans [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
+title: Ajoutez des visualisations [!UICONTROL texte] aux  [!DNL Analysis Workspace] projets
+description: Découvrez comment ajouter et configurer des visualisations [!UICONTROL texte] dans [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13426
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: f4ddd3fb-af0b-4594-9cde-81829885b611
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# Ajouter [!UICONTROL text] visualisations pour [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics]
+# Ajoutez des visualisations [!UICONTROL texte] aux projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]
 
-Découvrez comment ajouter et configurer [!UICONTROL text] visualisations dans [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics]. Cette visualisation est utile lorsque vous souhaitez transmettre des préoccupations au sujet des mesures ou ajouter du contexte à d’autres données d’un projet.
+Découvrez comment ajouter et configurer des visualisations [!UICONTROL texte] dans des projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Cette visualisation est utile lorsque vous souhaitez transmettre des préoccupations au sujet des mesures ou ajouter du contexte à d’autres données d’un projet.
 
 >[!NOTE]
 >
->Le [!DNL Analysis Workspace] L’interface utilisateur et les fonctionnalités sont similaires dans l’ensemble des [!DNL Adobe Analytics] et [!DNL Customer Journey Analytics].
+>L’interface utilisateur et les fonctionnalités de [!DNL Analysis Workspace] sont similaires dans [!DNL Adobe Analytics] et [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-Pour plus d’informations sur [!UICONTROL text] visualisations, consultez la page [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html).
+Pour plus d’informations sur les visualisations [!UICONTROL texte], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html).

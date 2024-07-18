@@ -1,6 +1,6 @@
 ---
-title: Utilisation [!UICONTROL summary] visualisations dans [!DNL Analysis Workspace] projects
-description: Découvrez comment utiliser le [!UICONTROL summary] visualisations dans [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
+title: Utiliser des visualisations [!UICONTROL summary] dans des projets  [!DNL Analysis Workspace]
+description: Découvrez comment utiliser les visualisations [!UICONTROL summary] dans [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13425
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 05d3f6c3-55a0-4135-a85d-87ff2695b734
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Utilisation [!UICONTROL summary] visualisations dans [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics]
+# Utiliser des visualisations [!UICONTROL summary] dans des projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]
 
-Découvrez comment utiliser [!UICONTROL summary] visualisations dans [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics]. Ces visualisations sont parfaites pour mettre en évidence un grand nombre d’éléments importants dans un projet.
+Découvrez comment utiliser les visualisations [!UICONTROL summary] dans les projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Ces visualisations sont parfaites pour mettre en surbrillance un grand nombre d’éléments importants dans un projet.
 
 >[!NOTE]
 >
->Le [!DNL Analysis Workspace] L’interface utilisateur et les fonctionnalités sont similaires dans l’ensemble des [!DNL Adobe Analytics] et [!DNL Customer Journey Analytics].
+>L’interface utilisateur et les fonctionnalités de [!DNL Analysis Workspace] sont similaires dans [!DNL Adobe Analytics] et [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-Pour plus d’informations sur [!UICONTROL summary] visualisations, consultez la page [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html).
+Pour plus d’informations sur les visualisations [!UICONTROL summary], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html).
