@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
+source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 93%
    + [Configuration de base des vues de données](data-views/basic-configuration-for-data-views.md)
    + [Configurer des paramètres de composant dans les vues de données](data-views/configuring-component-settings-in-data-views.md)
    + [Paramètres de type de composant dans les vues de données](data-views/component-type-settings-in-data-views.md)
+   + [Création de sources de données de niveau résumé](data-views/create-summary-level-data-sources.md)
    + [Créer des champs dérivés](data-views/derived-fields-in-cja.md)
    + [Utilisation de la fonction Math dans les champs dérivés](data-views/use-the-math-function-in-derived-fields.md)
    + [Utilisation de la fonction Suivant ou Précédent dans les champs dérivés](data-views/use-the-next-previous-function-in-derived-fields.md)
@@ -67,7 +68,6 @@ ht-degree: 93%
       + [Ajouter des visualisations sous forme de graphiques à puces](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [Ajouter des visualisations en anneau](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [Ajouter des visualisations en ligne](analysis-workspace/visualizations/add-line-visualizations.md)
-      + [Utiliser une visualisation des cartes](analysis-workspace/visualizations/use-map-visualization.md)
       + [Utiliser des visualisations récapitulatives](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Ajouter des visualisations de texte](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Utiliser une visualisation en graphique de dispersion](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
