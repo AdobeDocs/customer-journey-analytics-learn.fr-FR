@@ -9,9 +9,9 @@ last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
 exl-id: 725787ed-9dae-427a-bd69-c8f0ccadf2ed
-source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
+source-git-commit: a12aab44755d21c78afb03beba39feddeecfdabc
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '140'
 ht-degree: 100%
 
 ---
@@ -31,6 +31,4 @@ Grâce à Adobe Product Analytics, les équipes peuvent :
 * découvrir des segments d’utilisateurs et d’utilisatrices significatifs à impliquer et à entretenir tout au long de leur parcours avec le produit ;
 * Connectez Analysis Workspace pour une analyse plus approfondie et une collaboration plus étroite avec les analystes
 
-Adobe Product Analytics est un module complémentaire payant pour Customer Journey Analytics. Si votre entreprise souhaite être configurée pour utiliser cette fonctionnalité, contactez l’équipe en charge de votre compte Adobe.
-
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/overview.html?lang=fr).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/guided-analysis/overview).
