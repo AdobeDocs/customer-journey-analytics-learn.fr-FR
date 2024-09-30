@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
+source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '455'
 ht-degree: 92%
 
 ---
@@ -83,24 +83,17 @@ ht-degree: 92%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Vue d’ensemble d’Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Analyse guidée {#guided-analysis}
-   + Matrice des fonctionnalités {#feature-matrix}
-      + [Analyse de l’engagement des fonctionnalités](guided-analysis/feature-matrix/feature-engagement.md)
-   + Entonnoir {#funnel}
-      + [Analyse de friction de l’entonnoir](guided-analysis/funnel/funnel-friction-analysis.md)
-      + [Analyse des tendances de conversion d’entonnoir](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
-   + Impact {#impact}
-      + [Analyse d’impact de la nouvelle version](guided-analysis/impact/release-impact-analysis.md)
-      + [Analyse d’impact de la première utilisation](guided-analysis/impact/first-use-impact-analysis.md)
-   + Fidélisation {#retention}
-      + [Analyse des taux de rétention](guided-analysis/retention/retention-rates-analysis.md)
-   + Tendances {#trends}
-      + [Analyse des tendances de fréquence](guided-analysis/trends/frequency-trends-analysis.md)
-      + [Analyse des tendances d’utilisation](guided-analysis/trends/usage-trends-analysis.md)
-   + Flux d’utilisateurs ou d’utilisatrices {#user-stream}
-      + [Analyse de la chronologie du flux d’utilisateurs ou d’utilisatrices](guided-analysis/user-stream/user-stream-timeline-analysis.md)
-   + Croissance des utilisateurs et des utilisatrices {#user-growth}
-      + [Analyse de la croissance du nombre actif d’utilisateurs et d’utilisatrices](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [Analyse de la croissance nette du nombre d’utilisateurs et d’utilisatrices](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + [Croissance active](guided-analysis/active-growth.md)
+   + [Tendances de conversion](guided-analysis/conversion-trends.md)
+   + [Engagement](guided-analysis/engagement.md)
+   + [Première utilisation](guided-analysis/first-use-impact.md)
+   + [Fréquence](guided-analysis/frequency.md)
+   + [Entonnoir](guided-analysis/funnel.md)
+   + [Croissance nette](guided-analysis/net-growth.md)
+   + [Impact de la nouvelle version](guided-analysis/release-impact.md)
+   + [Rétention](guided-analysis/retention.md)
+   + [Journal](guided-analysis/timeline.md)
+   + [Tendances](guided-analysis/trends.md)
 + Composants {#components}
    + Filtres (segmentation) {#filters}
       + [Présentation des filtres](components/filters/introduction-to-filters-in-cja.md)
