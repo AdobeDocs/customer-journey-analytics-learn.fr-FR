@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 4d8c7a84ef9a70b0a071a776dc531182bad2462a
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '460'
 ht-degree: 92%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 92%
    + Projets Workspace {#workspace-projects}
       + [Aperçu d’Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Créer un nouveau projet](analysis-workspace/workspace-projects/build-a-new-project.md)
+      + Analyse de parcours {#journey-analysis}
+         + [Visualisation du canevas de parcours](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Panneaux {#panels}
       + [Configurer le panneau des éléments suivants et précédents](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Utilisation du panneau d’expérimentation](analysis-workspace/panels/use-the-experimentation-panel.md)
@@ -86,13 +88,13 @@ ht-degree: 92%
    + [Croissance active](guided-analysis/active-growth.md)
    + [Tendances de conversion](guided-analysis/conversion-trends.md)
    + [Engagement](guided-analysis/engagement.md)
-   + [Première utilisation](guided-analysis/first-use-impact.md)
+   + [Impact de la première utilisation](guided-analysis/first-use-impact.md)
    + [Fréquence](guided-analysis/frequency.md)
    + [Entonnoir](guided-analysis/funnel.md)
    + [Croissance nette](guided-analysis/net-growth.md)
-   + [Impact de la nouvelle version](guided-analysis/release-impact.md)
+   + [Impact de la version](guided-analysis/release-impact.md)
    + [Rétention](guided-analysis/retention.md)
-   + [Journal](guided-analysis/timeline.md)
+   + [Chronologie](guided-analysis/timeline.md)
    + [Tendances](guided-analysis/trends.md)
 + Composants {#components}
    + Filtres (segmentation) {#filters}
