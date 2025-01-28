@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4d8c7a84ef9a70b0a071a776dc531182bad2462a
+source-git-commit: 1b3acda2ed8d15b3c7cff5ac0a2848c41fe2b2a8
 workflow-type: tm+mt
-source-wordcount: '460'
-ht-degree: 92%
+source-wordcount: '463'
+ht-degree: 91%
 
 ---
 
@@ -39,9 +39,9 @@ ht-degree: 92%
    + [Configuration de base des vues de données](data-views/basic-configuration-for-data-views.md)
    + [Configurer des paramètres de composant dans les vues de données](data-views/configuring-component-settings-in-data-views.md)
    + [Paramètres de type de composant dans les vues de données](data-views/component-type-settings-in-data-views.md)
-   + [Création de sources de données de niveau résumé](data-views/create-summary-level-data-sources.md)
+   + [Créer des sources de données de niveau résumé](data-views/create-summary-level-data-sources.md)
    + [Créer des champs dérivés](data-views/derived-fields-in-cja.md)
-   + [Utilisation de la fonction Math dans les champs dérivés](data-views/use-the-math-function-in-derived-fields.md)
+   + [Utilisation de la fonction mathématique dans des champs dérivés](data-views/use-the-math-function-in-derived-fields.md)
    + [Utilisation de la fonction Suivant ou Précédent dans les champs dérivés](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [Mettre en forme des mesures dans les vues de données](data-views/formatting-metrics-in-data-views.md)
    + [Configurer les paramètres du composant de sous-chaîne](data-views/configure-substring-component-settings.md)
@@ -56,8 +56,9 @@ ht-degree: 92%
    + Projets Workspace {#workspace-projects}
       + [Aperçu d’Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Créer un nouveau projet](analysis-workspace/workspace-projects/build-a-new-project.md)
-      + Analyse de parcours {#journey-analysis}
-         + [Visualisation du canevas de parcours](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
+      + [Modèles Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
+      + {#journey-analysis} d&#39;analyse de parcours
+         + [Visualisation de la zone de travail du parcours](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Panneaux {#panels}
       + [Configurer le panneau des éléments suivants et précédents](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Utilisation du panneau d’expérimentation](analysis-workspace/panels/use-the-experimentation-panel.md)
@@ -118,8 +119,8 @@ ht-degree: 92%
    + Report Builder {#report-builder}
       + [Report Builder pour Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Planification de classeurs Customer Journey Analytics à l’aide de Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Intégration Experience Platform {#experience-platform-integration}
-   + [Amélioration de la création de rapports pour Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
++ {#experience-platform-integration} d’intégration Experience Platform
+   + [Création de rapports améliorée pour Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Cas d’utilisation {#use-cases}
    + Cas dʼutilisation des vues de données {#data-views-use-cases}
       + [Rapports sur les sessions de première et de deuxième exécution](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
