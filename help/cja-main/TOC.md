@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 1b3acda2ed8d15b3c7cff5ac0a2848c41fe2b2a8
+source-git-commit: c64a6d08fea9782339f939102e0dc3b6ccf56d1c
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '468'
 ht-degree: 91%
 
 ---
@@ -86,6 +86,7 @@ ht-degree: 91%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Vue d’ensemble d’Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Analyse guidée {#guided-analysis}
+   + [Utilisation de l’analyse guidée dans Workspace](guided-analysis/guided-analysis-in-workspace.md)
    + [Croissance active](guided-analysis/active-growth.md)
    + [Tendances de conversion](guided-analysis/conversion-trends.md)
    + [Engagement](guided-analysis/engagement.md)
@@ -119,7 +120,7 @@ ht-degree: 91%
    + Report Builder {#report-builder}
       + [Report Builder pour Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Planification de classeurs Customer Journey Analytics à l’aide de Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ {#experience-platform-integration} d’intégration Experience Platform
++ {#experience-platform-integration} d’intégration d’Experience Platform
    + [Création de rapports améliorée pour Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Cas d’utilisation {#use-cases}
    + Cas dʼutilisation des vues de données {#data-views-use-cases}
@@ -129,5 +130,5 @@ ht-degree: 91%
       + [Utiliser des tableaux d’objets](use-cases/complex-data/object-arrays-in-cja.md)
 + Plans directeurs {#blueprints}
    + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=fr){target=_blank}
-   + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=fr){target=_blank}
+   + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
