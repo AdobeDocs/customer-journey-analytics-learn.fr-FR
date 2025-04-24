@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 91%
+source-wordcount: '473'
+ht-degree: 84%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 91%
    + [Configurer un ID de personne manquant](visitor-id/configure-missing-person-id.md)
    + [Vue d’ensemble du groupement](visitor-id/overview-of-stitching.md)
    + [Vue d’ensemble du groupement basé sur les graphiques](visitor-id/graph-based-stitching-overview.md)
-+ Vues de données {#data-views}
++ Vues des données {#data-views}
    + [Présentation de la configuration des vues de données pour CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Configuration de base des vues de données](data-views/basic-configuration-for-data-views.md)
    + [Configurer des paramètres de composant dans les vues de données](data-views/configuring-component-settings-in-data-views.md)
@@ -54,13 +54,13 @@ ht-degree: 91%
    + [Conversion des devises](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
    + Projets Workspace {#workspace-projects}
-      + [Aperçu d’Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+      + [Vue d’ensemble d’Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Créer un nouveau projet](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Modèles Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
-      + {#journey-analysis} d&#39;analyse de parcours
+      + analyse de parcours {#journey-analysis}
          + [Visualisation de la zone de travail du parcours](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Panneaux {#panels}
-      + [Configurer le panneau des éléments suivants et précédents](analysis-workspace/panels/configure-next-previous-item-panel.md)
+      + [Configurer le panneau de l’élément suivant et précédent](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Utilisation du panneau d’expérimentation](analysis-workspace/panels/use-the-experimentation-panel.md)
    + Visualisations {#visualizations}
       + [Créer des visualisations cross-canal](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
@@ -79,10 +79,10 @@ ht-degree: 91%
       + [Ajouter une prévision à votre visualisation](analysis-workspace/visualizations/forecasting.md)
    + Annotations {#annotations}
       + [Créer une annotation](analysis-workspace/annotations/create-an-annotation.md)
-   + Traiter et partager {#curate-and-share}
+   + Traitement et partage {#curate-and-share}
       + [Partager avec tout le monde dans Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + Conseils et astuces {#tips-and-tricks}
-      + [Créer des filtres déroulants dynamiques](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [Création de segments déroulants dynamiques](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Vue d’ensemble d’Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Analyse guidée {#guided-analysis}
@@ -94,16 +94,16 @@ ht-degree: 91%
    + [Fréquence](guided-analysis/frequency.md)
    + [Entonnoir](guided-analysis/funnel.md)
    + [Croissance nette](guided-analysis/net-growth.md)
-   + [Impact de la version](guided-analysis/release-impact.md)
+   + [Impact de la nouvelle version](guided-analysis/release-impact.md)
    + [Rétention](guided-analysis/retention.md)
    + [Chronologie](guided-analysis/timeline.md)
    + [Tendances](guided-analysis/trends.md)
 + Composants {#components}
-   + Filtres (segmentation) {#filters}
-      + [Présentation des filtres](components/filters/introduction-to-filters-in-cja.md)
-      + [Créer un filtre rapide](components/filters/create-a-quick-filter.md)
-      + [Créer des filtres cross-canal](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [Utiliser des filtres comme dimensions](components/filters/use-filters-as-dimensions.md)
+   + Segments {#filters}
+      + [Aperçu des segments](components/filters/introduction-to-filters-in-cja.md)
+      + [Créer un segment rapide](components/filters/create-a-quick-filter.md)
+      + [Création de segments cross-canal](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [Utilisation de segments en tant que dimensions](components/filters/use-filters-as-dimensions.md)
       + [Déplacer des segments Adobe Analytics vers Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + Mesures calculées {#calc-metrics}
       + [Présentation des mesures calculées dans Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
@@ -118,12 +118,12 @@ ht-degree: 91%
 + Tableaux de bord (cartes de performance) {#dashboards}
    + [Créer une carte de performance mobile](dashboards/create-a-mobile-scorecard.md)
    + [Aider les cadres à accéder aux cartes de performance mobiles](dashboards/assist-executives-to-access-mobile-scorecards.md)
-+ Export {#exporting}
++ Exportation {#exporting}
    + [Export du tableau complet](exporting/full-table-export.md)
    + Report Builder {#report-builder}
       + [Report Builder pour Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Planification de classeurs Customer Journey Analytics à l’aide de Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ {#experience-platform-integration} d’intégration d’Experience Platform
++ Intégration d’Experience Platform {#experience-platform-integration}
    + [Création de rapports améliorée pour Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Cas d’utilisation {#use-cases}
    + Cas dʼutilisation des vues de données {#data-views-use-cases}
@@ -132,6 +132,6 @@ ht-degree: 91%
    + Données complexes {#complex-data}
       + [Utiliser des tableaux d’objets](use-cases/complex-data/object-arrays-in-cja.md)
 + Plans directeurs {#blueprints}
-   + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}

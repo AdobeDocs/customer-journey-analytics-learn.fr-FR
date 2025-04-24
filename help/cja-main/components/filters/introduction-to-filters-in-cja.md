@@ -1,7 +1,7 @@
 ---
-title: Présentation des filtres
-description: Découvrez les composants clés du Créateur de filtres dans Customer Journey Analytics.
-feature: Filters
+title: Aperçu des segments
+description: Découvrez les composants principaux du créateur de segments dans Customer Journey Analytics.
+feature: Segments
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
@@ -9,17 +9,19 @@ kt: 4447
 role: User
 level: Beginner
 exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
-source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 98%
+source-wordcount: '69'
+ht-degree: 20%
 
 ---
 
-# Présentation des filtres
+# Aperçu des segments
 
-Les filtres créent des sous-ensembles de visiteurs ou visiteuses ou de clients et clientes en fonction d’attributs et d’événements, tels que les personnes qui visitent le site web ou l’engagement du centre d’appel. Découvrez les composants clés du Créateur de filtres dans Customer Journey Analytics.
+Les segments identifient des sous-ensembles de visiteurs ou de clients en fonction d’attributs et d’événements, tels que les visiteurs du site web ou l’engagement du centre d’appels. Découvrez les composants principaux du créateur de segments dans Customer Journey Analytics. Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+
+>[!NOTE]
+>
+> Les « [!UICONTROL  Filtres ] » ont été renommés « [!UICONTROL  Segments ] » dans l’interface de Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
-
-Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/filters-overview.html).

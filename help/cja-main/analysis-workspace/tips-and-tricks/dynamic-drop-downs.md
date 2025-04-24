@@ -1,7 +1,7 @@
 ---
-title: Création de filtres déroulants dynamiques dans Analysis Workspace
-description: Découvrez comment créer des filtres déroulants en fonction d’une dimension entière. Les éléments de la dimension sont mis à jour dynamiquement en fonction de la période utilisée dans le panneau du rapport et des valeurs sélectionnées dans d’autres filtres déroulants du même panneau.
-feature: Filters
+title: Création de segments déroulants dynamiques dans Analysis Workspace
+description: Découvrez comment créer des segments déroulants basés sur une dimension entière. Les éléments Dimension sont mis à jour de manière dynamique en fonction de la période utilisée dans le panneau de rapport.
+feature: Segments
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -9,17 +9,19 @@ last-substantial-update: 2023-06-08T00:00:00Z
 jira: KT-13460
 thumbnail: 3420315.jpeg
 exl-id: b67e8ae2-17c9-44b6-b62d-3adb1019c5fd
-source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 84%
+source-wordcount: '85'
+ht-degree: 8%
 
 ---
 
-# Création de filtres déroulants dynamiques dans Analysis Workspace
+# Création de segments déroulants dynamiques dans Analysis Workspace
 
-Découvrez comment créer des filtres déroulants en fonction d’une dimension entière. Les éléments de la dimension sont mis à jour dynamiquement en fonction de la période utilisée dans le panneau du rapport et des valeurs sélectionnées dans d’autres filtres déroulants du même panneau.
+Découvrez comment créer des segments déroulants basés sur une dimension entière. Les éléments Dimension sont mis à jour de manière dynamique en fonction de la période utilisée dans le panneau de rapport. Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
+
+>[!NOTE]
+>
+> Les « [!UICONTROL  Filtres ] » ont été renommés « [!UICONTROL  Segments ] » dans l’interface de Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
-
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html#dynamic-drop-down-filters).
