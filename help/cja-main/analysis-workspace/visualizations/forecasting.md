@@ -18,6 +18,6 @@ ht-degree: 52%
 
 # Ajouter une prévision à votre visualisation
 
-Découvrez comment ajouter des nombres de prévisions à votre visualisation de série temporelle en Customer Journey Analytics. Pour obtenir une documentation détaillée, consultez la [présentation des prévisions](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}.
+Découvrez comment ajouter des nombres de prévisions à votre visualisation de série temporelle en Customer Journey Analytics. Pour obtenir une documentation détaillée, consultez la [présentation des prévisions](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428021/?learn=on)

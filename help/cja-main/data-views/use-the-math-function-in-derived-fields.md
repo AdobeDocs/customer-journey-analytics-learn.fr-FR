@@ -21,4 +21,4 @@ Découvrez le potentiel de l’utilisation des fonctions mathématiques pour cr�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-dataviews/derived-fields).

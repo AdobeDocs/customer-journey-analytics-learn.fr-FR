@@ -22,4 +22,4 @@ Découvrez comment **premier impact d’utilisation** en Customer Journey Analyt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=fr).

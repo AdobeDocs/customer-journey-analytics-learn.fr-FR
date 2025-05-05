@@ -21,4 +21,4 @@ Découvrez comment utiliser la fonction &quot;Suivant&quot; ou &quot;Précédent
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-dataviews/derived-fields).

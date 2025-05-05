@@ -22,4 +22,4 @@ Customer Journey Analytics prend en charge les données de niveau résumé qui p
 
 ## Ressources supplémentaires
 
-* Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data).
+* Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-dataviews/summary-data).
