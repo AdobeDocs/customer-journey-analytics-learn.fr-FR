@@ -20,6 +20,6 @@ ht-degree: 1%
 
 Découvrez la visualisation du canevas de parcours, qui vous permet d’analyser et d’obtenir des informations détaillées sur les parcours que vous fournissez à vos utilisateurs et clients.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440628/?learn=on&captions=fre_fr)
 
 Les utilisateurs peuvent créer des parcours avec plusieurs démarrages, chemins ou fins. Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"}.

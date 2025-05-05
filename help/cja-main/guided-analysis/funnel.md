@@ -20,10 +20,10 @@ ht-degree: 8%
 
 Découvrez comment **funnel** en Customer Journey Analytics fournit une représentation visuelle d’un parcours utilisateur critique dans votre produit et vous aide à déterminer où il y a du friction.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431276/?learn=on&captions=fre_fr)
 
 Vous pouvez également comparer plusieurs événements dans une seule étape de l’entonnoir, créant ainsi un &quot;entonnoir fourré&quot;. Cet &quot;entonnoir fourré&quot; vous permet de comparer la friction de deux parcours côte à côte, ce qui peut s’avérer utile lorsque des options d’étape sont disponibles ou qu’une expérience A/B est en cours d’exécution dans l’entonnoir.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445801/?learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/guided-analysis/funnel/friction).

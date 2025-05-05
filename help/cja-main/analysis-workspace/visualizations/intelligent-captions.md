@@ -20,6 +20,6 @@ ht-degree: 20%
 
 Découvrez comment activer des sous-titres intelligents dans vos visualisations afin d’obtenir des informations sur le langage naturel automatiquement créées pour vous concernant vos données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443140/?learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=fr).

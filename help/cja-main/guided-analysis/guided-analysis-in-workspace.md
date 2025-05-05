@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Utilisez l’**analyse guidée** dans Analysis Workspace pour obtenir des informations de données de haute qualité en libre-service grâce à des workflows guidés. Cette fonctionnalité permet un accès, une création, un enregistrement et une réutilisation faciles des analyses, en rationalisant des tâches telles que le suivi de la fidélisation des utilisateurs et utilisatrices et l’analyse des entonnoirs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449320/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449499/?learn=on&captions=fre_fr)

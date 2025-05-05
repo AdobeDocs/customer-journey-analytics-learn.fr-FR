@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Dans cette vidéo, vous découvrirez comment les [!UICONTROL schémas] de [!UICONTROL jeux de données] sont traduits en variables dans Customer Journey Analytics (CJA) et comment CJA gère une cardinalité très élevée.
 
->[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36081/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=fr).

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Découvrez le dictionnaire de données dans Analysis Workspace pour Customer Journey Analytics. Cette fonctionnalité permet aux utilisateurs et aux administrateurs d’effectuer le suivi et de comprendre les composants utilisés dans les projets. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422282/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations sur le dictionnaire de données dans Analysis Workspace pour Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=fr).

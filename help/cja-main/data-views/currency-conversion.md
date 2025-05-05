@@ -20,4 +20,4 @@ ht-degree: 1%
 
 Effectuez une conversion de devise dans les analyses de parcours client via un paramètre dans les vues de données. Utilisez cette fonctionnalité pour créer plusieurs mesures à afficher dans différentes devises. Pour obtenir une documentation détaillée, consultez la page [Paramètres du composant de format](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=fr#currency).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447526/?learn=on&captions=fre_fr)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Customer Journey Analytics exploite des jeux de données ingérés dans Adobe Experience Platform. Avant de commencer l’analyse des données dans Workspace, vous devez créer une connexion. Découvrez l’architecture de Customer Journey Analytics, les cas d’utilisation, la planification, les autorisations requises et les étapes de création d’une connexion.
 
->[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33585/?quality=12&learn=on&captions=fre_fr)
