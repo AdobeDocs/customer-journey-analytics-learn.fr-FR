@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Ajoutez des [!UICONTROL  visualisations de zone ] aux [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
+# Ajoutez des [!UICONTROL &#x200B; visualisations de zone &#x200B;] aux [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
 
-Découvrez comment ajouter des visualisations [!UICONTROL area] et [!UICONTROL  area empilated] aux projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Ces visualisations sont idéales pour une utilisation lorsque plusieurs mesures doivent être utilisées pour visualiser la zone en fonction de l’intersection de plusieurs mesures.
+Découvrez comment ajouter des visualisations [!UICONTROL area] et [!UICONTROL &#x200B; area empilated] aux projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Ces visualisations sont idéales pour une utilisation lorsque plusieurs mesures doivent être utilisées pour visualiser la zone en fonction de l’intersection de plusieurs mesures.
 
 >[!NOTE]
 >

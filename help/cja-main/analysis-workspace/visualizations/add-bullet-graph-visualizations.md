@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Ajoutez des [!UICONTROL  visualisations de graphique à puces ] aux [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
+# Ajoutez des [!UICONTROL &#x200B; visualisations de graphique à puces &#x200B;] aux [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
 
 Découvrez comment les [!UICONTROL graphiques à puces] sont utilisés et comment les ajouter aux [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics]. Ce graphique vous montre comment une valeur d’intérêt se compare à ou mesure par rapport aux objectifs.
 
