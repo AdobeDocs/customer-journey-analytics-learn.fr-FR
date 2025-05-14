@@ -25,7 +25,7 @@ Pour plus d’informations, consultez la [documentation](https://experienceleagu
 
 Content Analytics utilise l’IA et l’infrastructure Experience Platform pour révéler ce qui rend le contenu efficace. Les équipes peuvent mieux optimiser l’engagement, générer des conversions et prendre des décisions plus intelligentes basées sur les données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457312/?learn=on&enablevpops&captions=fre_fr)
 
 
 ## Fonctionnement
@@ -41,7 +41,7 @@ Content Analytics utilise l’IA et l’infrastructure Experience Platform pour 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Définition des autorisations pour Real-Time CDP Collaboration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Fonctionnement"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457429/?format=jpeg&nocache=1742338375674&captions=fre_fr" alt="Content Analytics - Fonctionnement"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
