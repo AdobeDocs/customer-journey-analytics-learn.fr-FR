@@ -20,4 +20,4 @@ ht-degree: 0%
 Explorez les stratégies internes d’Adobe pour exécuter et exploiter des implémentations à grande échelle, y compris la hiérarchisation des cas d’utilisation, la surveillance et la mesure du retour sur investissement.
 
 <!-- 62_S655_3442541_95_run-and-operate-strategies-for-scaling-adobe-implementations -->
->[!VIDEO](https://video.tv.adobe.com/v/3458338/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3461082/?learn=on&enablevpops=true&captions=fre_fr)

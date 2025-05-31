@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez comment l’assemblage basé sur les graphiques permet une intégration transparente de plusieurs jeux de données, créant ainsi une vue client unifiée pour des informations exploitables.
 
 <!-- 62_S112_3442459_199_graphbased-stitching-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458317/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460213/?learn=on&enablevpops=true&captions=fre_fr)

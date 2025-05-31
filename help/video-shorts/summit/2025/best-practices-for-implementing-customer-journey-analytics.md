@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez les bonnes pratiques relatives à l’implémentation de Customer Journey Analytics, notamment la preuve de concept, les solutions intermédiaires et les stratégies d’implémentation complètes.
 
 <!-- 62_S113_3442460_211_best-practices-for-implementing-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458311/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460068/?learn=on&enablevpops=true&captions=fre_fr)
