@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez Adobe Agent Orchestrator et comment il permet d’offrir des expériences client hyper-personnalisées en temps réel grâce à des agents intelligents.
 
 <!-- 62_S653_3442539_67_introducing-adobes-agent-orchestrator-the-next-era-of-genai-innovation -->
->[!VIDEO](https://video.tv.adobe.com/v/3458307/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460046/?learn=on&enablevpops=true&captions=fre_fr)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez comment créer des mesures pour les transitions utilisateur, telles que le passage de la version argent à la version or, et les attribuer aux canaux marketing à l’aide de champs dérivés dans CJA.
 
 <!-- 85_S103_3442450_125_derived-fields-user-state-change-metrics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458355/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460029/?learn=on&enablevpops=true&captions=fre_fr)
