@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 892162d27f81c7b09b0cf018df2254ef80bb9b0e
+source-git-commit: 30b9c77ed997915fe358cb1e976b5ff10ccdc516
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 82%
+source-wordcount: '493'
+ht-degree: 83%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 82%
    + [Utiliser les données](data-prep/working-with-data-in-cja.md)
    + [Ingérer, mapper et transformer les données Adobe Analytics](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
    + [Ingérer et utiliser les données de classification Adobe Analytics](data-prep/ingest-and-use-analytics-classifications.md)
++ Contrôle d’accès {#access-control}
+   + [Configuration des autorisations](permissions/set-up-permissions.md)
 + Connexions {#connections}
    + [Se connecter aux sources de données Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Afficher, résoudre les problèmes et modifier les paramètres de connexion](connections/connections-details-experience-in-cja.md)
@@ -114,7 +116,7 @@ ht-degree: 82%
       + [Publication dʼaudiences](components/audiences/audience-publishing-for-cja.md)
    + Dictionnaire de données {#data-dictionary}
       + [Utiliser le dictionnaire de données](components/data-dictionary/use-data-dictionary.md)
-+ Analyse du contenu {#content-analytics}
++ Content Analytics {#content-analytics}
    + [Introduction](content-analytics/introduction-to-content-analytics.md)
    + [Fonctionnement](content-analytics/how-it-works.md)
    + [Créer une configuration](content-analytics/create-configuration.md)
@@ -136,6 +138,6 @@ ht-degree: 82%
    + Données complexes {#complex-data}
       + [Utiliser des tableaux d’objets](use-cases/complex-data/object-arrays-in-cja.md)
 + Plans directeurs {#blueprints}
-   + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/fr/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
