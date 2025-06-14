@@ -21,4 +21,4 @@ Rationalisez l’analyse à l’aide de requêtes en langage naturel, de visuali
 
 Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463910/?learn=on&enablevpops&captions=fre_fr)
