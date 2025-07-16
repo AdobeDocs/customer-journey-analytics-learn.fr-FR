@@ -1,0 +1,23 @@
+---
+title: Profondeur d’événement dans Customer Journey Analytics
+description: La profondeur d’événement dans Customer Journey Analytics est un composant de dimension standard qui permet le suivi séquentiel précis des interactions utilisateur au sein des sessions, fournissant des informations précieuses sur les modèles de comportement des clients sur les plateformes numériques et hors ligne.
+feature: Dimensions
+role: User
+level: Beginner
+doc-type: Feature Video
+duration: 211
+last-substantial-update: 2025-07-15T00:00:00Z
+jira: KT-18527
+source-git-commit: fdae616d17d36795511dc5b30cd7ff47228ffb29
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 0%
+
+---
+
+
+# Profondeur d’événement dans Customer Journey Analytics
+
+La profondeur d’événement dans Customer Journey Analytics est un composant de dimension standard qui permet le suivi séquentiel précis des interactions utilisateur au sein des sessions, fournissant des informations précieuses sur les modèles de comportement des clients sur les plateformes numériques et hors ligne. Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions).
+
+>[!VIDEO](https://video.tv.adobe.com/v/3464851/?learn=on&enablevpops)
