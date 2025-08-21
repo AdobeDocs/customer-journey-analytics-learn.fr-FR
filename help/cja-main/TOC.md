@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: b532468bae9fef1793e44d55203d1d52e9356d6e
+source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 81%
+source-wordcount: '542'
+ht-degree: 80%
 
 ---
 
@@ -42,9 +42,6 @@ ht-degree: 81%
    + [Configurer des paramètres de composant dans les vues de données](data-views/configuring-component-settings-in-data-views.md)
    + [Paramètres de type de composant dans les vues de données](data-views/component-type-settings-in-data-views.md)
    + [Créer des sources de données de niveau résumé](data-views/create-summary-level-data-sources.md)
-   + [Créer des champs dérivés](data-views/derived-fields-in-cja.md)
-   + [Utilisation de la fonction mathématique dans des champs dérivés](data-views/use-the-math-function-in-derived-fields.md)
-   + [Utilisation de la fonction Suivant ou Précédent dans les champs dérivés](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [Mettre en forme des mesures dans les vues de données](data-views/formatting-metrics-in-data-views.md)
    + [Configurer les paramètres du composant de sous-chaîne](data-views/configure-substring-component-settings.md)
    + [Inclure ou exclure des valeurs de mesure dans les vues de données](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -54,6 +51,14 @@ ht-degree: 81%
    + [Configurer des options Aucune valeur dans les vues de données](data-views/configure-no-value-options-in-data-views.md)
    + [Paramètres d’attribution dans les vues de données](data-views/attribution-settings-in-data-views.md)
    + [Conversion des devises](data-views/currency-conversion.md)
+   + Champs dérivés{#derived-fields}
+      + [Créer des champs dérivés](data-views/derived-fields/derived-fields-in-cja.md)
+      + [Utilisation de la fonction mathématique](data-views/derived-fields/use-the-math-function-in-derived-fields.md)
+      + [Utilisation de la fonction Suivant ou Précédent](data-views/derived-fields/use-the-next-previous-function-in-derived-fields.md)
+      + [Personnaliser la profondeur de l’événement](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
+      + [Utilisation de Typecast](data-views/derived-fields/use-typecasting-in-derived-fields.md)
+      + [Utilisation des mathématiques de date pour calculer l’heure entre les événements](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
+
 + Agent Data Insights {#data-insights-agent}
    + [Introduction](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [Cas d’utilisation](data-insights-agent/data-insights-agent-use-cases.md)
@@ -152,6 +157,6 @@ ht-degree: 81%
    + Données complexes {#complex-data}
       + [Utiliser des tableaux d’objets](use-cases/complex-data/object-arrays-in-cja.md)
 + Plans directeurs {#blueprints}
-   + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/fr/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}

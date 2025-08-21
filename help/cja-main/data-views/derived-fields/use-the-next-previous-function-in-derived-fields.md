@@ -1,0 +1,25 @@
+---
+title: Déverrouillez les informations avancées avec la fonction « Suivant ou Précédent » dans les champs dérivés
+description: Découvrez comment utiliser la fonction « Suivant ou Précédent » dans Customer Journey Analytics pour créer des champs dérivés complexes qui améliorent l’analyse des données. Ce tutoriel vous guide tout au long du processus de configuration d’une nouvelle dimension qui concatène les valeurs des canaux marketing au niveau de l’utilisateur, ce qui vous permet d’obtenir des informations plus précises sur les stratégies marketing et la génération de revenus.
+feature: Data Views
+role: Admin, User
+level: Intermediate
+doc-type: Feature Video
+last-substantial-update: 2024-06-27T00:00:00Z
+jira: KT-15527
+thumbnail: 3430616.jpeg
+exl-id: fd11c6af-796b-4353-bab5-9dc75aac659b
+source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 5%
+
+---
+
+# Déverrouillez les informations avancées avec la fonction « Suivant ou Précédent » dans les champs dérivés
+
+Découvrez comment utiliser la fonction « Suivant ou Précédent » dans Customer Journey Analytics pour créer des champs dérivés complexes qui améliorent l’analyse des données. Ce tutoriel vous guide tout au long du processus de configuration d’une nouvelle dimension qui concatène les valeurs des canaux marketing au niveau de l’utilisateur, ce qui vous permet d’obtenir des informations plus précises sur les stratégies marketing et la génération de revenus.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
+
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-dataviews/derived-fields).
