@@ -8,10 +8,10 @@ duration: 650
 last-substantial-update: 2025-05-13T00:00:00Z
 jira: KT-17556
 exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
-source-git-commit: cd5773ee9b2fee19d0881376b50133f78130c6e2
+source-git-commit: 929fc1cc499262a35ad76d3b4109c2ed175debe0
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 4%
+source-wordcount: '270'
+ht-degree: 34%
 
 ---
 
@@ -25,7 +25,7 @@ Pour plus d’informations, consultez la [documentation](https://experienceleagu
 
 Content Analytics utilise l’IA et l’infrastructure Experience Platform pour révéler ce qui rend le contenu efficace. Les équipes peuvent mieux optimiser l’engagement, générer des conversions et prendre des décisions plus intelligentes basées sur les données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457312/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
 
 
 ## Fonctionnement
@@ -40,8 +40,8 @@ Content Analytics utilise l’IA et l’infrastructure Experience Platform pour 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="how-it-works.md" title="Définition des autorisations pour Real-Time CDP Collaboration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457429/?format=jpeg&nocache=1742338375674&captions=fre_fr" alt="Content Analytics - Fonctionnement"
+                    <a href="how-it-works.md" title="Content Analytics - Fonctionnement" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Fonctionnement"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -49,12 +49,12 @@ Content Analytics utilise l’IA et l’infrastructure Experience Platform pour 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="how-it-works.md" target="_blank" rel="referrer" title="Content Analytics - Fonctionnement">Content Analytics - Fonctionnement</a>
+                        <a href="how-it-works.md" target="_blank" rel="referrer" title="Content Analytics - Fonctionnement">Analyse du contenu - Fonctionnement</a>
                     </p>
                     <p class="is-size-6">Découvrez comment Content Analytics fonctionne avec Customer Journey Analytics et Experience Platform.</p>
                 </div>
                 <a href="how-it-works.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -85,12 +85,12 @@ Content Analytics utilise l’IA et l’infrastructure Experience Platform pour 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="create-configuration.md" target="_blank" rel="referrer" title="Content Analytics - Créer une configuration">Content Analytics - Créer une configuration</a>
+                        <a href="create-configuration.md" target="_blank" rel="referrer" title="Content Analytics - Créer une configuration">Content Analytics - Créer une configuration</a>
                     </p>
-                    <p class="is-size-6">Découvrez comment utiliser le workflow guidé [!DNL Content Analytics]. Il simplifie le processus de configuration pour les marketeurs, en permettant une collecte de données, un traitement et un reporting efficaces dans Customer Journey Analytics. </p>
+                    <p class="is-size-6">Découvrez comment utiliser le workflow guidé Content Analytics. Il simplifie le processus de configuration pour les personnes responsables du marketing, ce qui permet une collecte de données, un traitement et un reporting efficaces dans Customer Journey Analytics. </p>
                 </div>
                 <a href="create-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -108,12 +108,46 @@ Content Analytics utilise l’IA et l’infrastructure Experience Platform pour 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="edit-configuration.md" target="_blank" rel="referrer" title="Content Analytics - Modifier la configuration">Content Analytics - Modifier la configuration</a>
+                        <a href="edit-configuration.md" target="_blank" rel="referrer" title="Content Analytics - Modifier la configuration">Content Analytics - Modifier la configuration</a>
                     </p>
-                    <p class="is-size-6">Modifiez efficacement les configurations [!DNL Content Analytics] en ajustant les noms, les vues de données et les paramètres de capture d’expérience. Cette action met automatiquement à jour les mesures et effectue des ajustements précis via l’extension Content Analytics Tags pour des informations optimisées.</p>
+                    <p class="is-size-6">Modifiez efficacement les configurations Content Analytics en ajustant les noms, les vues de données et les paramètres de capture d’expérience. Cette action met automatiquement à jour les métriques et effectue des ajustements précis via l’extension Content Analytics Tags pour obtenir des informations optimisées.</p>
                 </div>
                 <a href="edit-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## Création de rapports
+
+<!-- CARDS
+{cta=Watch}
+* reporting.md
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Content Analytics - Reporting">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="reporting.md" title="Content Analytics - Création de rapports" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Création de rapports"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="reporting.md" target="_blank" rel="referrer" title="Content Analytics - Création de rapports">Content Analytics - Rapports</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment Content Analytics fournit des rapports détaillés sur les performances du contenu du site web.</p>
+                </div>
+                <a href="reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
