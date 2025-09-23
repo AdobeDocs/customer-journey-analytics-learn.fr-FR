@@ -20,6 +20,6 @@ ht-degree: 98%
 
 Découvrez comment activer les légendes intelligentes dans vos visualisations afin d’obtenir automatiquement des informations en langage naturel à propos de vos données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443140/?learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=fr).
