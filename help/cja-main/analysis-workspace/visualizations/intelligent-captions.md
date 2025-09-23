@@ -1,6 +1,6 @@
 ---
 title: Créer des légendes intelligentes
-description: Découvrez comment activer les légendes intelligentes dans vos visualisations afin de créer automatiquement des insights en langage naturel sur vos données.
+description: Découvrez comment activer les légendes intelligentes dans vos visualisations afin d’obtenir automatiquement des informations en langage naturel à propos de vos données.
 feature: Visualizations
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 98%
 
 # Créer des légendes intelligentes
 
-Découvrez comment activer les légendes intelligentes dans vos visualisations afin de créer automatiquement des insights en langage naturel sur vos données.
+Découvrez comment activer les légendes intelligentes dans vos visualisations afin d’obtenir automatiquement des informations en langage naturel à propos de vos données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443140/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=fr).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en).
