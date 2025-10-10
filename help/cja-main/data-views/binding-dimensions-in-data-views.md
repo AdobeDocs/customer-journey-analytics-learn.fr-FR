@@ -18,4 +18,4 @@ ht-degree: 0%
 
 La liaison de dimensions est une fonctionnalité particulièrement intéressante de Customer Journey Analytics. Elle vous permet de prendre une dimension et de la lier à une autre dans le but d’affiner l’affectation de persistance. Nous nous trouvons souvent dans des situations où nous recevons différentes valeurs tout au long du parcours d’un utilisateur, et où nous devons décider comment répartir ces mesures de succès. La liaison de dimensions est une solution à certains scénarios clés.
 
->[!VIDEO](https://video.tv.adobe.com/v/342694/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409292/?quality=12&learn=on&captions=fre_fr)

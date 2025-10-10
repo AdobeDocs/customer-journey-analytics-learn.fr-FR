@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Découvrez comment utiliser des méthodes de manipulation de chaîne pour obtenir la partie souhaitée des valeurs de dimension dans les rapports Customer Journey Analytics. Une fois appliquée, la transformation des données se produit rétroactivement et immédiatement.
 
->[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411147/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html?lang=fr).

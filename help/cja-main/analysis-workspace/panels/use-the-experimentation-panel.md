@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Découvrez comment configurer et utiliser le panneau d’expérimentation, qui crée automatiquement certaines visualisations en fonction des données de votre expérience.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412318/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416821/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/experimentation.html?lang=fr).

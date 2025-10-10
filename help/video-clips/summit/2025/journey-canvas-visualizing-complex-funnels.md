@@ -20,4 +20,4 @@ ht-degree: 0%
 Explorez le Parcours Zone de travail dans CJA, un puissant outil de visualisation pour créer des entonnoirs à plusieurs étapes et analyser les parcours utilisateur.
 
 <!-- 72_S103_3442450_134_journey-canvas-visualizing-complex-funnels -->
->[!VIDEO](https://video.tv.adobe.com/v/3458364/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460149/?learn=on&enablevpops=true&captions=fre_fr)

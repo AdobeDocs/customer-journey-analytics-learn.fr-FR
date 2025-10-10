@@ -22,4 +22,4 @@ Cette vidéo présente une présentation détaillée de la configuration des aut
 
 Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/technotes/access-control){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463383/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463387/?learn=on&captions=fre_fr)

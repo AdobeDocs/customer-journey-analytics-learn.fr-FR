@@ -20,4 +20,4 @@ ht-degree: 37%
 
 De nouvelles fonctionnalités de création de rapports et d’orchestration des mesures sont disponibles dans Adobe Journey Optimizer. Ces améliorations apportées à Journey Optimizer comprennent également une interopérabilité accrue et une valeur ajoutée accrue avec Customer Journey Analytics par le biais de sources de données supplémentaires, d’une personnalisation avancée, de la manipulation et de l’analyse des données, etc. Pour obtenir une documentation détaillée, voir [Commencer avec la nouvelle interface de création de rapports](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channel-report/report-gs-cja).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443153/?learn=on&captions=fre_fr)

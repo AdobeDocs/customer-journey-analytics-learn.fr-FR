@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment planifier des classeurs dans Report Builder pour Customer Journey Analytics. La planification de classeurs permet aux utilisateurs d’automatiser le processus d’actualisation des classeurs de Report Builder avec les dernières données et de les envoyer aux parties prenantes selon une planification régulière et prédéfinie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413079/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417504/?quality=12&learn=on&captions=fre_fr)

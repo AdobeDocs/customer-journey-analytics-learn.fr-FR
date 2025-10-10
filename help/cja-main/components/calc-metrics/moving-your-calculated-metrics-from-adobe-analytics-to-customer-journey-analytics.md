@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Dans cette vidéo, trouvez des conseils pour recréer vos [!UICONTROL mesures calculées] Adobe Analytics dans Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33728/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=fr).

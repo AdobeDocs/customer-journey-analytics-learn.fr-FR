@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment générer rapidement des tableaux et des visualisations pour identifier l’élément suivant ou précédent pour une valeur de dimension spécifique.
 
->[!VIDEO](https://video.tv.adobe.com/v/344430/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411116/?quality=12&learn=on&captions=fre_fr)

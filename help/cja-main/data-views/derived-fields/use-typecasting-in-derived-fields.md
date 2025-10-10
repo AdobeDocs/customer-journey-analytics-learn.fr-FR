@@ -22,4 +22,4 @@ Découvrez Typecast dans les champs dérivés de Customer Journey Analytics. La 
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471042/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471056/?learn=on&captions=fre_fr)

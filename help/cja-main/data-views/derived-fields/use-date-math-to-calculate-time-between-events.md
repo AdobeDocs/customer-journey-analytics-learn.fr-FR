@@ -21,4 +21,4 @@ Principal de la date de correspondance dans les champs dérivés de Customer Jou
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471067/?learn=on&captions=fre_fr)

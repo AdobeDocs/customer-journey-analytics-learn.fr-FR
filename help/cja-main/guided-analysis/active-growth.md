@@ -20,6 +20,6 @@ ht-degree: 16%
 
 Découvrez comment la **croissance active** dans Customer Journey Analytics fournit des informations sur la croissance des utilisateurs sur une période spécifique, divisée par les nouveaux utilisateurs, les utilisateurs récurrents, les utilisateurs récurrents et les utilisateurs inactifs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423393/?learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=fr).

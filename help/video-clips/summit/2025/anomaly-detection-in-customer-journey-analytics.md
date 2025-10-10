@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez comment la détection des anomalies dans CJA permet d’identifier les fluctuations statistiques dans vos données, de gagner du temps et de mettre en évidence les informations clés.
 
 <!-- 72_S106_3442453_58_anomaly-detection-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458302/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459728/?learn=on&enablevpops=true&captions=fre_fr)

@@ -22,4 +22,4 @@ Utilisez le gestionnaire des activités de rapport dans [!DNL Customer Journey A
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470316/?learn=on&captions=fre_fr)

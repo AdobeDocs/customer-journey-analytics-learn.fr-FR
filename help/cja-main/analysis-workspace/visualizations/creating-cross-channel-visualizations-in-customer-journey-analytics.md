@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Dans cette vidéo, découvrez comment Customer Journey Analytics vous permet de créer des [!UICONTROL visualisations] qui incluent des données issues de plusieurs [!UICONTROL jeux de données] répartis sur plusieurs canaux, y compris la fusion des données par [!UICONTROL visiteur].
 
->[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33705/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=fr).

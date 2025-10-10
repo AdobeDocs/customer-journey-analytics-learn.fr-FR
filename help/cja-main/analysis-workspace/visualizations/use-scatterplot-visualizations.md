@@ -25,6 +25,6 @@ Découvrez comment utiliser la visualisation [!UICONTROL graphique de dispersion
 >
 >L’interface utilisateur et les fonctionnalités [!DNL Analysis Workspace] sont similaires dans les [!DNL Adobe Analytics] et les [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416860/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations sur les visualisations [!UICONTROL graphique de dispersion], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=fr).

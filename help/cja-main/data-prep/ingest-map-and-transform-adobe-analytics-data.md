@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Dans cette vidéo, nous montrons comment utiliser les fonctionnalités de préparation des données pour les données Analytics, notamment les fonctionnalités de manipulation des données, telles que le mappage des variables Analytics sur de nouveaux champs personnalisés et l’exécution de transformations et de calculs. Ces activités sont effectuées dans le workflow Connexions source pour Analytics dans Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430255?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations, reportez-vous à la section [Documentation du connecteur source Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=fr) et la section [Documentation des fonctions de préparation des données](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=fr).

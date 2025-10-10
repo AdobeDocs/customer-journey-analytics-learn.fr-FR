@@ -25,6 +25,6 @@ Découvrez comment ajouter et configurer des visualisations [!UICONTROL bar] et 
 >
 >L’interface utilisateur et les fonctionnalités [!DNL Analysis Workspace] sont similaires dans les [!DNL Adobe Analytics] et les [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416619/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations sur les visualisations [!UICONTROL bar], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=fr).

@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez comment Adobe Audience Agent surveille de manière proactive l’intégrité des audiences, identifie les problèmes et suggère des solutions exploitables pour gagner du temps et améliorer l’engagement.
 
 <!-- 62_S653_3442539_203_audience-agent-proactive-audience-health-monitoring -->
->[!VIDEO](https://video.tv.adobe.com/v/3458303/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460057/?learn=on&enablevpops=true&captions=fre_fr)

@@ -21,4 +21,4 @@ ht-degree: 3%
 
 Étant donné que de nombreuses personnes interagissent avec votre contenu sur plusieurs canaux et appareils, il devient de plus en plus important de connecter ces événements non authentifiés à des événements authentifiés. Cela permet une approche plus holistique de la création de rapports et, finalement, de l’activation. Cette vidéo donne un aperçu rapide du processus de groupement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452549/?learn=on&captions=fre_fr)

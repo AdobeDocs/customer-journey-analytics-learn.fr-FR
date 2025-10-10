@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez comment le mode facile d’Analytics révèle les fonctionnalités masquées dans Analysis Workspace, ce qui facilite l’accès aux outils puissants et la rationalisation des workflows.
 
 <!-- 62_S102_3442449_82_analytics-easy-mode-simplifying-workspace-for-all-users -->
->[!VIDEO](https://video.tv.adobe.com/v/3458343/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459717/?learn=on&enablevpops=true&captions=fre_fr)

@@ -19,7 +19,7 @@ ht-degree: 8%
 
 Customer Journey Analytics prend en charge les données de niveau résumé qui permettent aux utilisateurs d’agréger et d’analyser les données qui ne sont pas organisées par identifiants individuels, telles que les données de campagne ou de produit. Le processus d’intégration de ces données récapitulatives dans Experience Platform est abordé, notamment la création de connexions, la configuration des vues de données et la combinaison de données récapitulatives avec des données d’événement pour un compte rendu des performances complet. Cette fonctionnalité permet d’obtenir des informations plus précises sur les performances des campagnes et améliore la flexibilité des rapports dans CJA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433305/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449411/?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

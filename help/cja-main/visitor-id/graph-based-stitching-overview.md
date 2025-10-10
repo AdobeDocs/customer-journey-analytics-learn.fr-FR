@@ -20,7 +20,7 @@ ht-degree: 4%
 
 Le groupement basé sur les graphiques exploite la puissance du graphique d’identités pour aligner les identités entre les applications Experience Platform. Cette fonctionnalité permet de joindre davantage de jeux de données dans Customer Journey Analytics en y utilisant un identifiant de personne commun.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448718/?learn=on&captions=fre_fr)
 
 Grâce au groupement basé sur les graphiques à l’aide du graphique d’identités, obtenez une meilleure vue du Parcours client grâce aux éléments suivants :
 

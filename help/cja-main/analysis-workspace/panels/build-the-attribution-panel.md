@@ -22,4 +22,4 @@ Découvrez comment utiliser le panneau d’attribution dans [!DNL Customer Journ
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/panels/attribution).
 
->[!VIDEO](https://video.tv.adobe.com/v/3464718/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464724/?learn=on&captions=fre_fr)
