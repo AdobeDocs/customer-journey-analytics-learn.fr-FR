@@ -27,4 +27,4 @@ Découvrez comment ajouter et configurer la visualisation [!UICONTROL carte arbo
 
 >[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL arborescence], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html).
+Pour plus d’informations sur les visualisations [!UICONTROL arborescence], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=fr).

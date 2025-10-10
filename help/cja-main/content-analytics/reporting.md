@@ -20,6 +20,6 @@ ht-degree: 27%
 
 Découvrez comment [!DNL Content Analytics] automatise le suivi des ressources et fournit des rapports détaillés sur les performances du contenu du site web, y compris les vues, les clics et les conversions. Découvrez comment tirer parti des informations provenant des identifiants de ressource et d’expérience, des métadonnées telles que les couleurs et les émotions, ainsi que des visualisations générées par des modèles pour optimiser votre stratégie de contenu.
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report){target="_blank"} de Content Analytics.
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/content-analytics/report/report){target="_blank"} de Content Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)

@@ -27,4 +27,4 @@ Découvrez comment utiliser les visualisations [!UICONTROL récapitulatives] dan
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL récapitulatives], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html).
+Pour plus d’informations sur les visualisations [!UICONTROL récapitulatives], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=fr).

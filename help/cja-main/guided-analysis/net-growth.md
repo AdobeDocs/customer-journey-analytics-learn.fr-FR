@@ -22,4 +22,4 @@ Découvrez comment la **croissance nette** dans Customer Journey Analytics fourn
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=fr).

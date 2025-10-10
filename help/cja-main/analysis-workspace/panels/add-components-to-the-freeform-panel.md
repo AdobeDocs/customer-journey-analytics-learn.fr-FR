@@ -20,6 +20,6 @@ ht-degree: 75%
 
 Utilisez les panneaux à structure libre pour explorer, comparer et corréler vos données d’expérience client par le biais d’une interface flexible par glisser-déposer.
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/panels/freeform-panel).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)

@@ -27,4 +27,4 @@ Découvrez comment configurer des visualisations [!UICONTROL barres entièrement
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL var entièrement empilées], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).
+Pour plus d’informations sur les visualisations [!UICONTROL var entièrement empilées], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=fr).

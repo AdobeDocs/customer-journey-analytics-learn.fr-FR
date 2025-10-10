@@ -27,4 +27,4 @@ Découvrez comment ajouter et configurer des visualisations [!UICONTROL en annea
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL en anneau], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html).
+Pour plus d’informations sur les visualisations [!UICONTROL en anneau], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=fr).
