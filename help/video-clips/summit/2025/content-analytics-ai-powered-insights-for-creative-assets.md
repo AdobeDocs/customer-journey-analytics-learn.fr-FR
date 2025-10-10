@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez Content Analytics, une nouvelle fonctionnalité de CJA qui utilise l’IA pour analyser les ressources créatives et leurs performances.
 
 <!-- 62_S103_3442450_115_content-analytics-aipowered-insights-for-creative-assets -->
->[!VIDEO](https://video.tv.adobe.com/v/3462959/?learn=on&enablevpops=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3458352/?learn=on&enablevpops=true)

@@ -18,10 +18,10 @@ ht-degree: 8%
 
 # Création de segments déroulants dynamiques dans Analysis Workspace
 
-Découvrez comment créer des segments déroulants basés sur une dimension entière. Les éléments Dimension sont mis à jour de manière dynamique en fonction de la période utilisée dans le panneau de rapport. Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
+Découvrez comment créer des segments déroulants basés sur une dimension entière. Les éléments Dimension sont mis à jour de manière dynamique en fonction de la période utilisée dans le panneau de rapport. Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
 
 >[!NOTE]
 >
-> Les « [!UICONTROL &#x200B; Filtres &#x200B;] » ont été renommés « [!UICONTROL &#x200B; Segments &#x200B;] » dans l’interface de Customer Journey Analytics.
+> Les « [!UICONTROL  Filtres ] » ont été renommés « [!UICONTROL  Segments ] » dans l’interface de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446818/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)

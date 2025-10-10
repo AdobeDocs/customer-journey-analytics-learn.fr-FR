@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Comment gérer un jeu de données qui ne dispose pas d’un ID de personne disponible à configurer dans une connexion Customer Journey Analytics ? Pour savoir comment vous y prendre, regardez cette vidéo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422073/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3417726/?quality=12&learn=on)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez les deux types de combinaison d’identités dans CJA (basée sur les champs et sur les graphiques) et comment ils activent l’analyse omnicanal.
 
 <!-- 62_S113_3442460_74_identity-stitching-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3459995/?learn=on&enablevpops=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3458335/?learn=on&enablevpops=true)

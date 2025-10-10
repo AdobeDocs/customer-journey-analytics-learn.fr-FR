@@ -14,8 +14,8 @@ level: Beginner
 exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
 source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Dans cette vidéo, trouvez des conseils pour recréer vos [!UICONTROL mesures calculées] Adobe Analytics dans Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/33728/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12&learn=on)
 
 Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=fr).

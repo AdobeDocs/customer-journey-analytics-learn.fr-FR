@@ -1,6 +1,6 @@
 ---
 title: Chronologie
-description: Découvrez la chronologie en Customer Journey Analytics, qui vous aide à rechercher des schémas d’expérience, à raconter de meilleures histoires d’utilisateurs et à valider la mise en oeuvre.
+description: Découvrez la chronologie dans Customer Journey Analytics, qui vous aide à identifier les modèles d’expérience, à raconter de meilleures histoires d’utilisateurs et à valider la mise en œuvre.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 18%
 
 # Chronologie
 
-Découvrez la **chronologie** en Customer Journey Analytics, qui vous aide à trouver des schémas d’expérience, à raconter de meilleures histoires d’utilisateurs et à valider la mise en oeuvre.
+Découvrez la **chronologie** dans Customer Journey Analytics, qui vous aide à identifier les modèles d’expérience, à raconter de meilleurs récits d’utilisateur et à valider la mise en œuvre.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435769/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/guided-analysis/streams/timeline).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline).

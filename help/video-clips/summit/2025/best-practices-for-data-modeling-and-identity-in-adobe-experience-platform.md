@@ -20,4 +20,4 @@ ht-degree: 0%
 Explorez les principales stratégies de modélisation des données et d’identité pour garantir des implémentations évolutives et efficaces dans Adobe Experience Platform.
 
 <!-- 72_S655_3442541_100_best-practices-for-data-modeling-and-identity-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3459826/?learn=on&enablevpops=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3458310/?learn=on&enablevpops=true)

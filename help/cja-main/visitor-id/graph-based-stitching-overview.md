@@ -1,6 +1,6 @@
 ---
 title: Vue d’ensemble du groupement basé sur les graphiques
-description: Le groupement basé sur un graphique exploite la puissance du graphique d’identités pour aligner les identités entre les applications Experience Platform. Cette fonctionnalité permet de joindre davantage de jeux de données en Customer Journey Analytics à l’aide d’un identifiant de personne commun.
+description: Le groupement basé sur les graphiques exploite la puissance du graphique d’identités pour aligner les identités entre les applications Experience Platform. Cette fonctionnalité permet de joindre davantage de jeux de données dans Customer Journey Analytics en y utilisant un identifiant de personne commun.
 feature: Stitching
 role: Admin, Developer
 level: Intermediate
@@ -18,12 +18,12 @@ ht-degree: 4%
 
 # Vue d’ensemble du groupement basé sur les graphiques
 
-Le groupement basé sur un graphique exploite la puissance du graphique d’identités pour aligner les identités entre les applications Experience Platform. Cette fonctionnalité permet de joindre davantage de jeux de données en Customer Journey Analytics à l’aide d’un identifiant de personne commun.
+Le groupement basé sur les graphiques exploite la puissance du graphique d’identités pour aligner les identités entre les applications Experience Platform. Cette fonctionnalité permet de joindre davantage de jeux de données dans Customer Journey Analytics en y utilisant un identifiant de personne commun.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448718/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
 
-Grâce à l’assemblage basé sur les graphiques à l’aide du graphique d’identités, obtenez une meilleure vue du Parcours client par :
+Grâce au groupement basé sur les graphiques à l’aide du graphique d’identités, obtenez une meilleure vue du Parcours client grâce aux éléments suivants :
 
-* Le réalignement d’un ou de plusieurs jeux de données, chacun d’eux à un identifiant unique, au lieu d’utiliser un processus ETL encombrant.
-* Amélioration de la couverture d’une identité préférée pour un jeu de données unique à d’autres jeux de données en partageant l’identité.
+* Réaligner un ou plusieurs jeux de données, chacun vers un identifiant unique, au lieu d’utiliser un processus ETL laborieux.
+* Amélioration de la couverture d’une identité préférée pour un seul jeu de données vers d’autres jeux de données en partageant l’identité.
 * Alignement des profils créés dans Adobe Real-Time CDP et Adobe Journey Optimizer avec les personnes dans Adobe Customer Journey Analytics.

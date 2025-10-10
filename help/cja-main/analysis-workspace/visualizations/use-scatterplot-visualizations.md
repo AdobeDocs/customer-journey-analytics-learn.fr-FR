@@ -1,6 +1,6 @@
 ---
-title: Utiliser des visualisations [!UICONTROL scatterplot] dans des projets  [!DNL Analysis Workspace]
-description: Découvrez comment utiliser la visualisation [!UICONTROL scatterplot] dans [!DNL Analysis Workspace] des projets dans [!DNL Customer Journey Analytics].
+title: Utilisation de visualisations [!UICONTROL graphique de dispersion] dans  [!DNL Analysis Workspace]  projets
+description: Découvrez comment utiliser la visualisation [!UICONTROL graphique de dispersion] dans  [!DNL Analysis Workspace]  projets dans  [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Utiliser des visualisations [!UICONTROL &#x200B; scatterplot] dans des projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]
+# Utilisez des visualisations [!UICONTROL graphique de dispersion] dans les projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]
 
-Découvrez comment utiliser la visualisation [!UICONTROL scatterplot] dans les projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Cette visualisation présente la relation entre les éléments de dimension et trois mesures au maximum.
+Découvrez comment utiliser la visualisation [!UICONTROL graphique de dispersion] dans les projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Cette visualisation montre la relation entre les éléments de dimension et jusqu’à trois mesures.
 
 >[!NOTE]
 >
->L’interface utilisateur et les fonctionnalités de [!DNL Analysis Workspace] sont similaires dans [!DNL Adobe Analytics] et [!DNL Customer Journey Analytics].
+>L’interface utilisateur et les fonctionnalités [!DNL Analysis Workspace] sont similaires dans les [!DNL Adobe Analytics] et les [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/3416860/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL scatterplot], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=fr).
+Pour plus d’informations sur les visualisations [!UICONTROL graphique de dispersion], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html).

@@ -18,10 +18,10 @@ ht-degree: 20%
 
 # Aperçu des segments
 
-Les segments identifient des sous-ensembles de visiteurs ou de clients en fonction d’attributs et d’événements, tels que les visiteurs du site web ou l’engagement du centre d’appels. Découvrez les composants principaux du créateur de segments dans Customer Journey Analytics. Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+Les segments identifient des sous-ensembles de visiteurs ou de clients en fonction d’attributs et d’événements, tels que les visiteurs du site web ou l’engagement du centre d’appels. Découvrez les composants principaux du créateur de segments dans Customer Journey Analytics. Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
 
 >[!NOTE]
 >
-> Les « [!UICONTROL &#x200B; Filtres &#x200B;] » ont été renommés « [!UICONTROL &#x200B; Segments &#x200B;] » dans l’interface de Customer Journey Analytics.
+> Les « [!UICONTROL  Filtres ] » ont été renommés « [!UICONTROL  Segments ] » dans l’interface de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/36079/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)

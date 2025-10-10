@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Les vues de données dans Customer Journey Analytics sont similaires aux suites de rapports virtuelles d’Adobe Analytics. Elles vous permettent de configurer les données qui arrivent dans CJA afin de maximiser leur utilité pour vos rapports et analyses. Cette vidéo présente un aperçu de la configuration des vues de données pour Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/345542/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35110/?quality=12&learn=on)
 
 Consultez d’autres vidéos sur les vues de données pour vous concentrer sur des fonctionnalités spécifiques qui peuvent rendre vos données plus utiles.
 

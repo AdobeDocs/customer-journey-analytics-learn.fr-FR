@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Lors de la configuration d’une [!UICONTROL Vue de données] dans Customer Journey Analytics, vous pouvez définir une dimension numérique à diviser en intervalles définis. Vous pouvez ainsi limiter le nombre d’éléments disponibles pour le tableau à des plages de nombres (très cool). Cette vidéo vous guide tout au long de la configuration de cette fonctionnalité.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412358/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/332864/?quality=12&learn=on)

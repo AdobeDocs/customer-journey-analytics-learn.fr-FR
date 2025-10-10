@@ -1,6 +1,6 @@
 ---
-title: Ajout de visualisations de zone aux projets  [!DNL Analysis Workspace]
-description: Découvrez comment ajouter des visualisations de zones et d’aires empilées aux projets  [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics].
+title: Ajout de visualisations  [!DNL Analysis Workspace]  zones aux projets
+description: Découvrez comment ajouter des visualisations de zones et aires empilées aux projets  [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Ajoutez des [!UICONTROL &#x200B; visualisations de zone &#x200B;] aux [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
+# Ajout de [!UICONTROL visualisations de zone] aux projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]
 
-Découvrez comment ajouter des visualisations [!UICONTROL area] et [!UICONTROL &#x200B; area empilated] aux projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Ces visualisations sont idéales pour une utilisation lorsque plusieurs mesures doivent être utilisées pour visualiser la zone en fonction de l’intersection de plusieurs mesures.
+Découvrez comment ajouter des visualisations [!UICONTROL surface] et [!UICONTROL aires empilées] aux projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Ces visualisations sont idéales pour une utilisation lorsqu’il existe plusieurs mesures pour lesquelles vous souhaitez visualiser la zone en fonction de l’intersection de plusieurs mesures.
 
 >[!NOTE]
 >
->L’interface utilisateur et les fonctionnalités de [!DNL Analysis Workspace] sont similaires dans [!DNL Adobe Analytics] et [!DNL Customer Journey Analytics].
+>L’interface utilisateur et les fonctionnalités [!DNL Analysis Workspace] sont similaires dans les [!DNL Adobe Analytics] et les [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/3416614/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL zone], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=fr).
+Pour plus d’informations sur les visualisations [!UICONTROL zone], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html).

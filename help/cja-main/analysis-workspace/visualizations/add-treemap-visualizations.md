@@ -1,6 +1,6 @@
 ---
-title: Ajoutez la visualisation [!UICONTROL tree map] aux  [!DNL Analysis Workspace] projets
-description: Découvrez comment ajouter et configurer la visualisation [!UICONTROL tree map] dans [!DNL Analysis Workspace] projects in [!DNL Customer Journey Analytics].
+title: Ajout de la visualisation [!UICONTROL carte arborescente] aux  [!DNL Analysis Workspace]  projets
+description: Découvrez comment ajouter et configurer la visualisation [!UICONTROL carte arborescente] dans  [!DNL Analysis Workspace]  projets dans  [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Ajoutez la visualisation [!UICONTROL tree map] aux projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]
+# Ajoutez la visualisation [!UICONTROL arborescence des ressources] pour [!DNL Analysis Workspace] des projets dans [!DNL Customer Journey Analytics]
 
-Découvrez comment ajouter et configurer la visualisation [!UICONTROL tree map] dans les projets [!DNL Analysis Workspace] de [!DNL Customer Journey Analytics]. Cette visualisation crée des données hiérarchiques sous la forme d’un ensemble de rectangles imbriqués et vous permet de voir facilement des motifs qui seraient difficiles à repérer autrement.
+Découvrez comment ajouter et configurer la visualisation [!UICONTROL carte arborescente] dans les projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Cette visualisation crée des données hiérarchiques sous la forme d’un ensemble de rectangles imbriqués et vous permet de voir facilement des motifs qui seraient difficiles à repérer autrement.
 
 >[!NOTE]
 >
->L’interface utilisateur et les fonctionnalités de [!DNL Analysis Workspace] sont similaires dans [!DNL Adobe Analytics] et [!DNL Customer Journey Analytics].
+>L’interface utilisateur et les fonctionnalités [!DNL Analysis Workspace] sont similaires dans les [!DNL Adobe Analytics] et les [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/3416854/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL tree map], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=fr).
+Pour plus d’informations sur les visualisations [!UICONTROL arborescence], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html).

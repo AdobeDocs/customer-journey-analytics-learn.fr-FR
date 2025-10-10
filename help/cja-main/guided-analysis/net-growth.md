@@ -1,6 +1,6 @@
 ---
 title: Croissance nette
-description: Découvrez comment la croissance nette du Customer Journey Analytics vous donne des informations sur le taux auquel vous gagnez ou perdez des utilisateurs au cours d’une période spécifique.
+description: Découvrez comment la croissance nette dans Customer Journey Analytics fournit des informations sur le taux auquel vous gagnez ou perdez des utilisateurs sur une période spécifique.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 18%
 
 # Croissance nette
 
-Découvrez comment la **croissance nette** en Customer Journey Analytics fournit des informations sur le taux auquel vous gagnez ou perdez des utilisateurs sur une période spécifique.
+Découvrez comment la **croissance nette** dans Customer Journey Analytics fournit des informations sur le taux auquel vous gagnez ou perdez des utilisateurs sur une période spécifique.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423460/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=fr).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html).

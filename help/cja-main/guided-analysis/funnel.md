@@ -1,6 +1,6 @@
 ---
 title: Entonnoir
-description: Découvrez comment l’entonnoir dans Customer Journey Analytics fournit une représentation visuelle d’un parcours utilisateur critique dans votre produit et vous aide à déterminer où il y a des frictions dedans.
+description: Découvrez comment funnel dans Customer Journey Analytics fournit une représentation visuelle d’un parcours utilisateur critique dans votre produit et vous aide à déterminer les points de friction.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,12 +18,12 @@ ht-degree: 8%
 
 # Entonnoir
 
-Découvrez comment **funnel** en Customer Journey Analytics fournit une représentation visuelle d’un parcours utilisateur critique dans votre produit et vous aide à déterminer où il y a du friction.
+Découvrez comment **funnel** dans Customer Journey Analytics fournit une représentation visuelle d’un parcours utilisateur critique dans votre produit et vous aide à déterminer les points de friction.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431276/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 
-Vous pouvez également comparer plusieurs événements dans une seule étape de l’entonnoir, créant ainsi un &quot;entonnoir fourré&quot;. Cet &quot;entonnoir fourré&quot; vous permet de comparer la friction de deux parcours côte à côte, ce qui peut s’avérer utile lorsque des options d’étape sont disponibles ou qu’une expérience A/B est en cours d’exécution dans l’entonnoir.
+Vous pouvez également comparer plusieurs événements en une seule étape funnel, créant ainsi un « funnel dupliqué ». Ce « funnel dupliqué » vous permet de comparer la friction de deux parcours côte à côte, ce qui peut s’avérer utile lorsqu’il existe des options d’étape ou qu’une expérience A/B est en cours d’exécution dans le funnel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445801/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/guided-analysis/funnel/friction).

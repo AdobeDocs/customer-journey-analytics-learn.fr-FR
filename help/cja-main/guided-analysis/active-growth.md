@@ -1,6 +1,6 @@
 ---
 title: Croissance active
-description: Découvrez comment la croissance active de Customer Journey Analytics fournit des informations sur la croissance des utilisateurs au cours d’une période spécifique, fractionnée par de nouveaux utilisateurs, réguliers, et inactifs.
+description: Découvrez comment la croissance active dans Customer Journey Analytics fournit des informations sur la croissance des utilisateurs et utilisatrices sur une période spécifique, divisée par les nouveaux utilisateurs et utilisatrices, les utilisateurs et utilisatrices récurrents, les utilisateurs et utilisatrices récurrents et les utilisateurs et utilisatrices inactifs.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -12,14 +12,14 @@ exl-id: a550bffe-de6c-4780-8617-c68226257258
 source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 10%
+ht-degree: 16%
 
 ---
 
 # Croissance active
 
-Découvrez comment la **croissance active** dans Customer Journey Analytics fournit des informations sur la croissance des utilisateurs au cours d’une période spécifique, fractionnée par de nouveaux utilisateurs, des utilisateurs réguliers, et des utilisateurs inactifs.
+Découvrez comment la **croissance active** dans Customer Journey Analytics fournit des informations sur la croissance des utilisateurs sur une période spécifique, divisée par les nouveaux utilisateurs, les utilisateurs récurrents, les utilisateurs récurrents et les utilisateurs inactifs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423393/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=fr).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html).

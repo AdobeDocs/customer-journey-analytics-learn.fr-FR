@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez comment utiliser les sources de données de résumé dans Customer Journey Analytics pour générer des rapports sur les coûts marketing, calculer le retour sur dépenses publicitaires et suivre les objectifs de l’entreprise.
 
 <!-- 72_S103_3442450_161_breaking-data-limits-with-summary-data-sources -->
->[!VIDEO](https://video.tv.adobe.com/v/3460079/?learn=on&enablevpops=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3458347/?learn=on&enablevpops=true)

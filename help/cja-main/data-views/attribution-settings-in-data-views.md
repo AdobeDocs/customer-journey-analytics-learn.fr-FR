@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Chaque dimension doit comporter un paramètre d’attribution (pour décider de la valeur qui obtient le crédit pour la conversion) et un paramètre d’expiration (durée pendant laquelle la valeur persiste), de sorte que le système sache comment attribuer une valeur aux valeurs de dimension. De même, et de façon collaborative, les mesures doivent également disposer d’un modèle d’attribution et d’un intervalle de recherche en amont définis. Cette vidéo vous guide tout au long des étapes nécessaires pour définir ces paramètres importants.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412953/?quality=12&enable10seconds=on&speedcontrol=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)

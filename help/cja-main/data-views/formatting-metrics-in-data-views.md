@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Dans cette vidéo, vous découvrirez les options de formatage des mesures proposées dans l’écran des [!UICONTROL composants] de la configuration des [!UICONTROL Vues de données]. Nous y partageons également quelques conseils qui peuvent vous aider à tirer le meilleur parti de vos [!UICONTROL composants].
 
->[!VIDEO](https://video.tv.adobe.com/v/3412364/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/332806/?quality=12&learn=on)

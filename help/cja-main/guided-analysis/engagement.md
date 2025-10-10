@@ -1,6 +1,6 @@
 ---
 title: Engagement
-description: Découvrez comment l’engagement dans Customer Journey Analytics permet d’obtenir des informations sur la fréquence d’utilisation de vos fonctionnalités de produit par rapport au nombre de personnes qui les utilisent.
+description: Découvrez comment l’engagement dans Customer Journey Analytics fournit des informations sur la fréquence d’utilisation de vos fonctionnalités de produit par rapport au nombre de personnes qui les utilisent.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 15%
 
 # Engagement
 
-Découvrez comment **engagement** dans Customer Journey Analytics fournit des informations sur la fréquence d’utilisation de vos fonctionnalités de produit par rapport au nombre de personnes qui les utilisent.
+Découvrez comment l’**engagement** dans Customer Journey Analytics fournit des informations sur la fréquence d’utilisation des fonctionnalités de votre produit par rapport au nombre de personnes qui les utilisent.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447469?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).

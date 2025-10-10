@@ -1,6 +1,6 @@
 ---
 title: Vue d’ensemble du groupement
-description: Avec de nombreuses personnes qui interagissent avec votre contenu sur plusieurs canaux et appareils, il devient important de connecter ces événements non authentifiés à des événements authentifiés. Cela permet une approche plus holistique de la création de rapports et en fin de compte de l’activation. Cette vidéo donne un aperçu rapide du processus de groupement.
+description: Étant donné que de nombreuses personnes interagissent avec votre contenu sur plusieurs canaux et appareils, il devient de plus en plus important de connecter ces événements non authentifiés à des événements authentifiés. Cela permet une approche plus holistique de la création de rapports et, finalement, de l’activation. Cette vidéo donne un aperçu rapide du processus de groupement.
 feature: Stitching
 role: Admin, Developer
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 3%
 
 ---
 
-# Présentation du regroupement
+# Présentation du groupement
 
-Avec de nombreuses personnes qui interagissent avec votre contenu sur plusieurs canaux et appareils, il devient important de connecter ces événements non authentifiés à des événements authentifiés. Cela permet une approche plus holistique de la création de rapports et en fin de compte de l’activation. Cette vidéo donne un aperçu rapide du processus de groupement.
+Étant donné que de nombreuses personnes interagissent avec votre contenu sur plusieurs canaux et appareils, il devient de plus en plus important de connecter ces événements non authentifiés à des événements authentifiés. Cela permet une approche plus holistique de la création de rapports et, finalement, de l’activation. Cette vidéo donne un aperçu rapide du processus de groupement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452549/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)

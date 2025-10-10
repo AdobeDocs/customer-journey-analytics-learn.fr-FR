@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment créer une [!UICONTROL annotation] dans vos projets [!DNL Customer Journey Analytics] lors d’événements comme les lancements de campagne, les problèmes de données et les jours fériés. Cette fonction informe vos utilisateurs des variances de mesures sur ces dates ou périodes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410235/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/343742/?quality=12&learn=on)

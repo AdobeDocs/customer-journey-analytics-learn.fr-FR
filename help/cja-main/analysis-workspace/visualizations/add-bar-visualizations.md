@@ -1,6 +1,6 @@
 ---
-title: Ajoutez des visualisations [!UICONTROL bar] aux  [!DNL Analysis Workspace] projets
-description: Découvrez comment ajouter et configurer des visualisations [!UICONTROL bar] et [!UICONTROL barre empilée] standard pour [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
+title: 'Ajout de visualisations [!UICONTROL bar] aux projets [!DNL Analysis Workspace] '
+description: Découvrez comment ajouter et configurer des visualisations [!UICONTROL bar] et [!UICONTROL barre empilée] standard aux  [!DNL Analysis Workspace]  dans  [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Ajoutez des visualisations [!UICONTROL bar] aux projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]
+# Ajout de visualisations [!UICONTROL bar] pour [!DNL Analysis Workspace] des projets dans [!DNL Customer Journey Analytics]
 
-Découvrez comment ajouter et configurer des visualisations [!UICONTROL bar] et [!UICONTROL barre empilée] standard dans des projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Ils utilisent des formations [!UICONTROL bar] pour représenter des valeurs sur plusieurs mesures.
+Découvrez comment ajouter et configurer des visualisations [!UICONTROL bar] et [!UICONTROL barre empilée] standard dans les projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Ils utilisent des formations [!UICONTROL bar] pour représenter les valeurs dans les mesures.
 
 >[!NOTE]
 >
->L’interface utilisateur et les fonctionnalités de [!DNL Analysis Workspace] sont similaires dans [!DNL Adobe Analytics] et [!DNL Customer Journey Analytics].
+>L’interface utilisateur et les fonctionnalités [!DNL Analysis Workspace] sont similaires dans les [!DNL Adobe Analytics] et les [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/3416619/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL bar], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=fr).
+Pour plus d’informations sur les visualisations [!UICONTROL bar], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).

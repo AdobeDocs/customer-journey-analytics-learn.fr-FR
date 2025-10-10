@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Dans cette vidéo, découvrez comment créer et configurer de nouvelles mesures correspondant à des sous-ensembles d’autres mesures, ainsi que des cas d’utilisation qui peuvent en faire un puissant outil d’analyse dans les vues de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412947/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/333120/?quality=12&learn=on)

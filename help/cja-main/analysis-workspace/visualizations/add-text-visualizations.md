@@ -1,6 +1,6 @@
 ---
-title: Ajoutez des visualisations [!UICONTROL texte] aux  [!DNL Analysis Workspace] projets
-description: Découvrez comment ajouter et configurer des visualisations [!UICONTROL texte] dans [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
+title: 'Ajout de visualisations [!UICONTROL texte] aux projets [!DNL Analysis Workspace] '
+description: Découvrez comment ajouter et configurer des visualisations [!UICONTROL texte] dans  [!DNL Analysis Workspace]  projets dans  [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Ajoutez des visualisations [!UICONTROL texte] aux projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]
+# Ajout de visualisations [!UICONTROL texte] pour [!DNL Analysis Workspace] des projets dans [!DNL Customer Journey Analytics]
 
-Découvrez comment ajouter et configurer des visualisations [!UICONTROL texte] dans des projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Cette visualisation est utile lorsque vous souhaitez transmettre des préoccupations au sujet des mesures ou ajouter du contexte à d’autres données d’un projet.
+Découvrez comment ajouter et configurer des visualisations [!UICONTROL texte] dans les projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Cette visualisation est utile lorsque vous souhaitez faire part de vos préoccupations concernant les mesures ou ajouter du contexte à d’autres données d’un projet.
 
 >[!NOTE]
 >
->L’interface utilisateur et les fonctionnalités de [!DNL Analysis Workspace] sont similaires dans [!DNL Adobe Analytics] et [!DNL Customer Journey Analytics].
+>L’interface utilisateur et les fonctionnalités [!DNL Analysis Workspace] sont similaires dans les [!DNL Adobe Analytics] et les [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/328087/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL texte], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=fr).
+Pour plus d’informations sur les visualisations [!UICONTROL texte], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html).

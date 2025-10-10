@@ -1,6 +1,6 @@
 ---
 title: Conversion des devises dans Customer Journey Analytics
-description: Effectuez une conversion de devise dans les analyses de parcours client via un paramètre dans les vues de données. Utilisez cette fonctionnalité pour créer plusieurs mesures à afficher dans différentes devises.
+description: Effectuer la conversion de devise dans l’analyse des parcours client via un paramètre dans les vues de données. Utilisez cette fonctionnalité pour créer plusieurs mesures à afficher dans différentes devises.
 feature: Data Views
 role: Admin, User
 level: Intermediate
@@ -18,6 +18,6 @@ ht-degree: 1%
 
 # Conversion des devises dans Customer Journey Analytics
 
-Effectuez une conversion de devise dans les analyses de parcours client via un paramètre dans les vues de données. Utilisez cette fonctionnalité pour créer plusieurs mesures à afficher dans différentes devises. Pour obtenir une documentation détaillée, consultez la page [Paramètres du composant de format](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=fr#currency).
+Effectuer la conversion de devise dans l’analyse des parcours client via un paramètre dans les vues de données. Utilisez cette fonctionnalité pour créer plusieurs mesures à afficher dans différentes devises. Pour obtenir une documentation détaillée, consultez [Paramètres des composants : mise en forme](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=fr#currency).
 
->[!VIDEO](https://video.tv.adobe.com/v/3447526/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)

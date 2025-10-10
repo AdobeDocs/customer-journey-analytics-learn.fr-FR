@@ -1,6 +1,6 @@
 ---
 title: Fréquence
-description: Découvrez comment la fréquence dans Customer Journey Analytics vous permet d’analyser l’engagement des utilisateurs avec les événements de votre produit.
+description: Découvrez comment la fréquence dans Customer Journey Analytics vous permet d’analyser l’interaction des utilisateurs et utilisatrices avec les événements de votre produit.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 20%
 
 # Fréquence
 
-Découvrez comment **frequency** dans Customer Journey Analytics vous permet d’analyser l’engagement des utilisateurs avec les événements de votre produit.
+Découvrez comment la **fréquence** dans Customer Journey Analytics vous permet d’analyser l’interaction des utilisateurs et utilisatrices avec les événements de votre produit.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435804/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/guided-analysis/trends/frequency).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency).

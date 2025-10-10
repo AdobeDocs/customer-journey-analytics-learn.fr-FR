@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Aidez les cadres à accéder aux cartes de performance mobiles créées dans [!DNL Customer Journey Analytics] à l’aide de l’application mobile Tableaux de bord [!DNL Analytics].  Les cartes de performance mobiles permettent d’accéder à tout moment aux mesures de performances clés et aux vues détaillées, ou répartitions.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444838/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=fr).

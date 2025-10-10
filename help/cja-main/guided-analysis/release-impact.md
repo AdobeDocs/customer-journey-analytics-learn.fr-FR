@@ -1,6 +1,6 @@
 ---
 title: Impact de la nouvelle version
-description: Découvrez comment l’impact sur les versions dans Customer Journey Analytics présente une comparaison des performances des indicateurs clés avant et après une date donnée.
+description: Découvrez comment l’impact des versions dans Customer Journey Analytics permet de comparer les performances des indicateurs clés avant et après une date donnée.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 19%
 
 # Impact de la nouvelle version
 
-Découvrez comment **l’impact sur la version** en Customer Journey Analytics présente une comparaison des performances des indicateurs clés avant et après une date donnée.
+Découvrez comment la section **Impact de la publication** dans Customer Journey Analytics présente une comparaison des performances des indicateurs clés avant et après une date donnée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423448/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=fr).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html).

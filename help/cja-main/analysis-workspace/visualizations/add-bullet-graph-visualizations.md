@@ -1,6 +1,6 @@
 ---
-title: Ajoutez des visualisations [!UICONTROL graphique à puces] aux  [!DNL Analysis Workspace] projets
-description: Découvrez comment les [!UICONTROL graphiques à puces] sont utilisés et comment les ajouter aux  [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
+title: 'Ajout de visualisations [!UICONTROL graphique à puces] aux projets [!DNL Analysis Workspace] '
+description: Découvrez comment les [!UICONTROL graphiques à puces] sont utilisés et comment les ajouter aux  [!DNL Analysis Workspace]  des projets dans  [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 ---
 
-# Ajoutez des [!UICONTROL &#x200B; visualisations de graphique à puces &#x200B;] aux [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics].
+# Ajoutez des visualisations [!UICONTROL graphique à puces] pour [!DNL Analysis Workspace] des projets dans [!DNL Customer Journey Analytics]
 
-Découvrez comment les [!UICONTROL graphiques à puces] sont utilisés et comment les ajouter aux [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics]. Ce graphique vous montre comment une valeur d’intérêt se compare à ou mesure par rapport aux objectifs.
+Découvrez comment les [!UICONTROL graphiques à puces] sont utilisés et comment les ajouter à [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics]. Ce graphique vous montre comment une valeur d’intérêt se compare à des objectifs ou les mesure par rapport à ceux-ci.
 
 >[!NOTE]
 >
->L’interface utilisateur et les fonctionnalités de [!DNL Analysis Workspace] sont similaires dans [!DNL Adobe Analytics] et [!DNL Customer Journey Analytics].
+>L’interface utilisateur et les fonctionnalités [!DNL Analysis Workspace] sont similaires dans les [!DNL Adobe Analytics] et les [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/41508/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL graphique à puces], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=fr).
+Pour plus d’informations sur les visualisations [!UICONTROL graphique à puces], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html).
