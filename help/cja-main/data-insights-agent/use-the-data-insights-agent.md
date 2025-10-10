@@ -20,6 +20,6 @@ ht-degree: 27%
 
 Analysez les données à l’aide d’invites en langage naturel, en générant des tableaux à structure libre, des visualisations et des comparaisons de données, ce qui réduit la dépendance aux analystes de données. Cet agent optimisé par l’IA fournit des informations rapides sur les tendances et les performances, ce qui permet de partager des informations exploitables avec les parties prenantes sans délai.
 
-Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
+Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463897/?learn=on&enablevpops)

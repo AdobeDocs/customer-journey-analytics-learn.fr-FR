@@ -20,6 +20,6 @@ ht-degree: 8%
 
 Cette vidéo présente une présentation détaillée de la configuration des autorisations basées sur les rôles dans Adobe Customer Journey Analytics, y compris la manière d’affecter des utilisateurs, de configurer des profils de produit et de gérer les niveaux d’accès. Il explique également comment appliquer des contrôles de données granulaires, tels que le filtrage au niveau des lignes et des mesures, à l’aide de segments dans les vues de données.
 
-Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/technotes/access-control){target="_blank"}.
+Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/technotes/access-control){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463383/?learn=on)

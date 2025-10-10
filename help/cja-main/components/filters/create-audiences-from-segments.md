@@ -20,6 +20,6 @@ ht-degree: 25%
 
 Découvrez comment créer et publier des audiences de Customer Journey Analytics vers Real-Time Customer Data Platform. Cette vidéo vous guide tout au long de la création de segments, de la définition des fréquences d’actualisation des audiences et de l’utilisation des informations pour les campagnes dans Journey Optimizer ou les applications tierces.
 
-Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
+Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)

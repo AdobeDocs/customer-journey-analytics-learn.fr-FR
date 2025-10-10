@@ -20,6 +20,6 @@ ht-degree: 43%
 
 Rationalisez l’analyse à l’aide de requêtes en langage naturel, de visualisations en temps réel et de tableaux à structure libre. Améliorez l’efficacité du développement des stratégies marketing, de la gestion des campagnes et du reporting des performances commerciales. Cette solution optimisée par l’IA donne aux professionnels du marketing des informations instantanées et libère les analystes pour leurs tâches stratégiques, améliorant ainsi l’expérience client et la prise de décision proactive.
 
-Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
+Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)

@@ -20,6 +20,6 @@ ht-degree: 26%
 
 Découvrez comment l’assistant d’IA dans Customer Journey Analytics vous permet d’apprendre les concepts, de résoudre les problèmes et d’optimiser les workflows. Exploitez tout le potentiel de CJA grâce à l’IA conversationnelle dédiée à la documentation Experience League, parfaite pour les débutants comme pour les experts.
 
-Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}.
+Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471136/?learn=on)
