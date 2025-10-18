@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Découvrez la configuration de base d’une diffusion par table de Customer Journey Analytics vers la zone d’atterrissage de données AEP et Snowflake. Pour consulter la documentation détaillée, voir [Exporter des rapports Customer Journey Analytics vers le cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=fr).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450974/?captions=fre_fr&learn=on)
 
 Avec une « exportation complète des tables », les utilisateurs peuvent diffuser en toute sécurité des tables concaténées contenant toutes les lignes d’un rapport vers leur destination cloud, de manière ponctuelle ou planifiée.  En outre, le nouveau gestionnaire de composants d’exportation permet de gérer facilement toutes les diffusions.
