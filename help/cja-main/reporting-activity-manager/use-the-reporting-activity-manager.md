@@ -20,6 +20,6 @@ ht-degree: 10%
 
 Utilisez le gestionnaire des activités de rapport dans [!DNL Customer Journey Analytics] pour surveiller et gérer la capacité de création de rapports sur les connexions d’entreprise. Cette vidéo couvre l’accès aux mesures clés, le dépannage des problèmes de performances et l’optimisation de l’efficacité du système.
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}.
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)

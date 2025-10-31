@@ -27,4 +27,4 @@ Découvrez comment utiliser la visualisation [!UICONTROL graphique de dispersion
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL graphique de dispersion], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"}.
+Pour plus d’informations sur les visualisations [!UICONTROL graphique de dispersion], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=fr){target="_blank"}.

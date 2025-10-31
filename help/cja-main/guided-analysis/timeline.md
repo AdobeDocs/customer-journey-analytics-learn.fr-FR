@@ -21,4 +21,4 @@ Découvrez la **chronologie** dans Customer Journey Analytics, qui vous aide à 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}.
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}.

@@ -18,7 +18,7 @@ ht-degree: 20%
 
 # Aperçu des segments
 
-Les segments identifient des sous-ensembles de visiteurs ou de clients en fonction d’attributs et d’événements, tels que les visiteurs du site web ou l’engagement du centre d’appels. Découvrez les composants principaux du créateur de segments dans Customer Journey Analytics. Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
+Les segments identifient des sous-ensembles de visiteurs ou de clients en fonction d’attributs et d’événements, tels que les visiteurs du site web ou l’engagement du centre d’appels. Découvrez les composants principaux du créateur de segments dans Customer Journey Analytics. Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
 
 >[!NOTE]
 >

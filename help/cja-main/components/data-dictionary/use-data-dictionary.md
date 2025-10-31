@@ -22,4 +22,4 @@ En savoir plus sur le dictionnaire de données dans Analysis Workspace pour Cust
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-Pour plus d’informations sur le dictionnaire de données dans Analysis Workspace pour Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html){target="_blank"}.
+Pour plus d’informations sur le dictionnaire de données dans Analysis Workspace pour Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=fr){target="_blank"}.

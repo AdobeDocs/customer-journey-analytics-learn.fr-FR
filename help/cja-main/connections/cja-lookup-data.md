@@ -21,6 +21,6 @@ ht-degree: 27%
 
 Grâce aux recherches CJA sur les données de recherche et de profil, les utilisateurs peuvent utiliser des relations plus étroites entre les éléments de données, tels que la personne à prendre en compte dans les cas d’utilisation B2B.  Dans cette vidéo, découvrez comment ajouter des données de recherche aux jeux de données de recherche et de profil, et comment planifier et mapper vos champs clés.  Notez que s’il existe une relation un-à-plusieurs entre la clé et la valeur de recherche, la valeur la plus récente est utilisée.
 
-Pour consulter la documentation détaillée, consultez les sections [Types de jeux de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en#dataset-types){target="_blank"} et [Ajouter des données au niveau du compte en tant que jeu de données de recherche](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=en){target="_blank"}.
+Pour consulter la documentation détaillée, consultez les sections [Types de jeux de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=fr#dataset-types){target="_blank"} et [Ajouter des données au niveau du compte en tant que jeu de données de recherche](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=fr){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)

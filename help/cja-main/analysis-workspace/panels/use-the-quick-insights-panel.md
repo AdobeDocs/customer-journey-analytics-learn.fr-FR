@@ -20,6 +20,6 @@ ht-degree: 8%
 
 Découvrez comment répondre rapidement et facilement à des besoins professionnels à l’aide du panneau d’aperçu rapide dans Customer Journey Analytics. Conçu pour les nouveaux utilisateurs et utilisatrices ou les analystes experts, ce panneau vous permet de tester intuitivement des dimensions, des mesures, des visualisations et des segments afin de produire la meilleure combinaison de composants pour votre analyse.
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}.
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)
