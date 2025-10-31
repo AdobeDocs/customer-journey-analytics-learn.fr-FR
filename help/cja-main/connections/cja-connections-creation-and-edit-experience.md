@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Une nouvelle expérience Connexions avec de nouvelles fonctionnalités qui permettent aux clients d’activer une fenêtre dynamique de conservation des données, d’activer et de demander des données de renvoi en fonction de l’horodatage des événements et d’importer des données existantes par jeu de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/343044/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409299/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=fr){target="_blank"}.

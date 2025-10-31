@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Plutôt qu’une exploration approfondie des aspects techniques, cette vidéo offre un aperçu pratique de l’incidence de l’[!UICONTROL identité] sur les analyses dans Customer Journey Analytics. Cela comprend un aperçu des [!UICONTROL visualisations] cross-canal, rendues possibles par l’assemblage des ID de [!UICONTROL visiteurs].
 
->[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32935/?captions=fre_fr&learn=on&quality=12)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=fr){target="_blank"}.

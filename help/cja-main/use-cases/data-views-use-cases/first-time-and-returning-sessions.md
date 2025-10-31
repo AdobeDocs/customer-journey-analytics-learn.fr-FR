@@ -20,6 +20,6 @@ ht-degree: 100%
 
 La fonctionnalité Premières et renouvelées sessions permet de faire la distinction entre les nouvelles sessions et les sessions récurrentes pour vos utilisateurs. Pour ce faire, vous devez effectuer une recherche en amont de 13 mois de votre rapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412321/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416833/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=fr#new-repeat){target="_blank"}.

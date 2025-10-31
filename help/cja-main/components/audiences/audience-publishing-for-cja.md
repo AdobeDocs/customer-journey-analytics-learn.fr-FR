@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Découvrez comment publier des audiences de Customer Journey Analytics vers le profil client en temps réel d’Adobe Experience Platform pour l’activation des segments ou une orchestration de parcours plus personnalisée.
 
->[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412472/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/audiences/audiences-overview.html?lang=fr){target="_blank"}.

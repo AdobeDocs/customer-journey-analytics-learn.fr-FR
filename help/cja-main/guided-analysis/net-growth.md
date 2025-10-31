@@ -20,6 +20,6 @@ ht-degree: 18%
 
 Découvrez comment la **croissance nette** dans Customer Journey Analytics fournit des informations sur le taux auquel vous gagnez ou perdez des utilisateurs sur une période spécifique.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423460/?captions=fre_fr&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=fr){target="_blank"}.

@@ -20,6 +20,6 @@ ht-degree: 5%
 
 Explorez le potentiel des fonctions mathématiques pour créer des champs dérivés dans Customer Journey Analytics dans ce tutoriel vidéo. Découvrez comment ajuster les mesures en supprimant des totaux les composants indésirables tels que les taxes et comprenez les avantages de l’utilisation de champs dérivés par rapport aux mesures calculées, y compris les fonctionnalités de vue de données exclusives telles que la déduplication, le regroupement et l’attribution. Bénéficiez d’une plus grande flexibilité pour créer des mesures personnalisées qui correspondent à vos besoins en matière d’analyse, améliorant vos capacités de prise de décision axée sur les données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447211?captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.

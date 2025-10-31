@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Adobe Product Analytics permet aux équipes produit d’obtenir des données et des informations en libre-service sur leur expérience de produit au moyen de workflows d’analyse guidée, reposant sur les mêmes données cross-canal de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421621/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423508/?captions=fre_fr&learn=on)
 
 Grâce à Adobe Product Analytics, les équipes peuvent :
 

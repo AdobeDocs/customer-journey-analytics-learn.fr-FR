@@ -20,6 +20,6 @@ ht-degree: 100%
 
 La prise en charge des champs de date permet d’utiliser les champs de date et d’heure dans Customer Journey Analytics. Vous pouvez sélectionner le mode d’affichage du champ date ou date-heure et utiliser des opérateurs logiques spécifiques à la date dans la fonctionnalité d’inclusion/exclusion pour filtrer ce qui s’affiche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412322/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416827/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=fr#date){target="_blank"}.

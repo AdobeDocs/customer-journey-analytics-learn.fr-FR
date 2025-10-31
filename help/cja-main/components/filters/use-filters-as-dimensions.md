@@ -24,4 +24,4 @@ Découvrez comment comparer et visualiser des segments lorsqu’ils sont utilis�
 >
 > Les « [!UICONTROL &#x200B; Filtres &#x200B;] » ont été renommés « [!UICONTROL &#x200B; Segments &#x200B;] » dans l’interface de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449064/?captions=fre_fr&learn=on&quality=12)

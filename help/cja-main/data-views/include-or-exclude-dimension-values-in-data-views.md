@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Grâce à cette fonctionnalité de configuration des [!UICONTROL Vues de données], vous pouvez filtrer les valeurs au sein des dimensions afin de rendre le quotidien de vos analystes plus facile lorsqu’ils créent des projets dans Customer Journey Analytics. Vous nous remercierez plus tard (une fois que vos analystes vous auront remercié).
 
->[!VIDEO](https://video.tv.adobe.com/v/332906/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412352/?captions=fre_fr&quality=12&learn=on)
 
 ## Ressources supplémentaires
 

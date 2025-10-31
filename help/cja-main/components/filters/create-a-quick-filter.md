@@ -24,4 +24,4 @@ Créez des [!UICONTROL segments rapides] directement dans vos projets [!DNL Cust
 >
 > Les « [!UICONTROL &#x200B; Filtres &#x200B;] » ont été renommés « [!UICONTROL &#x200B; Segments &#x200B;] » dans l’interface de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/343743/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410241/?captions=fre_fr&quality=12&learn=on)

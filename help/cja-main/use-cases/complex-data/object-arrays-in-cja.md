@@ -20,6 +20,6 @@ ht-degree: 89%
 
 Découvrez comment utiliser des tableaux d’objets à partir de jeux de données de profil et de recherche dans CJA pour enrichir votre analyse B2B et B2C, des connexions aux vues de données et à Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445261/?captions=fre_fr&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=fr){target="_blank"}.

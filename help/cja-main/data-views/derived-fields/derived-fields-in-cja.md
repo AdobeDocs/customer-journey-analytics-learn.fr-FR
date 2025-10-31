@@ -20,7 +20,7 @@ ht-degree: 4%
 
 Découvrez comment créer des champs dérivés pour créer des manipulations de données complexes à la volée par le biais d’un créateur de règles personnalisables, puis faire en sorte que la logique s’applique rétroactivement à leurs rapports. Cela permet de gagner du temps et de s’assurer que les données sont dans un format utilisable pour les rapports, les analyses et les actions.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420258/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450904/?captions=fre_fr&learn=on)
 
 Cette fonctionnalité vous permet d’améliorer la qualité et la précision des données de vos projets en raison d’erreurs ou de lacunes dans les données.
 Voici quelques exemples de cas d’utilisation :

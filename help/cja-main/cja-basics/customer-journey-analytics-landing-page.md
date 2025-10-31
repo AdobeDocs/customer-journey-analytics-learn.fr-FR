@@ -19,6 +19,6 @@ ht-degree: 100%
 
 La page de destination de Customer Journey Analytics présente une vue par défaut de vos projets et de vos cartes de performance mobiles, ainsi qu’une section d’apprentissage pour vous permettre de démarrer plus efficacement.
 
->[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409306/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=fr){target="_blank"}.
