@@ -9,7 +9,7 @@ kt: 4447
 role: User
 level: Beginner
 exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
-source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 20%
@@ -18,10 +18,10 @@ ht-degree: 20%
 
 # Aperçu des segments
 
-Les segments identifient des sous-ensembles de visiteurs ou de clients en fonction d’attributs et d’événements, tels que les visiteurs du site web ou l’engagement du centre d’appels. Découvrez les composants principaux du créateur de segments dans Customer Journey Analytics. Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+Les segments identifient des sous-ensembles de visiteurs ou de clients en fonction d’attributs et d’événements, tels que les visiteurs du site web ou l’engagement du centre d’appels. Découvrez les composants principaux du créateur de segments dans Customer Journey Analytics. Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
 
 >[!NOTE]
 >
-> Les « [!UICONTROL &#x200B; Filtres &#x200B;] » ont été renommés « [!UICONTROL &#x200B; Segments &#x200B;] » dans l’interface de Customer Journey Analytics.
+> Les « [!UICONTROL  Filtres ] » ont été renommés « [!UICONTROL  Segments ] » dans l’interface de Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/36079/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)

@@ -12,7 +12,7 @@ topic: Architecture
 role: Architect, Data Architect
 level: Intermediate
 exl-id: 441e632f-b8d0-428a-9db6-c048bf173443
-source-git-commit: c9830412d18f63dc14020748ff43df7f7fcf408c
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Cette vidéo présente l’architecture de Customer Journey Analytics, y compris la façon dont cet outil se connecte et s’intègre à Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/330409/?learn=on&quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
 
-Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=fr).
+Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=fr){target="_blank"}.

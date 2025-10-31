@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 332788.jpg
 kt: 7582
 exl-id: e0c2cf9f-5c5e-45e2-a738-cc7afc0a440f
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Cette vidéo explore quelques paramètres de composants de base que vous souhaiterez configurer pour chaque [!UICONTROL composant] (mesures et dimensions) lors de la configuration d’une [!UICONTROL vue de données] dans Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412344/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/332788/?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-* [Customer Journey Analytics - Documentation sur les vues de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=fr)
+* [Customer Journey Analytics - Documentation sur les vues de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=fr){target="_blank"}

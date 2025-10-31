@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 343458.jpg
 kt: 10445
 exl-id: 602061a9-7470-41ce-ae92-2913e6c4c188
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Cette vidéo vous explique comment créer une carte de performance mobile à l’aide du [!DNL Scorecard Builder] dans [!DNL Customer Journey Analytics]. Permettez à vos cadres d’accéder à tout moment aux mesures de performances clés et aux vues détaillées, ou répartitions. Le [!DNL Scorecard Builder] offre une interface conviviale qui vous permet de créer des tableaux de bord multicanaux à l’aide des vues de données [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/3409729/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/343458/?quality=12&learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=fr).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=fr){target="_blank"}.

@@ -12,7 +12,7 @@ topic: Migration
 role: User
 level: Beginner
 exl-id: b359a509-f920-40d2-978f-983f1b555e86
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Cette vidéo partage des conseils pour vous permettre de recréer vos [!UICONTROL segments] Adobe Analytics sous forme de « [!UICONTROL filtres] » dans Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/35581/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12&learn=on)
 
-Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=fr).
+Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=fr){target="_blank"}.
