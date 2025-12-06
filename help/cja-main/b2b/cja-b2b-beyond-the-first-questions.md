@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment améliorer l’analyse B2B en formulant des questions avancées et en allant au-delà des mesures de base dans Adobe Customer Journey Analytics (CJA). Découvrez des opportunités stratégiques et des informations exploitables.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477514/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477516/?captions=fre_fr&learn=on)
