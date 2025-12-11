@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Tirez davantage parti de votre analyse en ajoutant de nouvelles données provenant d’autres canaux à une connexion Customer Journey Analytics. De plus, vous devez comprendre les exigences de la fusion de ces nouvelles données et les répercussions sur les analyses et les rapports qui sont traités à l’aide des paramètres de configuration.
 
->[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36475/?captions=fre_fr&learn=on&quality=12&learn=on)
 
 Pour plus d’informations sur l’analytique cross-canal, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=fr){target="_blank"}.
