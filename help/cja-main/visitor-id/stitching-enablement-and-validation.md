@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette vidéo vous guide tout au long de l’activation du groupement sur n’importe quel jeu de données d’événement. En outre, une fois que le groupement a été activé sur un jeu de données, il permet de présenter différentes mesures et dimensions que vous pouvez utiliser pour vérifier qu’il fonctionne et la valeur qu’il apporte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478120/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478122/?captions=fre_fr&learn=on&enablevpops)
