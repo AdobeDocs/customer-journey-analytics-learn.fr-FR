@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment les visualisations en ligne peuvent améliorer votre compréhension des mesures au fil du temps. Personnalisez les axes X/Y, affichez les libellés min./max. et ajoutez des lignes de tendance pour améliorer vos informations sur les données avec Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478981/?captions=fre_fr&learn=on&enablevpops)
