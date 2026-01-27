@@ -22,4 +22,4 @@ Découvrez la puissante fonctionnalité [!DNL Data Storytelling] d’Adobe Custo
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479119/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479121/?captions=fre_fr&learn=on&enablevpops)
