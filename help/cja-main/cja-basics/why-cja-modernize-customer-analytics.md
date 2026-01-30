@@ -22,4 +22,4 @@ Découvrez la façon dont Adobe Customer Journey Analytics (CJA), basé sur 
 
 Pour plus d’informations, consultez les [points clés avant de migrer vers CJA](https://experienceleague.adobe.com/fr/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479328/?captions=fre_fr&learn=on&enablevpops)
