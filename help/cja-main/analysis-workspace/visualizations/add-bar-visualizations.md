@@ -8,11 +8,11 @@ thumbnail: 334308.jpg
 kt: 13402
 role: User
 level: Beginner
-last-substantial-update: 2023-06-07T00:00:00Z
+last-substantial-update: 2026-02-04T00:00:00Z
 exl-id: 3e4cf780-29ea-4a1b-92af-09e08a91a637
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 1e48f7b47c07d5fbccb5561ab666f0fcea87e192
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,6 @@ ht-degree: 0%
 
 Découvrez comment ajouter et configurer des visualisations [!UICONTROL bar] et [!UICONTROL barre empilée] standard dans les projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Ils utilisent des formations [!UICONTROL bar] pour représenter les valeurs dans les mesures.
 
->[!NOTE]
->
->L’interface utilisateur et les fonctionnalités [!DNL Analysis Workspace] sont similaires dans les [!DNL Adobe Analytics] et les [!DNL Customer Journey Analytics].
+>[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/3416619/?captions=fre_fr&quality=12&learn=on)
-
-Pour plus d’informations sur les visualisations [!UICONTROL bar], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=fr){target="_blank"}.
+Pour plus d’informations sur les visualisations [!UICONTROL bar], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}.
