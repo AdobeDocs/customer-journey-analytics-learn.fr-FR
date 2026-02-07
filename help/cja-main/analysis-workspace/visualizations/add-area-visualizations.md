@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Découvrez comment ajouter des visualisations [!UICONTROL surface] et [!UICONTROL aires empilées] aux projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Ces visualisations sont idéales pour une utilisation lorsqu’il existe plusieurs mesures pour lesquelles vous souhaitez visualiser la zone en fonction de l’intersection.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479637/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479642/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations sur les visualisations [!UICONTROL zone], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=fr){target="_blank"}.
