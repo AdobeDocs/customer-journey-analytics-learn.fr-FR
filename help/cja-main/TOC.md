@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 33eae9d6426794f3029e2db25e242640dc1fc4c0
+source-git-commit: 0572e7c2b67e3b17617a85d04a339c6970744de0
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 97%
@@ -97,7 +97,7 @@ ht-degree: 97%
       + [Plusieurs colonnes de dimensions dans les tableaux à structure libre](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [Ajouter des visualisations en ligne](analysis-workspace/visualizations/line-visualization.md)
       + [Configurer et utiliser la visualisation des cartes](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
-      + [Utiliser des visualisations récapitulatives](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [Ajout de visualisations de résumé](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Ajouter des visualisations de texte](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Utiliser une visualisation en graphique de dispersion](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [Ajouter une visualisation en arborescence](analysis-workspace/visualizations/add-treemap-visualizations.md)
