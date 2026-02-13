@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Découvrez comment ajouter et configurer des visualisations [!UICONTROL récapitulatives] dans les projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Ces visualisations sont parfaites pour mettre en évidence un grand nombre d’éléments importants dans un projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479879/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479892/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations sur les visualisations [!UICONTROL récapitulatives], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=fr){target="_blank"}.

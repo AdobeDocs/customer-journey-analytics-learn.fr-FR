@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Découvrez comment ajouter et configurer des visualisations [!UICONTROL en anneau] pour [!DNL Analysis Workspace] des projets dans [!DNL Customer Journey Analytics]. Cette visualisation est idéale pour comparer des pourcentages par rapport à un total de quelques éléments.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479878/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479881/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations sur les visualisations [!UICONTROL en anneau], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=fr){target="_blank"}.
