@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Découvrez comment ajouter et configurer des visualisations textuelles dans les projets Analysis Workspace de Customer Journey Analytics. Cette visualisation est utile lorsque vous souhaitez faire part de vos préoccupations concernant les mesures ou ajouter du contexte à d’autres données d’un projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479695/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479710/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations sur les visualisations [!UICONTROL texte], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=fr){target="_blank"}.

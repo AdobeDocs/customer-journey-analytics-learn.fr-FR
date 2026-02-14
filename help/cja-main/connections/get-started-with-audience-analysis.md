@@ -22,4 +22,4 @@ Découvrez comment l’analyse d’audience permet aux spécialistes marketing d
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479806/?captions=fre_fr&learn=on&enablevpops)
