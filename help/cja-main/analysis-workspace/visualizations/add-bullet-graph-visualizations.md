@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Découvrez comment les [!UICONTROL graphiques à puces] sont utilisés et comment les ajouter à [!DNL Analysis Workspace] projets dans [!DNL Customer Journey Analytics]. Ce graphique vous montre comment une valeur d’intérêt se compare à des objectifs ou les mesure par rapport à ceux-ci.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479960/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations sur les visualisations [!UICONTROL graphique à puces], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=fr){target="_blank"}.
