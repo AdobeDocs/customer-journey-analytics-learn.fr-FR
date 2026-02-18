@@ -20,4 +20,4 @@ Découvrez comment les [!UICONTROL graphiques à puces] sont utilisés et commen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL graphique à puces], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html){target="_blank"}.
+Pour plus d’informations sur les visualisations [!UICONTROL graphique à puces], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=fr){target="_blank"}.
