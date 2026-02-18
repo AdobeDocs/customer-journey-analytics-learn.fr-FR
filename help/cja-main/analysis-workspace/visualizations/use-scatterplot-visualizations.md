@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Découvrez comment utiliser la visualisation [!UICONTROL nuage de points] dans les projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Cette visualisation montre la relation entre les éléments de dimension et jusqu’à trois mesures.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479971/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations sur les visualisations [!UICONTROL nuage de points], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=fr){target="_blank"}.
