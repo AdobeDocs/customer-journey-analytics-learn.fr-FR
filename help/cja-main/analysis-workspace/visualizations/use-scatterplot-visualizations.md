@@ -20,4 +20,4 @@ Découvrez comment utiliser la visualisation [!UICONTROL nuage de points] dans l
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
 
-Pour plus d’informations sur les visualisations [!UICONTROL nuage de points], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"}.
+Pour plus d’informations sur les visualisations [!UICONTROL nuage de points], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=fr){target="_blank"}.
