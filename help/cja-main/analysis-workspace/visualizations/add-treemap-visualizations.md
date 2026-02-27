@@ -1,18 +1,15 @@
 ---
-title: Ajout de la visualisation [!UICONTROL carte arborescente] aux  [!DNL Analysis Workspace]  projets
+title: Ajout de la visualisation [!UICONTROL Carte arborescente] aux [!DNL Analysis Workspace] projets
 description: Découvrez comment ajouter et configurer la visualisation [!UICONTROL carte arborescente] dans  [!DNL Analysis Workspace]  projets dans  [!DNL Customer Journey Analytics].
 feature: Visualizations
-doc-type: technical video
-team: Technical Marketing
-thumbnail: 334458.jpg
 kt: 13432
 role: User
 level: Beginner
-last-substantial-update: 2023-06-07T00:00:00Z
+last-substantial-update: 2026-02-25T00:00:00Z
 exl-id: 375c6b09-08f3-48a4-9c86-da5044060a83
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -21,10 +18,6 @@ ht-degree: 0%
 
 Découvrez comment ajouter et configurer la visualisation [!UICONTROL carte arborescente] dans les projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Cette visualisation crée des données hiérarchiques sous la forme d’un ensemble de rectangles imbriqués et vous permet de voir facilement des motifs qui seraient difficiles à repérer autrement.
 
->[!NOTE]
->
->L’interface utilisateur et les fonctionnalités [!DNL Analysis Workspace] sont similaires dans les [!DNL Adobe Analytics] et les [!DNL Customer Journey Analytics].
+>[!VIDEO](https://video.tv.adobe.com/v/3480243/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/3416854/?captions=fre_fr&quality=12&learn=on)
-
-Pour plus d’informations sur les visualisations [!UICONTROL arborescence], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=fr){target="_blank"}.
+Pour plus d’informations sur les visualisations [!UICONTROL arborescence], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html){target="_blank"}.

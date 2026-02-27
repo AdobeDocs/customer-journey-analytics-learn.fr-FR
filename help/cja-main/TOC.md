@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ad38d3670dfb90852baea4ce2f0e6813f8fe70c7
+source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 95%
+source-wordcount: '656'
+ht-degree: 92%
 
 ---
 
@@ -96,11 +96,11 @@ ht-degree: 95%
       + [Ajouter des visualisations en anneau](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [Plusieurs colonnes de dimensions dans les tableaux à structure libre](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [Ajouter des visualisations en ligne](analysis-workspace/visualizations/line-visualization.md)
-      + [Configurer et utiliser la visualisation des cartes](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
-      + [Ajout de visualisations de résumé](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [Ajout et configuration de la visualisation des cartes](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
+      + [Ajouter des visualisations de résumé](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Ajouter des visualisations de texte](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Ajout de visualisations de dispersion](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
-      + [Ajouter une visualisation en arborescence](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [Ajout de visualisations de carte arborescente](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [Création de visualisations 100 % empilées](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [Ajouter une prévision à votre visualisation](analysis-workspace/visualizations/forecasting.md)
    + Annotations {#annotations}
