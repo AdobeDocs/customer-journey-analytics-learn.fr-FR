@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Découvrez comment ajouter et configurer la visualisation [!UICONTROL carte arborescente] dans les projets [!DNL Analysis Workspace] dans [!DNL Customer Journey Analytics]. Cette visualisation crée des données hiérarchiques sous la forme d’un ensemble de rectangles imbriqués et vous permet de voir facilement des motifs qui seraient difficiles à repérer autrement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480243/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480258/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations sur les visualisations [!UICONTROL arborescence], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=fr){target="_blank"}.
