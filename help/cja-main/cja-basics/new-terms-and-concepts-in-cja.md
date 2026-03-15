@@ -26,4 +26,4 @@ Découvrez comment traduire vos connaissances Adobe Analytics existantes dans Cu
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36082/?captions=fre_fr&quality=12&learn=on)
