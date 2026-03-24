@@ -21,6 +21,6 @@ Découvrez la fonctionnalité d’aperçu du jeu de données de Customer Journey
 
 Évaluez l’adéquation des jeux de données pour un compte rendu des performances fiable sur plusieurs appareils et plusieurs canaux avant l’ingestion, ce qui réduit considérablement le délai de rentabilisation et réduit les risques liés aux décisions de stratégie d’identité avec des informations en temps réel.
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate){target="_blank"}.
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
