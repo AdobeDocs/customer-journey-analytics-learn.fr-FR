@@ -5,12 +5,11 @@ doc-type: Short Video
 duration: 193
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 83782049-7f14-4366-8ade-8ac9b246afca
-source-git-commit: c169a205a9088da0982548d448500f15b2027c06
+source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -20,4 +19,4 @@ ht-degree: 0%
 Découvrez comment les champs dérivés en ligne permettent aux utilisateurs de nettoyer et de regrouper les données directement dans Customer Journey Analytics, ce qui réduit la dépendance à l’égard des administrateurs et vous fait gagner du temps.
 
 <!-- 62_S102_3442449_192_inline-derived-fields-realtime-data-transformation-in-cja -->
->[!VIDEO](https://video.tv.adobe.com/v/3460288/?learn=on&enablevpops=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3460288/?captions=fre_fr&learn=on&enablevpops=true)
