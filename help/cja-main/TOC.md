@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c4adc96faebf26fd3e0e58fe38b2a0a7f3c2d5c4
+source-git-commit: 3324740cfa93ad26145ee16052e5bf3694720678
 workflow-type: tm+mt
-source-wordcount: '668'
-ht-degree: 88%
+source-wordcount: '676'
+ht-degree: 87%
 
 ---
 
@@ -166,6 +166,7 @@ ht-degree: 88%
 + Cas d’utilisation {#use-cases}
    + Intelligence artificielle {#ai}
       + [Suivre et analyser le trafic IA](use-cases/ai/track-and-analyze-ai-traffic.md)
+      + [Valider la qualité du jeu de données avec Data Engineering Agent](use-cases/ai/validate-dataset-quality-data-engineering-agent.md)
    + Cas dʼutilisation des vues de données {#data-views-use-cases}
       + [Rapports sur les premières sessions et les sessions récurrentes](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Utiliser la prise en charge des champs de date](use-cases/data-views-use-cases/leverage-date-field-support.md)
