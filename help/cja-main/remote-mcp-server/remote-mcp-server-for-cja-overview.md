@@ -22,4 +22,4 @@ Découvrez comment connecter des outils d’IA tels que [!DNL Claude], [!DNL Cha
 
 Pour plus d’informations, consultez la [documentation](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"} de Content Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486313/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486316/?captions=fre_fr&learn=on&enablevpops)
