@@ -22,4 +22,4 @@ Découvrez comment connecter des outils d’IA tels que Claude, ChatGPT ou Curso
 
 Pour plus d’informations, consultez la [documentation](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"} de Content Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486314/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486327/?captions=fre_fr&learn=on&enablevpops)

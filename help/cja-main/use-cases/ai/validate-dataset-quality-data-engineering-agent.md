@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser les compétences de validation des données dans Data Engineering Agent pour profiler et valider rapidement vos jeux de données Adobe Customer Journey Analytics. Vous découvrirez comment détecter les valeurs non valides, comprendre les modèles au niveau du champ et exploiter les informations basées sur l’IA pour améliorer la qualité des données avant de créer des rapports et des parcours dans Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486277/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486279/?captions=fre_fr&learn=on&enablevpops)
