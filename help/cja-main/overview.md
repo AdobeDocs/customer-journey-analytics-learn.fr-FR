@@ -8,10 +8,16 @@ team: Technical Marketing
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
+TQID: https://experienceleague.adobe.com/PqCZVUzH3rdhPcX9qugdSSR7nw7I9vFfDjK7V-BsxQs
+product_v2: id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+feature_v2: id: c73c4213-d623-4126-81f4-80b42e5e2656id: e75a4a9c-d354-4ca4-9b02-1afeca73fa5e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 100%
+source-wordcount: 231
+ht-degree: 74%
 
 ---
 
@@ -24,7 +30,7 @@ Bienvenue sur le site dédié aux tutoriels [!DNL Customer Journey Analytics].  
 * Découvrez le contenu par rubrique et sous-rubrique dans le **volet de navigation de gauche**.
 * Utilisez le champ **recherche** en haut de la page si vous savez ce que vous recherchez.
 
-Customer Journey Analytics vous permet de contrôler la manière dont vous connectez vos données en ligne et hors ligne dans Analysis Workspace sur n’importe quel ID de client commun, ce qui vous permet enfin d’effectuer une attribution, une segmentation, un flux, un abandon, etc. sur l’ensemble de votre jeu de données client.
+Customer Journey Analytics vous permet de contrôler la manière dont vous connectez vos données en ligne et hors ligne dans Analysis Workspace sur n’importe quel ID de client commun, ce qui vous permet enfin d’effectuer une attribution, une segmentation, un flux, un abandon, etc. sur l’ensemble de votre jeu de données client.
 
 
 <div id="recs-overview-body-1"></div>
@@ -59,7 +65,7 @@ Customer Journey Analytics vous permet de contrôler la manière dont vous con
     </a>
     <div>
       <a href="architecture/architecture-and-integrations-of-cja.md">
-    <strong>Architecture et intégrations de Customer Journey Analytics</strong>
+    <strong> Architecture et intégrations de Customer Journey Analytics </strong>
     </a>
     </div>
     <p>
@@ -72,7 +78,7 @@ Customer Journey Analytics vous permet de contrôler la manière dont vous con
     </a>
     <div>
       <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
-    <strong>Attribution cross-canal dans Customer Journey Analytics</strong>
+    <strong> Attribution cross-canal dans Customer Journey Analytics </strong>
     </a>
     </div>
     <p>

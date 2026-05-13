@@ -1,25 +1,31 @@
 ---
-title: Exportation complète de table dans Customer Journey Analytics
-description: Découvrez la configuration de base d’une diffusion par table de Customer Journey Analytics vers la zone d’atterrissage de données AEP et Snowflake.
+title: Export de tableau complet dans Customer Journey Analytics
+description: Découvrez la configuration de base d’une diffusion de tableau de Customer Journey Analytics vers la zone de destination des données AEP et Snowflake.
 feature: Curate and Share
 role: User
 level: Intermediate
 doc-type: Feature Video
-last-substantial-update: 2023-11-01T00:00:00Z
+last-substantial-update: 2023-11-01T00:00:00.000Z
 jira: KT-14282
 thumbnail: 3425389.jpeg
 exl-id: 1659b296-3fef-4497-9700-5799e3494737
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+TQID: https://experienceleague.adobe.com/VwXWWlFfDlTyXIrEuU4yFUEhqbdTN8r2-XPT-H2VjoI
+product_v2: id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+feature_v2: id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+subfeature_v2: id: bcaa1b08-8269-4ff3-a0c2-f599783b6107id: ef46ac31-f951-48d6-bae5-51c52ab47fb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: 119
+ht-degree: 100%
 
 ---
 
-# Exportation complète de table dans Customer Journey Analytics
+# Export de tableau complet dans Customer Journey Analytics
 
-Découvrez la configuration de base d’une diffusion par table de Customer Journey Analytics vers la zone d’atterrissage de données AEP et Snowflake. Pour consulter la documentation détaillée, voir [Exporter des rapports Customer Journey Analytics vers le cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=fr){target="_blank"}.
+Découvrez la configuration de base d’une diffusion de tableau de Customer Journey Analytics vers la zone de destination des données AEP et Snowflake. Pour obtenir une documentation détaillée, consultez [Exporter des rapports Customer Journey Analytics dans le cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=fr){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450974/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 
-Avec une « exportation complète des tables », les utilisateurs peuvent diffuser en toute sécurité des tables concaténées contenant toutes les lignes d’un rapport vers leur destination cloud, de manière ponctuelle ou planifiée.  En outre, le nouveau gestionnaire de composants d’exportation permet de gérer facilement toutes les diffusions.
+Avec un « export de tableau complet », il est possible de diffuser en toute sécurité des tables concaténées contenant toutes les lignes d’un rapport vers leur destination cloud, de manière ponctuelle ou planifiée.  En outre, le nouveau gestionnaire de composants d’export permet de gérer facilement toutes les diffusions.
