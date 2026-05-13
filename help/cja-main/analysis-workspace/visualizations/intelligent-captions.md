@@ -32,4 +32,4 @@ Découvrez comment activer les légendes intelligentes dans vos visualisations a
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en){target="_blank"}.
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=fr){target="_blank"}.

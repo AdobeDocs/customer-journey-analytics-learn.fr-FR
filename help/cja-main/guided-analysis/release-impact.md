@@ -29,4 +29,4 @@ Découvrez comment la section **Impact de la publication** dans Customer Journey
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html){target="_blank"}.
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=fr){target="_blank"}.
