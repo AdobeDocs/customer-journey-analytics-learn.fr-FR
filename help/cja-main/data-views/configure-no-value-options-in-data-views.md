@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Lors de la configuration des vues de données dans Customer Journey Analytics, vous pouvez choisir si et comment l’option « aucune valeur » doit s’afficher dans vos rapports.
 
->[!VIDEO](https://video.tv.adobe.com/v/333113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412941/?captions=fre_fr&quality=12&learn=on)

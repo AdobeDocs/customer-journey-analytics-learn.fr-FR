@@ -37,4 +37,4 @@ Analysez les données à l’aide de prompts en langage naturel pour générer d
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463897/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463921/?captions=fre_fr&learn=on&enablevpops)

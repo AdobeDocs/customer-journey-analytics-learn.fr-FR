@@ -27,6 +27,6 @@ ht-degree: 16%
 
 Découvrez comment la **fréquence** dans Customer Journey Analytics vous permet d’analyser l’interaction des utilisateurs et utilisatrices avec les événements de votre produit.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435804/?captions=fre_fr&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/guided-analysis/trends/frequency){target="_blank"}.

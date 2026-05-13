@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Si de nombreuses personnes interagissent avec votre contenu sur plusieurs canaux et appareils, il est important de connecter ces événements non authentifiés aux événements authentifiés. Cela permet une approche plus holistique de la création de rapports et, finalement, de l’activation. Cette vidéo propose une vue d’ensemble rapide du processus de regroupement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452549/?captions=fre_fr&learn=on)

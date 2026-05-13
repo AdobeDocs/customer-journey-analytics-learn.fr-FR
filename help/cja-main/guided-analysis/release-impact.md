@@ -27,6 +27,6 @@ ht-degree: 16%
 
 Découvrez comment la section **Impact de la publication** dans Customer Journey Analytics présente une comparaison des performances des indicateurs clés avant et après une date donnée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423448/?captions=fre_fr&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=fr){target="_blank"}.

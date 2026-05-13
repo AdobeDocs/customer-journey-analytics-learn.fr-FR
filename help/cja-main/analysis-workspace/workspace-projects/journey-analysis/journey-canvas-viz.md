@@ -32,6 +32,6 @@ ht-degree: 30%
 
 Découvrez la visualisation de la zone de travail des parcours, qui vous permet d’analyser les parcours que vous fournissez à vos utilisateurs et clientes, et d’obtenir des informations détaillées à leur sujet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440628/?captions=fre_fr&learn=on)
 
 Les utilisateurs et utilisatrices peuvent créer des parcours avec plusieurs démarrages, chemins ou fins. Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"}.
