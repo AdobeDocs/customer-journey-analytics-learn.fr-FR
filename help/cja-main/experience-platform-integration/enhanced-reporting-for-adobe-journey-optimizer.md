@@ -1,23 +1,33 @@
 ---
-title: Création de rapports améliorée pour Adobe Journey Optimizer
+title: Amélioration de la création de rapports pour Adobe Journey Optimizer
 description: De nouvelles fonctionnalités de création de rapports et d’orchestration des mesures sont disponibles dans Adobe Journey Optimizer. Ces améliorations apportées à Journey Optimizer comprennent également une interopérabilité accrue et une valeur ajoutée étendue avec Customer Journey Analytics par le biais de sources de données supplémentaires, d’une personnalisation avancée, d’une manipulation de données, d’une analyse, etc.
 feature: Experience Platform Integration
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 22500
-last-substantial-update: 2024-06-24T00:00:00Z
+last-substantial-update: 2024-06-24T00:00:00.000Z
 jira: KT-15767
 exl-id: 9a3e1d44-e61f-416e-a4a2-c46bce7445c3
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+TQID: https://experienceleague.adobe.com/uOUi2EW5FQqCx5rNErENkI4Sq1JMUhV6mgDkIwcZPyo
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 37%
+source-wordcount: 112
+ht-degree: 78%
 
 ---
 
-# Création de rapports améliorée pour Adobe Journey Optimizer
+# Amélioration de la création de rapports pour Adobe Journey Optimizer
 
-De nouvelles fonctionnalités de création de rapports et d’orchestration des mesures sont disponibles dans Adobe Journey Optimizer. Ces améliorations apportées à Journey Optimizer comprennent également une interopérabilité accrue et une valeur ajoutée accrue avec Customer Journey Analytics par le biais de sources de données supplémentaires, d’une personnalisation avancée, de la manipulation et de l’analyse des données, etc. Pour obtenir une documentation détaillée, voir [Commencer avec la nouvelle interface de création de rapports](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channel-report/report-gs-cja){target="_blank"}.
+De nouvelles fonctionnalités de création de rapports et d’orchestration des mesures sont disponibles dans Adobe Journey Optimizer. Ces améliorations apportées à Journey Optimizer comprennent également une interopérabilité accrue et une valeur ajoutée étendue avec Customer Journey Analytics par le biais de sources de données supplémentaires, d’une personnalisation avancée, d’une manipulation de données, d’une analyse, etc. Pour obtenir une documentation détaillée, voir [Commencer avec la nouvelle interface de création de rapports](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channel-report/report-gs-cja){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443153/?captions=fre_fr&learn=on)
