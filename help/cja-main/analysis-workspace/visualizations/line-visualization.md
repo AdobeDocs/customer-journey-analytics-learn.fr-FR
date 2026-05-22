@@ -29,4 +29,4 @@ ht-degree: 53%
 
 Découvrez comment les visualisations en courbes peuvent améliorer votre compréhension des mesures au fil du temps. Personnalisez les axes X/Y, affichez les libellés min./max. et ajoutez des lignes de tendance pour améliorer les informations sur vos données avec Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478981/?captions=fre_fr&learn=on&enablevpops)
