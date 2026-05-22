@@ -41,4 +41,4 @@ Découvrez comment créer et publier des audiences de Customer Journey Analyti
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471275/?captions=fre_fr&learn=on)
