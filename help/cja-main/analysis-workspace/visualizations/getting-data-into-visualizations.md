@@ -18,6 +18,6 @@ ht-degree: 75%
 
 # Obtention de données dans les visualisations
 
-Lors de lʼajout de visualisations dans Analysis Workspace, il existe plusieurs manières dʼy ajouter des données, selon le type de visualisation. Cette vidéo présente ces méthodes. Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"}.
+Lors de lʼajout de visualisations dans Analysis Workspace, il existe plusieurs manières dʼy ajouter des données, selon le type de visualisation. Cette vidéo présente ces méthodes. Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491932/?learn=on&enablevpops)
