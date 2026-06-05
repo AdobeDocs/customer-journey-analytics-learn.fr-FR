@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 1ae23458447742f1e5d57b6e719f3ccb5c106084
+source-git-commit: ce8fe9b716c71d3110da633ba2557b33e2ace2a5
 workflow-type: tm+mt
 source-wordcount: '701'
 ht-degree: 84%
@@ -181,3 +181,4 @@ ht-degree: 84%
    + [Plan directeur de Customer Journey Analytics](https://experienceleague.adobe.com/fr/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Scénario de consolidation des données comportementales numériques](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Scénario d’analyse du parcours de déviation des appels](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+
