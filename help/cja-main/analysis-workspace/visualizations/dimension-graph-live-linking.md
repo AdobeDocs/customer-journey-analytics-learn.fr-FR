@@ -26,4 +26,4 @@ ht-degree: 8%
 
 Lorsque vous ajoutez ou créez une visualisation à partir d’une valeur de dimension, vous pouvez sélectionner différentes valeurs de dimension et modifier le graphique de manière dynamique ou verrouiller la visualisation pour qu’elle reste sur une dimension ou un emplacement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492123/?captions=fre_fr&learn=on&enablevpops)
