@@ -20,4 +20,4 @@ ht-degree: 46%
 
 Utilisez les listes déroulantes de composants pour effectuer un choix dans une liste de composants compatibles afin de créer vos visualisations. Vous pouvez également créer de nouveaux composants directement à partir de la liste déroulante si vous ne trouvez pas ce dont vous avez besoin. Ces espaces continuent de fonctionner comme des zones de dépôt si vous avez un cas dʼutilisation plus avancé.
 
->[!VIDEO](https://video.tv.adobe.com/v/3493204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3493206/?captions=fre_fr&learn=on&enablevpops)
