@@ -20,4 +20,4 @@ ht-degree: 95%
 
 La personnalisation des légendes de vos visualisations, également appelée modification des libellés de série, est un excellent moyen de rendre vos visualisations plus compréhensibles pour tous ceux qui consultent les rapports.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495835/?captions=fre_fr&learn=on&enablevpops)
