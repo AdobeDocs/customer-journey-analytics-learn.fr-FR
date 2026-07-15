@@ -24,4 +24,4 @@ ht-degree: 78%
 
 Dans cette vidéo, découvrez comment les tableaux et les visualisations sont liés par le biais de paramètres et comment configurer ces paramètres pour différents cas d’utilisation d’analyse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495948/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495950/?captions=fre_fr&learn=on&enablevpops)
