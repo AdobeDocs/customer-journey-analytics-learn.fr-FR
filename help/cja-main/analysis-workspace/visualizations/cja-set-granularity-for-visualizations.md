@@ -22,4 +22,4 @@ Ajustez facilement l’affichage de vos données à l’aide du sélecteur de gr
 
 Une vidéo intégrée ci-dessous montre les étapes à suivre pour utiliser efficacement cette fonctionnalité.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495991/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495993/?captions=fre_fr&learn=on&enablevpops)
