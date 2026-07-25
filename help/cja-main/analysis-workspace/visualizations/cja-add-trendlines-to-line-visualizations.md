@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Sous Paramètres de visualisation, vous pouvez choisir d’ajouter une ligne de tendance à votre série de lignes, afin de dépeindre un motif plus clair dans les données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496122/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496133/?captions=fre_fr&learn=on&enablevpops)
