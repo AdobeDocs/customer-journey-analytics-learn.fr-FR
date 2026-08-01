@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Les classifications en ligne pour CJA vous permettent d’effectuer des modifications à la volée directement dans Analysis Workspace en mettant à jour une valeur dans un tableau ou en regroupant plusieurs valeurs. Elle apporte une petite mais puissante tranche de fonctionnalités Champs dérivés directement dans l’expérience Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496552/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496554/?captions=fre_fr&learn=on&enablevpops)
