@@ -22,7 +22,7 @@ Garder les données client cohérentes entre les entrepôts de données cloud et
 
 Data Mirror simplifie ce processus en reflétant automatiquement les modifications des entrepôts de données cloud pris en charge, tels que Snowflake, BigQuery et Databricks, dans CJA. En réduisant l’effort manuel et en maintenant l’alignement des systèmes, les équipes peuvent s’assurer que les données utilisées pour l’analyse restent à jour. Cette vidéo explique le fonctionnement de Data Mirror et décrit les étapes à suivre pour le configurer dans Adobe Experience Platform.
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}.
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497061/?learn=on)
 
