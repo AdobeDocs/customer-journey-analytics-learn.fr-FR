@@ -24,5 +24,5 @@ Data Mirror simplifie ce processus en reflétant automatiquement les modificatio
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497061/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497064/?captions=fre_fr&learn=on)
 

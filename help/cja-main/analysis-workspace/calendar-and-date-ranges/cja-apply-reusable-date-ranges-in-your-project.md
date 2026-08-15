@@ -29,4 +29,4 @@ ht-degree: 0%
 
 L’utilisation de dates et de périodes personnalisées dans votre produit peut vous aider à vous concentrer sur les informations qui racontent l’histoire de vos données. Dans cette vidéo, nous explorons quelques endroits où vous pouvez utiliser des périodes dans votre projet Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497171/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497175/?captions=fre_fr&learn=on&enablevpops)
