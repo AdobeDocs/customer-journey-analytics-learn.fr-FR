@@ -22,4 +22,4 @@ Découvrez comment utiliser l’[!UICONTROL analyse des sous-événements] dans 
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497077?captions=fre_fr&learn=on)
