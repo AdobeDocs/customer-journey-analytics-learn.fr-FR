@@ -28,4 +28,4 @@ ht-degree: 71%
 
 Découvrez les paramètres des tableaux à structure libre dans Analysis Workspace et comment ils affectent les données qui s’y trouvent.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497648/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497652/?captions=fre_fr&learn=on&enablevpops)

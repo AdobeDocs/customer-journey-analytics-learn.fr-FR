@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Utilisez des comparaisons de périodes dans votre projet pour analyser les performances.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497504/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497517/?captions=fre_fr&learn=on&enablevpops)
