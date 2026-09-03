@@ -8,8 +8,10 @@ thumbnail: 32114.jpg
 kt: 4447
 role: User
 level: Beginner
+last-substantial-update: 2026-09-02T00:00:00.000Z
 exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
-TQID: https://experienceleague.adobe.com/ejOtI-JK1Mbv3BDfjfZ9yTwR09BxuhpS-0ECnNMFaaY
+autotag-review: '2026-09-02T19:50:36.077Z'
+TQID: 'https://experienceleague.adobe.com/Donm9ZlU19-uGOFtsOPp3CYYXOTxpT9MKhR9YRNeUwc'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
 feature_v2:
@@ -23,10 +25,12 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+topic_v2:
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+source-git-commit: 3ae8571ff40114cca484dc94dfae1530e1bfb036
 workflow-type: tm+mt
-source-wordcount: 81
-ht-degree: 17%
+source-wordcount: 70
+ht-degree: 20%
 
 ---
 
@@ -34,8 +38,5 @@ ht-degree: 17%
 
 Les segments identifient des sous-ensembles de visiteurs ou de clients en fonction d’attributs et d’événements, tels que les visiteurs du site web ou l’engagement du centre d’appels. Découvrez les composants principaux du créateur de segments dans Customer Journey Analytics. Pour plus d’informations sur Customer Journey Analytics, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
 
->[!NOTE]
->
-> Les « [!UICONTROL &#x200B; Filtres &#x200B;] » ont été renommés « [!UICONTROL &#x200B; Segments &#x200B;] » dans l’interface de Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36079/?captions=fre_fr&quality=12&learn=on)
