@@ -37,4 +37,4 @@ ht-degree: 9%
 
 Découvrez comment comparer et visualiser des segments lorsqu’ils sont utilisés en tant que dimensions dans des projets Analysis Workspace. Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-components/segments/seg-create){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449064/?captions=fre_fr&learn=on&quality=12)
