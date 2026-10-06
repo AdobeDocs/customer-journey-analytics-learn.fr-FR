@@ -32,7 +32,7 @@ ht-degree: 15%
 ---
 # Entonnoir
 
-Découvrez comment **** dans Customer Journey Analytics fournit une représentation visuelle d’un parcours utilisateur critique dans votre produit et vous aide à déterminer les points de friction.
+Découvrez comment **&#x200B;**&#x200B;dans Customer Journey Analytics fournit une représentation visuelle d’un parcours utilisateur critique dans votre produit et vous aide à déterminer les points de friction.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 
