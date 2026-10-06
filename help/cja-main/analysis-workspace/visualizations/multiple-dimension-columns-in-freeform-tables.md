@@ -32,6 +32,6 @@ ht-degree: 19%
 ---
 # Plusieurs colonnes de dimensions dans les tableaux à structure libre
 
-Rendez vos tableaux à structure libre encore plus performants grâce à la fonctionnalité Colonnes de dimensions multiples dans CJA. Outre les répartitions de dimension standard, vous pouvez analyser les données de dimension côte à côte pour créer des paires relationnelles afin de mieux représenter et comprendre vos données. La fonctionnalité de tri avancé offre également plus de flexibilité pour manipuler vos tableaux afin d’afficher vos données comme vous le souhaitez. Pour plus d’informations, consultez la [documentation.](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-multidimensions){target="_blank"}
+Rendez vos tableaux à structure libre encore plus performants grâce à la fonctionnalité Colonnes de dimensions multiples dans CJA. Outre les répartitions de dimension standard, vous pouvez analyser les données de dimension côte à côte pour créer des paires relationnelles afin de mieux représenter et comprendre vos données. La fonctionnalité de tri avancé offre également plus de flexibilité pour manipuler vos tableaux afin d’afficher vos données comme vous le souhaitez. Pour plus d’informations, consultez la [documentation.](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-multidimensions){target="_blank"}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479514/?learn=on&enablevpops)
