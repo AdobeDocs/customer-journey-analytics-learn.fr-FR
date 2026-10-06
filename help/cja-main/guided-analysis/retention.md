@@ -1,6 +1,6 @@
 ---
 title: Rétention
-description: Explorez la rétention dans Customer Journey Analytics. Découvrez comment utiliser les événements de début et de retour pour mesurer efficacement l’engagement et la rétention de la clientèle.
+description: Explorez la rétention dans Customer Journey Analytics. Découvrez comment utiliser les événements de début et de retour pour mesurer efficacement l’engagement des utilisateurs et la rétention.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -9,28 +9,36 @@ last-substantial-update: 2023-06-25T00:00:00.000Z
 jira: KT-15097
 thumbnail: 3430503.jpeg
 exl-id: 32cd06ae-d09b-48b8-8bfe-ba8e7096d50b
-TQID: https://experienceleague.adobe.com/OTlm0n7J5GDe2v85sQ0dDazBsWEhAWJnJrsYo7nkdjE
+TQID: 'https://experienceleague.adobe.com/OTlm0n7J5GDe2v85sQ0dDazBsWEhAWJnJrsYo7nkdjE'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+feature_v2:
+  - id: b3197353-f189-4932-8378-3f3bc40e6071
+    internal-label: Data management
+subfeature_v2:
+  - id: bfa38d8a-4e93-4fd8-8cd8-e72c589e3af8
+    internal-label: Guided analysis
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Insights
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 120
+source-wordcount: '120'
 ht-degree: 55%
-
 ---
-
 # Rétention
 
 Explorez la **rétention** dans Customer Journey Analytics. Découvrez comment utiliser les événements de début et de retour pour mesurer efficacement l’engagement et la rétention de la clientèle.
 
 Découvrez comment utiliser les événements de début et de retour pour mesurer efficacement l’engagement et la rétention de la clientèle. Le tutoriel explique également comment ajuster les paramètres de rétention pour différents modèles d’entreprise, que vous exécutiez un site web de voyage, une plateforme d’e-commerce ou un outil de productivité. Obtenez des conseils pratiques sur l’utilisation des données de rétention pour optimiser l’adéquation du marché des produits et stimuler l’interaction client.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435780/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430503/?learn=on)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/guided-analysis/retention/retention-rates){target="_blank"}.
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/guided-analysis/retention/retention-rates){target="_blank"}.
