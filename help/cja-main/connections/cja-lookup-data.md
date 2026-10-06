@@ -46,4 +46,4 @@ Grâce aux recherches CJA appliquées aux données de recherche et de profil, le
 
 Pour consulter la documentation détaillée, consultez les sections [Types de jeux de données](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=fr#dataset-types?lang=fr){target="_blank"} et [Ajouter des données de niveau compte en tant que jeu de données de recherche](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=fr){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449872/?captions=fre_fr&learn=on)

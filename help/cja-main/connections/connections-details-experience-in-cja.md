@@ -43,4 +43,4 @@ ht-degree: 100%
 
 Le gestionnaire de connexions vous permet de vérifier le statut de l’ingestion des jeux de données de votre connexion. Cette interface vous informe également lorsque des données sont disponibles pour commencer l’analyse dans Workspace. Découvrez comment identifier les incohérences de données dues à une configuration incorrecte, gérer les dates d’import de données et supprimer des jeux de données des connexions.
 
->[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345571/?captions=fre_fr&quality=12&learn=on)

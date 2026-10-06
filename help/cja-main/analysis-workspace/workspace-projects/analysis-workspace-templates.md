@@ -47,4 +47,4 @@ ht-degree: 40%
 
 Vous ne voulez pas recommencer à zéro ? Découvrez comment commencer votre analyse dans Workspace avec un modèle Workspace. Vous pouvez choisir un modèle présélectionné par Adobe ou créer le vôtre afin de disposer d’un modèle personnalisé pour votre organisation. Recherchez uniquement le modèle approprié dans une vue Carte ou Colonne en fonction de vos préférences. Pour consulter la documentation détaillée, voir [Création et gestion de modèles](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=fr){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443169/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443172/?captions=fre_fr&learn=on&enablevpops)

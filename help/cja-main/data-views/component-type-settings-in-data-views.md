@@ -45,4 +45,4 @@ ht-degree: 100%
 
 Lorsque vous configurez des composants dans une vue de données dans Customer Journey Analytics, vous pouvez choisir de définir un champ comme mesure ou comme dimension. Dans de nombreux cas, les chaînes doivent être des dimensions et les nombres doivent être des mesures. Cependant, de très bons cas d’utilisation invitent à changer cela. Regardez !
 
->[!VIDEO](https://video.tv.adobe.com/v/333112/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412935/?captions=fre_fr&quality=12&learn=on)

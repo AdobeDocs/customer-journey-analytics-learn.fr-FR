@@ -45,4 +45,4 @@ ht-degree: 100%
 
 Chaque dimension doit comporter un paramètre d’affectation (pour déterminer quelle valeur reçoit le crédit de la conversion) et un paramètre d’expiration (durée de conservation de la valeur) afin que le système sache comment attribuer une valeur aux valeurs de dimension. De même, et de façon collaborative, les mesures doivent également disposer d’un modèle d’attribution et d’un intervalle de recherche en amont définis. Cette vidéo vous guide tout au long des étapes nécessaires pour définir ces paramètres importants.
 
->[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412953/?captions=fre_fr&quality=12&enable10seconds=on&speedcontrol=on)
