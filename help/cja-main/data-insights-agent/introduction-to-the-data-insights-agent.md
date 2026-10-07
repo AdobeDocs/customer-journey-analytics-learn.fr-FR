@@ -1,6 +1,6 @@
 ---
-title: Présentation de l’agent Data Insights
-description: Découvrez l’agent Data Insights dans Customer Journey Analytics. Cette solution basée sur l’IA résout les goulots d’étranglement des entreprises en fournissant des informations instantanées et transparentes aux personnes responsables du marketing.
+title: Présentation de l’agent Data Insights
+description: Découvrez l’agent Data Insights dans Customer Journey Analytics. Cette solution basée sur l’IA résout les goulots d’étranglement des entreprises en fournissant des informations instantanées et transparentes aux personnes responsables du marketing.
 feature: AI Tools
 role: Leader, User
 level: Beginner
@@ -8,26 +8,35 @@ duration: 222
 last-substantial-update: 2025-06-12T00:00:00.000Z
 jira: KT-18320
 exl-id: 5842ce87-aa01-4ea6-ae56-cfd49bef4fa6
-TQID: https://experienceleague.adobe.com/7gQ6ONpr450MIwBR2pdKTqvMdXr7QeROckhlyIb4rc0
+TQID: 'https://experienceleague.adobe.com/7gQ6ONpr450MIwBR2pdKTqvMdXr7QeROckhlyIb4rc0'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+feature_v2:
+  - id: ae3aff40-b2f6-4df1-8c01-0b0720d1510f
+    internal-label: AI Tools
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Insights
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 202
+source-wordcount: '290'
 ht-degree: 100%
-
 ---
-
 # Présentation de l’[!DNL Data Insights Agent]
 
 L’[!DNL Data Insights Agent], optimisé par Adobe Experience Platform Agent Orchestrator, révolutionne l’orchestration de l’expérience clientèle pour les spécialistes du marketing et les utilisateurs et utilisatrices professionnels. Il tire parti de l’IA générative pour fournir des informations personnalisées en temps réel par le biais de requêtes en langage naturel, éliminant ainsi les goulots d’étranglement traditionnels des analystes.
@@ -76,7 +85,7 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Utiliser l’agent Data Insights
+## Utiliser l’agent Data Insights
 
 <!-- 
 CARDS
@@ -89,8 +98,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="use-the-data-insights-agent.md" title="Utiliser l’agent Data Insights" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463921/?captions=fre_fr&format=jpeg&nocache=1742338375674" alt="Utiliser l’agent Data Insights"
+                    <a href="use-the-data-insights-agent.md" title="Utiliser l’agent Data Insights" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463921/?captions=fre_fr&format=jpeg&nocache=1742338375674" alt="Utiliser l’agent Data Insights"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -98,7 +107,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="use-the-data-insights-agent.md" target="_blank" rel="referrer" title="Utiliser l’agent Data Insights">Utiliser l’agent Data Insights</a>
+                        <a href="use-the-data-insights-agent.md" target="_blank" rel="referrer" title="Utiliser l’agent Data Insights">Utiliser l’agent Data Insights</a>
                     </p>
                     <p class="is-size-6">Analysez les données à l’aide de prompts en langage naturel pour générer des tableaux à structure libre, des visualisations et des comparaisons de données.</p>
                 </div>
