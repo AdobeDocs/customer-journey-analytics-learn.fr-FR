@@ -55,4 +55,4 @@ Découvrez comment répondre rapidement et facilement à des besoins professionn
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505750/?captions=fre_fr&learn=on)
